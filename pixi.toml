@@ -1,0 +1,14 @@
+[project]
+authors = ["Agustin Corbat <agustin.corbat@gmail.com>"]
+channels = ["conda-forge"]
+name = "A_Corbat_CV"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.10"
+
+[pypi-dependencies]
+rendercv = { version = ">=2.2, <3", extras = ["full"] }
