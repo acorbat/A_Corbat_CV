@@ -1,0 +1,186 @@
+Ph.D. in Physical Sciences:
+  Biology of Molecular Systems:
+    grade: 10 (ten)
+    duration: 60 hours
+  Optical and Fluorescence Microscopy:
+    grade: 10 (ten)
+    duration: 90 hours
+  Fourier Optics:
+    grade: Approved
+    duration: 64 hours
+  Machine Learning:
+    grade: 9 (nine)
+    duration: 96 hours
+  Electronics Laboratory:
+    grade: 10 (ten)
+    duration: 96 hours
+'"Licenciatura" in Physical Sciences':
+  Math 1:
+    grade: 7 (seven)
+    duration: 160 hours
+  Physics 1:
+    grade: 8 (eight)
+    duration: 160 hours\\ \hline%\setlength{\tabcolsep}{10pt}
+  Math 3:
+    grade: 9 (nine)
+    duration: 160 hours
+  Laboratory 1:
+    grade: 10 (ten)
+    duration: 96 hours
+  Physics 3:
+    grade: 9 (nine)
+    duration: 160 hours
+  Math 2:
+    grade: 10 (ten)
+    duration: 160 hours
+  Lineal Algebra:
+    grade: Approved
+    duration: 160 hours
+  Physics 2:
+    grade: 9 (nine)
+    duration: 160 hours
+  Math 4:
+    grade: 10 (ten)
+    duration: 160 hours
+  Physics 4:
+    grade: 9 (nine)
+    duration: 160 hours
+  Laboratory 2:
+    grade: 9 (nine)
+    duration: 96 hours
+  Numerical Calculus:
+    grade: 9 (nine)
+    duration: 160 hours
+  Laboratory 3:
+    grade: 10 (ten)
+    duration: 96 hours
+  Topics of Molecular Biophysics:
+    grade: 10 (ten)
+    duration: 80 hours
+  Classical Mechanics:
+    grade: 9 (nine)
+    duration: 160 hours
+  Laboratory 4:
+    grade: 9 (nine)
+    duration: 96 hours
+  Laboratory 5:
+    grade: 10 (ten)
+    duration: 96 hours
+  Theoretical Physics 2:
+    grade: 10 (ten)
+    duration: 160 hours
+  Structure of Matter 1:
+    grade: 10 (ten)
+    duration: 80 hours
+  Theoretical Physics 3:
+    grade: 9 (nine)
+    duration: 160 hours
+  Biophysics:
+    grade: 10 (ten)
+    duration: 160 hours
+  Laboratory 6:
+    grade: 10 (ten)
+    duration: 192 hours
+  Structure of Matter 3:
+    grade: 10 (ten)
+    duration: 80 hours
+  Laboratory 7:
+    grade: 10 (ten)
+    duration: 192 hours
+  Theoretical Physics 1:
+    grade: 10 (ten)
+    duration: 160 hours
+  Experimental Uncertainties and Error Theory:
+    grade: 9 (nine)
+    duration: 160 hours
+  Structure of Matter 2:
+    grade: 7 (seven)
+    duration: 80 hours
+  Structure of Matter 4:
+    grade: 9 (nine)
+    duration: 80 hours
+  Final Thesis:
+    grade: 10 (ten)
+    duration: 320 hours
+Medicine:
+  Year 1:
+    grade: --
+    duration: 780 hours
+  General Histology:
+    grade: 8 (eight)
+    duration: 60 hours
+  Biochemistry I:
+    grade: 9 (nine)
+    duration: 120 hours
+  Anatomy I:
+    grade: 8 (eight)
+    duration: 130 hours
+  Theology I:
+    grade: 8 (eight)
+    duration: 35 hours
+  Antroplogy:
+    grade: 7 (seven)
+    duration: 55 hours
+  Phisician Patient Relationship:
+    grade: 8 (eight)
+    duration: 50 hours
+  Anatomy II:
+    grade: 9 (nine)
+    duration: 150 hours
+  Special Histology:
+    grade: 9 (nine)
+    duration: 60 hours
+  Year 2:
+    grade: --
+    duration: 807 hours
+  Biostatistics:
+    grade: 8 (eight)
+    duration: 60 hours
+  Physiology I:
+    grade: 8 (eight)
+    duration: 160 hours
+  Inmunology:
+    grade: 4 (four)
+    duration: 40 hours
+  Ethics:
+    grade: 9(nine)
+    duration: 62 hours
+  Molecular and Cellular Medicine:
+    grade: 7 (seven)
+    duration: 120 hours
+  Microbiology:
+    grade: 6 (six)
+    duration: 140 hours
+  Physiology II:
+    grade: 4 (four)
+    duration: 150 hours
+  Phisician Patient Relationship II:
+    grade: 10 (ten)
+    duration: 35 hours
+  Psychology:
+    grade: 6 (six)
+    duration: 40 hours
+  Year 3:
+    grade: --
+    duration: 682 hours
+  Epidemiology:
+    grade: 10 (ten)
+    duration: 70 hours
+  Pharmacology I:
+    grade: 5 (five)
+    duration: 80 hours
+  Anatomic Pathology:
+    grade: Approved
+    duration: 240 hours
+  Genetics:
+    grade: 9 (nine)
+    duration: 70 hours
+  Pathophysiology:
+    grade: Approved
+    duration: 150 hours
+  Theology II:
+    grade: Approved
+    duration: 32 hours
+  Medical Informatics:
+    grade: 9 (nine)
+    duration: 40 hours
