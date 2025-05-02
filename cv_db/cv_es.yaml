@@ -1,0 +1,695 @@
+Resumen: {}
+Educación:
+  Educación Universitaria:
+    Doctorado en Ciencias Físicas:
+      date: 2016--2021
+      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+      description:
+      - Microespectroscopía aplicada a la cuantificación y modelado de la propagación
+        de señales en redes biológicas
+      - 'Director: Hernán E. Grecco, Nota: Sobresaliente'
+    Licenciatura en Ciencias Físicas:
+      date: 2011--2016
+      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+      description:
+      - 'Promedio: **9,32**'
+    Medicina, Ciclo Troncal Completo:
+      date: 2008--2010
+      location: Facultad de Ciencias Biomédicas, Hospital Universitario Austral. Beca
+        al Mérito
+      description:
+      - 'Promedio: **7,48**'
+  Educación Secundario:
+    Bachiller bilingüe Modalidad “Economía y Gestión de las organizaciones”:
+      date: 2005--2007
+      location: 'Colegio St. Matthew`s College North, Promedio: **8,31**'
+      description:
+      - Egresado con $2^\circ$ mayor promedio de la promoción.
+Experiencia:
+  Analista de bioimágenes:
+    date: 2024--actual
+    location: BioImage Informatics Facility(BIIF), ScilifeLab y National Bioinformatics
+      Infrastructure Sweden (NBIS)
+    description:
+    - Proveer soporte y desarrollar algoritmos para análisis de imágenes, así como
+      también formación a través de supervisión y cursos
+    - Uppsala Uiversitet, Uppsala, Suecia.
+  Investigación:
+    Postdoctorado en biología del desarrollo:
+      date: 2022--2024
+      location: Departmento de Biología Celular y Molecular, Karolinska Institutet
+      description:
+      - Afinando Notch y mecánica para ingeniería de destino celular
+      - 'Directora: Dr. Emma R. Andersson.'
+      - 'Marie Skłodowska-Curie Actions: Sello de Excelencia.'
+      - Subsidiado por Vetenskapsrådet (Ministerio de Ciencia de Suecia).
+    Postdoctorado en Ciencias Físicas:
+      date: 2021--2022
+      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+      description:
+      - Desarrollo de técnicas de espectroscopía de correlación aplicadas al estudio
+        de la propagación de señales intra e intercelulares
+      - 'Director: Hernán E. Grecco'
+      - Beca doctoral de CONICET 2016-2021
+    Doctorado en Ciencias Físicas:
+      date: 2016--actual
+      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+      description:
+      - Desarrollo de técnicas de espectroscopía de correlación aplicadas al estudio
+        de la propagación de señales intra e intercelulares
+      - 'Director: Hernán E. Grecco'
+      - Beca doctoral de CONICET 2016-2021
+    Pasantía:
+      date: '2010'
+      location: 'Proyecto: Células madres mesenquimales de médula ósea para regeneración
+        y transferencia de genes terapéuticos en la cirrosis hepática, Dr. Jorge B.
+        Aquino'
+      description:
+      - Laboratorio de Terapia Génica,Hospital Universitario Austral
+    Participación en Proyecto:
+      date: 2016--actual
+      location: 'PICT-2014-3744, Correlación y causalidad: microscopía multiparamétrica
+        de señales celulares'
+      description:
+      - En carácter de becario doctoral
+    Beca Estímulo:
+      date: 2014-2016
+      location: 'Proyecto: Caracterización de nanoemisores para terapia fotodinámica
+        cuantificando la respuesta apoptótica mediante microscopía por anistropía
+        de fluorescencia, Dr. Hernán E. Grecco'
+      description:
+      - Laboratorio de Electrónica Cuántica, Facultad de Ciencias Exactas, U.B.A.
+  Docencia y Formación:
+    Profesor invitado:
+      date: '2024'
+      location: Center for Cellular Imaging, Universidad de Gotemburgo
+      description:
+      - Curso intensivo de 1 semana
+      - '**Introducción al análisis de bioimágenes**: Curso teórico y práctico sobre
+        análisis de imágenes orientado a biología.'
+    Profesor invitado y facilitador:
+      date: '2025'
+      location: Live Cell Imaging, Karolinska Institutet
+      description:
+      - Curso intensivo de 3 semanas
+      - '**Microscopy: Improve Your Imaging Skills - From Sample Preparation to Image
+        Analysis**: Curso teórico y práctico sobre diseño experimental en microscopía.'
+      - \href{https://www.youtube.com/watch?v=tqiq2wKrMLY}{Link a video
+    Ayudante:
+      date: '2024'
+      location: National Bioinformatics Infrastructure Sweden, Bioimage Informatics,
+        Uppsala Universitet
+      description:
+      - Curso intensivo de 1 semana
+      - '**Neural networks and Deep Learning**: Curso teórico y práctico sobre diseño
+        de redes neurales.'
+    Ayudante (Facilitador):
+      date: '2024'
+      location: Live Cell Imaging Facility, Karolinska Institutet
+      description:
+      - Curso intensivo de 3 semanas
+      - '**Microscopy: Improve Your Imaging Skills - From Sample Preparation to Image
+        Analysis**: Curso teórico y práctico sobre diseño experimental en microscopía.'
+    Supervisión de Estudiante de Master:
+      date: '2024'
+      location: Departamento de Biología Celular y Molecular, Karolinska Institutet
+      description:
+      - Proyecto de 4 meses
+      - 'Exploring liver embryonic progenitors and at what extend they can be manipulated:
+        Analysis of GSK126 effects on the differentiation of liver progenitor cells
+        in vitro'
+    Supervisión de Estudiante:
+      date: 2023--actual
+      location: Departamento de Biología Celular y Molecular, Karolinska Institutet
+      description:
+      - Estudiante de Bachelor
+      - Su proyecto consistía en hacer clearing de cortes gruesos de hígado y luego
+        adquirir y analizar imágenes de microscopía.
+    Jefe de Trabajos Prácticos:
+      date: 2019-Curso de verano
+      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+      description:
+      - Dedicación Simple, 20hs. semanales
+      - Laboratorio 3
+    Ayudante Primera:
+      date: 2017-2021
+      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+      description:
+      - Dedicación Simple, 10hs. semanales
+      - Instrumentación y Control\\Laboratorio 5\\Laboratorio 3\\Microscopía Óptica
+        y de Fluorescencia I
+      - Física 1 para Biólogos y Geólogos
+    Ayudante Segunda:
+      date: '2010'
+      location: Medicina Celular y Molecular, Facultad de Ciencias Biomédicas
+      description:
+      - Hospital Universitario Austral
+      - 10 hs. semanales
+    Taller de Programación en Python y \LaTeX:
+      date: 2014--2015
+      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+      description:
+      - 3 clases de 3 hs. una vez por cuatrimestre
+      - Organización, difusión y presentación del Taller
+    Instituto Profesores Particulares:
+      date: '2013'
+      location: Profesor Particular, Octubre y Noviembre
+      description: []
+    Taller de Programación en \LaTeX:
+      date: '2013'
+      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+      description:
+      - en ambos cuatrimestres
+      - Organización, difusión y presentación del Taller
+    Clases Particulares:
+      date: 2011-2013
+      location: 'Clases Particulares de: Física, Matemática, Química, Biología, Biofísica.
+        \newline, Nivel Primario, Secundario y Universitario.'
+      description: []
+  Profesionales:
+    Servicio Técnico de Alto Nivel:
+      date: '2019'
+      location: Colaboración con Y-Tec, Petrografía Digital
+      description:
+      - ST4407
+Producción:
+  Publicaciones:
+    Ectoderm barcoding reveals neural and cochlear compartmentalization:
+      date: '2025'
+      journal: Science
+      authors: Sandra de Haan, Jingyan He, **Agustin A. Corbat**, Lenka Belicova,
+        Michael Ratz, Elin Vinsland, Sten Linnarsson, Jonas Frisén, Matthew W. Kelley,
+        Emma R. Andersson
+      description:
+      - 'doi: https://doi.org/10.1126/science.adq9248'
+    The non-canonical Smoothened-AMPK axis regulates Smaug1 biomolecular condensates:
+      date: '2025'
+      journal: Journal of Cell Science
+      authors: María G. Thomas, Ana J. Fernández-Alvarez, Macarena Giménez, Francisco
+        C. Aristarain, Lucas H. Cozza, Jerónimo Pimentel, João Pessoa, Malena L. Pascual,
+        Lara Boscaglia, Martín Habif, **Agustín Corbat**, Pablo E. La Spina, Tomás
+        Peters, Diego M. Bustos, Maria Carmo-Fonseca, Hernán E. Grecco, Graciela L.
+        Boccaccio
+      description:
+      - 'doi: https://doi.org/10.1242/jcs.263433'
+    Jag1 represses Notch activation in lateral supporting cells and inhibits an outer hair cell fate in the medial cochlea:
+      date: '2024'
+      journal: Development
+      authors: Sandra de Haan, **Agustin Corbat**, Christopher R. Cederroth, Lisa
+        G. Autrum, Simona Hankeova, Elizabeth C. Driver, Barbara Canlon, Matthew W.
+        Kelley, Emma R. Andersson
+      description:
+      - 'Year: 2024; doi: https://doi.org/10.1242/dev.202949'
+    Molten Globule Driven and Self-downmodulated Phase Separation of a Viral Factory Scaffold:
+      date: '2023'
+      journal: Journal of Molecular Biology
+      authors: Mariano Salgueiro, Gabriela Camporeale, Araceli Visentin, Martin Aran,
+        Leonardo Pellizza, Sebastián A. Esperante, **Agustín Corbat**, Hernán Grecco,
+        Belén Sousa, Ramiro Esperón, Silvia S. Borkosky, Gonzalo de Prat-Gay
+      description:
+      - 'Year: 2023; doi: https://doi.org/10.1016/j.jmb.2023.168153'
+    Smaug1 membrane-less organelles respond to AMPK and mTOR and affect mitochondrial function:
+      date: '2021'
+      journal: Journal of Cell Science
+      authors: Ana J. Fernández-Alvarez, María Gabriela Thomas, Malena L. Pascual,
+        Martín Habif, Jerónimo Pimentel, **Agustin A. Corbat**, João P. Pessoa, Pablo
+        E. La Spina, Lara Boscaglia, Anne Plessis, Maria Carmo-Fonseca, Hernán E.
+        Grecco, Marta Casado, Graciela L. Boccaccio
+      description:
+      - 'Año: 2021; doi: https://doi.org/10.1242/jcs.253591'
+    An Integrative Apoptotic Reaction Model for extrinsic and intrinsic stimuli:
+      date: '2021'
+      journal: BioRxiv
+      authors: '**Agustin A. Corbat**, Mauro Silberberg, Hernán E. Grecco'
+      description:
+      - 'Año: 2021'
+    'CASPAM: a triple modality biosensor for multiplexed imaging of caspase network activity':
+      date: '2021'
+      journal: bioRxiv
+      authors: Martín Habif*, **Agustin A. Corbat***, Mauro Silberberg, Hernán E.
+        Grecco
+      description:
+      - ACS Sensors, *Autores contribuyeron equitativamente
+      - 'Año: 2021; doi: https://doi.org/10.1101/2021.03.10.434623'
+    Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy:
+      date: '2018'
+      journal: REDOX Biology
+      authors: '**Agustin A. Corbat**, Klaus C. Schuermann, Piotr Liguzinski, Yvonne
+        Radon, Philippe I.H. Bastiaens, Peter J. Verveer, Hernán E. Grecco'
+      description:
+      - Publicado
+      - 'Año: 2018; Volumen: 19; Emisión: Junio; Páginas: 210-217; doi: 10.1016/j.redox.2018.07.023'
+  Posters y Presentaciones Orales:
+    Demostración de TissUUmaps:
+      date: '2024'
+      event: Imaging The Future
+      authors: '**Corbat, Agustin**'
+      description:
+      - Presentación de software
+      - Austin, Texas, Estados Unidos
+    The Three Gears of Bioscience Projects:
+      date: '2024'
+      event: Imaging The Future
+      authors: '**Corbat, Agustin**'
+      description:
+      - Presentación de póster
+      - Austin, Texas, Estados Unidos, \\ \href
+      - https://figshare.com/articles/poster/The_Three_Gears_of_Bioscience_Projects/27725865?file=50481666
+      - Link
+    On Navigating the archipelago:
+      date: '2024'
+      event: GloBIAS in-person Workshop
+      authors: '**Corbat, Agustin**'
+      description:
+      - Presentación
+      - Universidad de Gotenburgo, Suecia \\ \href
+      - https://github.com/GloBIAS-BioimageAnalysts/workshop24_Gothenburg/blob/main/Training_and_Education_Corbat_On_navigating.pptx
+      - Diapositivas
+    Interfacing with other networks:
+      date: '2024'
+      event: GloBIAS in-person Workshop
+      authors: '**Corbat, Agustin**'
+      description:
+      - Presentación
+      - Universidad de Gotenburgo, Suecia \\ \href
+      - https://docs.google.com/presentation/d/13qqOv7V2_8JLehdJA6WURrcpjyz1M2qC/edit
+      - Diapositivas
+      - https://docs.google.com/document/d/1miWe3rwJYZl7-Edv8yOys7_iOyKxhlioFZdh9h6Qu-8/edit?tab=t.0
+      - Documento
+    'Multiplexed tissue imaging: tools and approaches':
+      date: '2024'
+      event: 'I2K: Images to Knowledge'
+      authors: '**Corbat, Agustin**; Klemm, Anna; Ballosera Navarro, Frederic; Windhager,
+        Jonas; Lidayová, Kristína'
+      description:
+      - Taller de 90 minutos
+      - Human Technopole, Milán, Italia
+    Bioimage Informatics Facility:
+      date: '2024'
+      event: SciLifeLab Spatial Biology Science Summit
+      authors: '**Corbat, Agustin**'
+      description:
+      - Presentación de póster
+      - Uppsala Universitet
+    ? Unravelling apoptotic signalling cascade by co-imaging extrinsic, intrinsic
+      and effector caspase activity by fluorescence anisotropy microscopy
+    : date: '2019'
+      event: Whole Cell Modelling Summer School 2019, EMBO Workshop
+      authors: Corbat, Agustín A.; Grecco, Hernán E.
+      description:
+      - Presentación de póster
+      - Barcelona, España
+    Molten Globule Driven Liquid-Liquid Phase Separation at the Center of Viral Factory Assembly:
+      date: '2020'
+      event: Biophysical Journal
+      authors: Salgueiro, Mariano; Camporeale, Gabriela; Conci, Julieta; Sousa, Belen;
+        Visentin, Araceli; Corbat, Agustin; Grecco, Hernan; de Oliveira, Guilherme
+        A.; de Prat-Gay, Gonzalo
+      description:
+      - Presentación de póster a cargo de Mariano Sagueiro
+      - San Diego, California, Estados Unidos
+    Towards a spatio-temporal map of apoptosis in fruit fly embryo:
+      date: '2018'
+      event: Taller de Biología Celular y del Desarrollo
+      authors: Moretti, Bruno; Corbat, Agustín A.; Habif, Martín; Grecco, Hernán E.
+      description:
+      - Presentación de póster a cargo de Bruno Moretti
+      - Chascomús, Buenos Aires, Argentina
+    Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy:
+      date: '2018'
+      event: Giambiagi Winter School
+      authors: Corbat, Agustín and Grecco, Hernán
+      description:
+      - Presentación de póster
+    A single plasmid based triple-modality-reporter-system for multiplexing caspase activity in individual cells:
+      date: '2018'
+      event: SPCell2018- São Paulo School in Advanced Cell Biology, University of
+        São Paulo, Brazil
+      authors: Habif, Martín; Corbat, Agustín; Grecco, Hernán
+      description:
+      - Presentación de Póster a cargo de Martín Habif
+      - Co-organizado por EMBO y American Society of Cell Biology (ASCB)
+    Integrating functional imaging with light sheet fluorescence microscopy:
+      date: '2017'
+      event: Annual Meeting of International Physics of Living Systems (iPoLS) Network
+      authors: Moretti, Bruno; Corbat, Agustín; Habif, Martín; Grecco, Hernán
+      description:
+      - Presentación de Póster
+    Modeling Caspase Dynamics from Temporal Series:
+      date: '2016'
+      event: Frontiers in Bioscience 2
+      authors: Corbat, Agustín; Grecco, Hernán
+      description:
+      - Presentación de Póster
+    A triple-modality-reporter system for multiplexing intracellular signaling at the single cell level:
+      date: '2016'
+      event: Frontiers in Bioscience 2
+      authors: Habif, Martín; Corbat, Agustín; Grecco, Hernán
+      description:
+      - Presentación de Póster
+    Modelado de experimentos de homoFRET en red de señalización de apoptosis:
+      date: '2016'
+      event: Reunión Nacional de Física N^\circ^101
+      authors: Corbat, Agustín; Grecco, Hernán
+      description:
+      - Presentación de Póster
+    Proyecto Tecnológico:
+      date: '2015'
+      event: Sistema Optomecánica Abierta
+      authors: Proyecto SOMA
+      description:
+      - 2º premio en INNOVAR 2015
+      - Dispositivos electromecánicos para experimentos de óptica confeccionados con
+        impresora 3D y controlados por una placa Arduino.
+      - http://www.lec.df.uba.ar/soma/
+    Sistema Opto-mecánico Abierto:
+      date: '2015'
+      event: Reunión Nacional de Física N^\circ^100
+      authors: Cuenca, Marina; Corbat, Agustín; von Bilderling, Catalina; Pietrasanta,
+        Lia; Grecco, Hernán
+      description:
+      - Póster
+    Open Source Fast Filter Wheel:
+      date: '2015'
+      event: Giambiagi Winter School
+      authors: Corbat, Agustín; Cuenca, Marina; von Bilderling, Catalina; Pietrasanta,
+        Lia; Grecco, Hernán
+      description:
+      - Póster
+  Divulgación Científica:
+    Semana de la Física:
+      date: '2014'
+      event: Facultad de Ciencias Exactas y Naturales, U.B.A.
+      authors: Estación de óptica
+      description:
+      - Expositor
+    Tecnópolis:
+      date: '2013'
+      event: Stand de Física
+      authors: Expositor
+      description:
+      - Septiembre y Octubre
+Cursos y Congresos:
+  Bioinformatics Swedish Week (Semana de Bioinformática Sueca:
+    date: '2023'
+    extension: 16hs
+    location: Karolinska Institutet, Estocolmo, Suecia
+    language: nglés
+    description:
+    - Asistencia y curso
+  Advanced Methods in Bioimage Analysis:
+    date: '2023'
+    extension: 50hs
+    location: Participante Virtual, Curso hibrido, EMBO, Heidelberg, Alemania
+    language: nglés
+    description:
+    - Curso
+  'GPU Programming: Why, When and How?':
+    date: '2023'
+    extension: 16hs
+    location: Online, EuroCC National Competence Centre Sweden
+    language: nglés
+    description:
+    - Curso
+  Programming Formalisms:
+    date: '2023'
+    extension: 40hs
+    location: Online, High Performance Computing Center North and UPPMAX
+    language: nglés
+    description:
+    - Curso
+  Using Python in an HPC environment:
+    date: '2023'
+    extension: 6hs
+    location: Online, High Performance Computing Center North and UPPMAX
+    language: nglés
+    description:
+    - Curso
+  Advanced Deep Learning with Transformers:
+    date: '2023'
+    extension: 16hs
+    location: Online, EuroCC National Competence Centre Sweden
+    language: nglés
+    description:
+    - Curso
+  Data-Driven Precision Medicine and Diagnostics Research Area Symposium:
+    date: '2022'
+    extension: 8hs
+    location: Estocolmo, Karolinska Institutet
+    language: nglés
+    description:
+    - Asistencia
+  Data-Driven research at Karolinska Institutet:
+    date: '2022'
+    extension: 4hs
+    location: Estocolmo, Karolinska Institutet
+    language: nglés
+    description:
+    - Asistencia
+  Stem cells, regeneration biology and regenerative medicine:
+    date: '2022'
+    extension: 2^nd^ StratRegen Conferencia, 8hs
+    location: Estocolmo, Karolinska Institutet
+    language: nglés
+    description:
+    - Asistencia
+  'Systems Biology of Cancer: Promises of Artificial Intelligence':
+    date: '2020'
+    extension: Curso de EMBO|FEBS de 40hs virtual
+    location: Institut Curie, Paris, France
+    language: nglés
+    description:
+    - Asistencia, charla seleccionada y presentación de póster
+  Image-based Systems Biology:
+    date: '2020'
+    extension: Quinto Simposio Internacional, 16hs, encuentro virtual
+    location: Hans-Knöll Institute, University of Jena, Germany
+    language: nglés
+    description:
+    - Asistencia, charla en tandem seleccionada y presentación de póster
+  Whole Cell Modelling Summer School:
+    date: '2019'
+    extension: Escuela de 50 horas
+    location: 'Centre for Genomic Regulation, European Molecular Biology Organization.
+      Barcelona, España. Lenguaje: Inglés'
+    language: Asistencia y presentación de póster
+    description:
+    - Becado por European Molecular Biology Organization y organización del curso
+  'Quantitative Imaging: From Acquisition to Analysis':
+    date: '2018'
+    extension: Escuela de 156 horas
+    location: 'Cold Spring Harbor Laboratory (CSHL). New York, USA. Lenguaje: Inglés'
+    language: Asistencia
+    description:
+    - Media beca por Helmsley Charitable Trust y Howard Hughes Medical Institute
+  School on Physics Applications in Biology:
+    date: '2018'
+    extension: Escuela de 50 hs
+    location: 'International Center for Theoretical Physics (ICTP) - South American
+      Institute for Fundamental Research (SAIFR). S\~ao Paulo, Brasil. Lenguaje: Inglés'
+    language: Asistencia
+    description:
+    - Traslado, alojamiento, mantenimiento y becado por ICTP
+  Escuela de Ciencias Informáticas:
+    date: '2017'
+    extension: Curso de 15 hs.
+    location: '"Bayesian Models in Machine Learning" Lukáš Burget. Brno University
+      of Technology. República Checa. Idioma: Inglés'
+    language: Asistencia y Presentación Monografía (Nota:8)
+    description: []
+  Simposium Frontiers in Bioscience 2:
+    date: '2016'
+    extension: Simposio
+    location: Asistencia y Presentación póster
+    description: []
+  101$^a$ Reunión Nacional de la Asociación Física Argentina:
+    date: '2016'
+    extension: Congreso
+    location: Asistencia y Presentación póster
+    description: []
+  100$^a$ Reunión Nacional de la Asociación Física Argentina:
+    date: '2015'
+    extension: Congreso
+    location: Asistencia y Presentación oral
+    description: []
+  Light and light based technologies:
+    date: '2015'
+    extension: Giambiagi XVII Winter School
+    location: Facultad de Ciencias Exactas y Naturales
+    language: U.B.A
+    description:
+    - Asistencia
+  Técnicas para manipulación de frecuencias de láser:
+    date: '2014'
+    extension: Facultad de Ciencias Exactas y Naturales
+    location: U.B.A.
+    language: Hasta 24 horas
+    description:
+    - Asistencia
+  99$^a$ Reunión Nacional de la Asociación Física Argentina:
+    date: '2014'
+    extension: Congreso
+    location: Asistencia
+    description: []
+  Information Processing in Biological Systems:
+    date: '2013'
+    extension: From cells to equations--and back
+    location: Facultad de Ciencias Exactas y Naturales
+    language: U.B.A.
+    description:
+    - Asistencia
+  Taller de Desarrollo del Comportamiento Emprendedor:
+    date: '2011'
+    extension: Empretec
+    location: Organiza con Naciones Unidas
+    description: []
+  Taller de pedagogía:
+    date: '2009'
+    extension: Facultad de Cs. Biomédicas
+    location: Hospital Universitario Austral
+    language: Asistencia con exámen
+    description: []
+Idiomas:
+  Exámenes Internacionales:
+    I.G.C.S.E.:
+      date: 2006--2007
+      description:
+      - Exámenes \newline
+    DELF A1 Expression générale:
+      date: '2005'
+      description:
+      - Exámen Internacional de Francés
+    First Certificate in English:
+      date: '2004'
+      description: []
+    Trinity Exam Grade 7:
+      date: '2001'
+      description: []
+    Key English Test:
+      date: '2000'
+      description: []
+Doctorado en Ciencias Físicas:
+  Biología de Sistemas Moleculares:
+    grade: 10(diez)
+  Microscopía óptica y de Fluorescencia I:
+    grade: 10(diez)
+  Óptica de Fourier:
+    grade: Aprobado
+  Aprendizaje Automático:
+    grade: 9 (nueve)
+  Laboratorio de Electrónica:
+    grade: 10 (diez)
+Licenciatura en Ciencias Físicas:
+  Matemática 1:
+    grade: 7 (siete)
+  Física 1:
+    grade: 8 (ocho)\\ \hline%\setlength{\tabcolsep}{10pt}
+  Matemática 3:
+    grade: 9 (nueve)
+  Laboratorio 1:
+    grade: 10 (diez)
+  Física 3:
+    grade: 9 (nueve)
+  Matemática 2:
+    grade: 10 (diez)
+  Algebra Lineal:
+    grade: no rendido
+  Física 2:
+    grade: 9 (nueve)
+  Matemática 4:
+    grade: 10 (diez)
+  Física 4:
+    grade: 9 (nueve)
+  Laboratorio 2:
+    grade: 9 (nueve)
+  Cálculo Numérico:
+    grade: 9 (nueve)
+  Laboratorio 3:
+    grade: 10 (diez)
+  Tópicos de Biofísica Molecular:
+    grade: 10 (diez)
+  Mecánica Clásica:
+    grade: 9 (nueve)
+  Laboratorio 4:
+    grade: 9 (nueve)
+  Laboratorio 5:
+    grade: 10 (diez)
+  Física Teórica 2:
+    grade: 10 (diez)
+  Estructura de la Materia 1:
+    grade: 10 (diez)
+  Física Teórica 3:
+    grade: 9 (nueve)
+  Biofísica:
+    grade: 10 (diez)
+  Laboratorio 6:
+    grade: 10 (diez)
+  Estructura de la Materia 3:
+    grade: 10 (diez)
+  Laboratorio 7:
+    grade: 10 (diez)
+  Física Teórica 1:
+    grade: 10 (diez)
+  Incertezas Experimentales y Teoría del Error:
+    grade: 9 (nueve)
+  Estructura de la Materia 2:
+    grade: 7 (siete)
+  Estructura de la Materia 4:
+    grade: 9 (nueve)
+  Tesis de Licenciatura:
+    grade: 10 (diez)
+Medicina:
+  Año 1:
+    grade: --
+  Histologia General:
+    grade: 8(ocho)
+  Bioquímica I:
+    grade: 9(nueve)
+  Anatomía I:
+    grade: 8(ocho)
+  Teología I:
+    grade: 8(ocho)
+  Antropología:
+    grade: 7(siete)
+  Relación Médico Paciente:
+    grade: 8(ocho)
+  Anatomía II:
+    grade: 9(nueve)
+  Histología Especial:
+    grade: 9(nueve)
+  Año 2:
+    grade: --
+  Bioestadística:
+    grade: 8(ocho)
+  Fisiología I:
+    grade: 8(ocho)
+  Inmunología:
+    grade: 4(cuatro)
+  Ética:
+    grade: 9(nueve)
+  Medicina Celular y Molecular:
+    grade: 7(siete)
+  Microbiología:
+    grade: 6(seis)
+  Fisiología II:
+    grade: 4(cuatro)
+  Relación Médico Paciente II:
+    grade: 10(diez)
+  Psicología:
+    grade: 6(seis)
+  Año 3:
+    grade: --
+  Epidemiología:
+    grade: 10(diez)
+  Farmacología I:
+    grade: 5(cinco)
+  Anatomía Patológica:
+    grade: 2(dos)
+  Genética:
+    grade: 9(nueve)
+  Fisiopatología:
+    grade: no rendido
+  Teología II:
+    grade: no rendido
+  Informática Médica:
+    grade: 9(nueve)
