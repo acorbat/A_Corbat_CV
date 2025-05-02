@@ -160,6 +160,14 @@ Experiencia:
       - Microscopía Óptica y de Fluorescencia I
       - Física 1 para Biólogos y Geólogos
     - name: Ayudante Segunda
+      date: '2015--2017'
+      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+      description:
+      - Dedicación Simple, 10 hs. semanales
+      - Física 1 y 2 para Biólogos y Geólogos
+      - Laboratorio 1 para Químicos
+      - Laboratorio 5
+    - name: Ayudante Segunda
       date: '2010'
       location: Facultad de Ciencias Biomédicas, Hospital Universitario Austral
       description:
@@ -173,6 +181,7 @@ Experiencia:
       - Organización, difusión y presentación del Taller
     - name: Instituto Profesores Particulares
       date: '2013'
+      location: Buenos Aires, Argentina
       description:
       - Profesor Particular, Octubre y Noviembre
     - name: Taller de Programación en \LaTeX
@@ -183,6 +192,7 @@ Experiencia:
       - Organización, difusión y presentación del Taller
     - name: Clases Particulares
       date: 2011-2013
+      location: Buenos Aires, Argentina
       description:
       - 'Clases Particulares de: Física, Matemática, Química, Biología, Biofísica.'
       - 'Nivel Primario, Secundario y Universitario.'
