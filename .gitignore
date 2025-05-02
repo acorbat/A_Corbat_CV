@@ -5,3 +5,6 @@
 
 # Python
 __pycache__/
+
+# Ignore rendercv output
+rendercv_output/
