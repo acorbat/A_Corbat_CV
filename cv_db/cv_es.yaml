@@ -197,7 +197,7 @@ Experiencia:
       - 'Clases Particulares de: Física, Matemática, Química, Biología, Biofísica.'
       - 'Nivel Primario, Secundario y Universitario.'
   Profesionales:
-    Servicio Técnico de Alto Nivel:
+    - name: Servicio Técnico de Alto Nivel
       date: '2019'
       location: Laboratorio de Electrónica Cuántica, Facultad de Ciencias Exactas y Naturales, U.B.A.
       description:
@@ -417,29 +417,29 @@ Producción:
       description:
       - Póster
   Divulgación Científica:
-    Semana de  la Física:
+    - name: Semana de  la Física
       date: '2016'
       location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      name: 'Charla: "Luces de la Semana"'
       description:
+      - 'Charla: "Luces de la Semana"'
       - Preparación
-    Semana de la  Física:
+    - name: Semana de la  Física
       date: '2015'
       location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      name: Estación de óptica
       description:
+      - Estación de óptica
       - Expositor
-    Semana de la Física:
+    - name: Semana de la Física
       date: '2014'
       location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      name: Estación de óptica
       description:
+      - Estación de óptica
       - Expositor
-    Tecnópolis:
+    - name: Tecnópolis
       date: '2013'
       event: Stand de Física
-      name: Expositor
       description:
+      - Expositor
       - Septiembre y Octubre
 Cursos y Congresos:
   - name: Bioinformatics Swedish Week (Semana de Bioinformática Sueca)
