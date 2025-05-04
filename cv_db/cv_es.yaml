@@ -294,6 +294,7 @@ Producción:
       description:
       - Presentación
       - '[Diapositivas](https://github.com/GloBIAS-BioimageAnalysts/workshop24_Gothenburg/blob/main/Training_and_Education_Corbat_On_navigating.pptx)'
+      - '[Video](https://www.youtube.com/watch?v=uKQ2OsPboi0)'
     - name: Interfacing with other networks
       date: '2024'
       event: GloBIAS in-person Workshop
@@ -303,6 +304,7 @@ Producción:
       - Presentación
       - '[Diapositivas](https://docs.google.com/presentation/d/13qqOv7V2_8JLehdJA6WURrcpjyz1M2qC/edit)'
       - '[Documento](https://docs.google.com/document/d/1miWe3rwJYZl7-Edv8yOys7_iOyKxhlioFZdh9h6Qu-8/edit?tab=t.0)'
+      - '[Video](https://www.youtube.com/watch?v=14ZOBSymLds)'
     - name: 'Multiplexed tissue imaging: tools and approaches'
       date: '2024'
       event: 'I2K: Images to Knowledge'
