@@ -246,13 +246,13 @@ Producción:
         E. La Spina, Lara Boscaglia, Anne Plessis, Maria Carmo-Fonseca, Hernán E.
         Grecco, Marta Casado, Graciela L. Boccaccio
       description:
-      - 'Año: 2021; doi: https://doi.org/10.1242/jcs.253591'
+      - 'doi: https://doi.org/10.1242/jcs.253591'
     - title: An Integrative Apoptotic Reaction Model for extrinsic and intrinsic stimuli
       date: '2021'
       journal: BioRxiv
       authors: '**Agustin A. Corbat**, Mauro Silberberg, Hernán E. Grecco'
       description:
-      - 'Año: 2021'
+      - 'doi: https://doi.org/10.1101/2021.05.21.444824'
     - title: 'CASPAM: a triple modality biosensor for multiplexed imaging of caspase network activity'
       date: '2021'
       journal: bioRxiv
@@ -260,7 +260,7 @@ Producción:
         Grecco
       description:
       - ACS Sensors, *Autores contribuyeron equitativamente
-      - 'Año: 2021; doi: https://doi.org/10.1101/2021.03.10.434623'
+      - 'doi: https://doi.org/10.1101/2021.03.10.434623'
     - title: Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy
       date: '2018'
       journal: REDOX Biology
