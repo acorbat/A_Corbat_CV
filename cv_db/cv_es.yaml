@@ -450,6 +450,13 @@ Producción:
       description:
       - Expositor
       - Septiembre y Octubre
+  Otros:
+    - name: A 3D human motor neuron disease platform for high throughput drug screening
+      type: dataset en BioImage Archive
+      date: 2025
+      authors: Katharina Hennig, Afonso Malheiro, Edgar R. Gomes, Agustin Corbat
+      doi: 10.6019/S-BIAD1737
+      description: This datasets consists of two images of human induced Pluripotent Stem Cells (hiPSC) derived motor neuron-neurospheres, one treated with 5 µM MI132 to induce stress granule formation and the other one untreated. Channel 1 corresponds to Islet1 antibody staining, channel 2 to G3BP antibody staining and channel 3 corresponds to DAPI staining. Images have a z-stack that covers at least half the neurosphere.
 Cursos y Congresos:
   - name: Bioinformatics Swedish Week (Semana de Bioinformática Sueca)
     date: '2023'
