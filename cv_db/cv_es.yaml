@@ -457,6 +457,12 @@ Producción:
       authors: Katharina Hennig, Afonso Malheiro, Edgar R. Gomes, Agustin Corbat
       doi: 10.6019/S-BIAD1737
       description: This datasets consists of two images of human induced Pluripotent Stem Cells (hiPSC) derived motor neuron-neurospheres, one treated with 5 µM MI132 to induce stress granule formation and the other one untreated. Channel 1 corresponds to Islet1 antibody staining, channel 2 to G3BP antibody staining and channel 3 corresponds to DAPI staining. Images have a z-stack that covers at least half the neurosphere.
+    - name: 'AI4Life Open Call 2: Project 38'
+      type: Repositorio de código
+      date: 2025
+      authors: Agustin Corbat
+      doi: 10.5281/zenodo.15088621
+      description: 'Image Analysis pipeline developed for AI4Life open call 2 project 38: Neuroscan. Dataset can be found in BioImage Archive with accession number: S-BIAD1737'
 Cursos y Congresos:
   - name: Bioinformatics Swedish Week (Semana de Bioinformática Sueca)
     date: '2023'
