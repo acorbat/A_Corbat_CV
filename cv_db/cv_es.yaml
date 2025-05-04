@@ -275,129 +275,135 @@ Producción:
       date: '2024'
       event: Imaging The Future
       authors: '**Corbat, Agustin**'
+      location: Austin, Texas, Estados Unidos
       description:
       - Presentación de software
-      - Austin, Texas, Estados Unidos
     - name: The Three Gears of Bioscience Projects
       date: '2024'
       event: Imaging The Future
       authors: '**Corbat, Agustin**'
+      location: Austin, Texas, Estados Unidos
       description:
       - Presentación de póster
-      - Austin, Texas, Estados Unidos
       - '[Link](https://figshare.com/articles/poster/The_Three_Gears_of_Bioscience_Projects/27725865?file=50481666)'
     - name: On Navigating the archipelago
       date: '2024'
       event: GloBIAS in-person Workshop
       authors: '**Corbat, Agustin**'
+      location: Universidad de Gotenburgo, Suecia
       description:
       - Presentación
-      - Universidad de Gotenburgo, Suecia
       - '[Diapositivas](https://github.com/GloBIAS-BioimageAnalysts/workshop24_Gothenburg/blob/main/Training_and_Education_Corbat_On_navigating.pptx)'
     - name: Interfacing with other networks
       date: '2024'
       event: GloBIAS in-person Workshop
       authors: '**Corbat, Agustin**'
+      location: Universidad de Gotenburgo, Suecia
       description:
       - Presentación
-      - Universidad de Gotenburgo, Suecia \\ \href
       - '[Diapositivas](https://docs.google.com/presentation/d/13qqOv7V2_8JLehdJA6WURrcpjyz1M2qC/edit)'
       - '[Documento](https://docs.google.com/document/d/1miWe3rwJYZl7-Edv8yOys7_iOyKxhlioFZdh9h6Qu-8/edit?tab=t.0)'
     - name: 'Multiplexed tissue imaging: tools and approaches'
       date: '2024'
       event: 'I2K: Images to Knowledge'
       authors: '**Corbat, Agustin**; Klemm, Anna; Ballosera Navarro, Frederic; Windhager, Jonas; Lidayová, Kristína'
+      location: Human Technopole, Milán, Italia
       description:
       - Taller de 90 minutos
-      - Human Technopole, Milán, Italia
     - name: Bioimage Informatics Facility
       date: '2024'
       event: SciLifeLab Spatial Biology Science Summit
       authors: '**Corbat, Agustin**'
+      location: Uppsala Universitet, Uppsala, Suecia
       description:
       - Presentación de póster
-      - Uppsala Universitet
     - name: 'Unravelling apoptotic signalling cascade by co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy'
       date: '2019'
       event: Whole Cell Modelling Summer School 2019, EMBO Workshop
       authors: Corbat, Agustín A.; Grecco, Hernán E.
+      location: Barcelona, España
       description:
       - Presentación de póster
-      - Barcelona, España
     - name: 'Unravelling apoptotic signalling cascade by co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy'
       date: '2020'
       event: 'Systems Biology of Cancer: Promises of Artificial Intelligence; EMBO|FEBS Lecture Course'
       authors: Corbat, Agustín A.; Grecco, Hernán E.
+      location: Institut Curie, Paris, France
       description:
       - Charla seleccionada y presentación de póster
       - Encuentro Virtual
-      - Institut Curie, Paris, France
     - name: 'Unravelling apoptotic signalling cascade by co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy'
       date: '2020'
       event: 'Image-based Systems Biology, 5^th^ International Symposium'
       authors: Corbat, Agustín A.; Silberberg, Mauro; Grecco, Hernán E.
+      location: Hans-Knöll Institute, University of Jena, Germany
       description:
       - Charla en tandem seleccionada y presentación de póster
       - Encuentro Virtual
-      - Hans-Knöll Institute, University of Jena, Germany
     - name: Molten Globule Driven Liquid-Liquid Phase Separation at the Center of Viral Factory Assembly
       date: '2020'
       event: Biophysical Journal
       authors: Salgueiro, Mariano; Camporeale, Gabriela; Conci, Julieta; Sousa, Belen;
         Visentin, Araceli; Corbat, Agustin; Grecco, Hernan; de Oliveira, Guilherme
         A.; de Prat-Gay, Gonzalo
+      location: San Diego, California, Estados Unidos
       description:
       - Presentación de póster a cargo de Mariano Sagueiro
-      - San Diego, California, Estados Unidos
     - name: Towards a spatio-temporal map of apoptosis in fruit fly embryo
       date: '2018'
       event: Taller de Biología Celular y del Desarrollo
       authors: Moretti, Bruno; Corbat, Agustín A.; Habif, Martín; Grecco, Hernán E.
+      location: Chascomús, Buenos Aires, Argentina
       description:
       - Presentación de póster a cargo de Bruno Moretti
-      - Chascomús, Buenos Aires, Argentina
     - name: Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy
       date: '2018'
       event: Giambiagi Winter School
       authors: Corbat, Agustín and Grecco, Hernán
+      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
       description:
       - Presentación de póster
     - name: A single plasmid based triple-modality-reporter-system for multiplexing caspase activity in individual cells
       date: '2018'
       event: SPCell2018
       authors: Habif, Martín; Corbat, Agustín; Grecco, Hernán
+      location: São Paulo School in Advanced Cell Biology, University of São Paulo, Brazil
       description:
       - Presentación de Póster a cargo de Martín Habif
       - Co-organizado por EMBO y American Society of Cell Biology (ASCB)
-      - São Paulo School in Advanced Cell Biology, University of São Paulo, Brazil
     - name: Integrating functional imaging with light sheet fluorescence microscopy
       date: '2017'
       event: Annual Meeting of International Physics of Living Systems (iPoLS) Network
       authors: Moretti, Bruno; Corbat, Agustín; Habif, Martín; Grecco, Hernán
+      location: Paris, France
       description:
       - Presentación de Póster
     - name: Modeling Caspase Dynamics from Temporal Series
       date: '2016'
       event: Frontiers in Bioscience 2
       authors: Corbat, Agustín; Grecco, Hernán
+      location: Insituto de Biología de Buenos Aires, Buenos Aires, Argentina
       description:
       - Presentación de Póster
     - name: A triple-modality-reporter system for multiplexing intracellular signaling at the single cell level
       date: '2016'
       event: Frontiers in Bioscience 2
       authors: Habif, Martín; Corbat, Agustín; Grecco, Hernán
+      location: Insituto de Biología de Buenos Aires, Buenos Aires, Argentina
       description:
       - Presentación de Póster
     - name: Modelado de experimentos de homoFRET en red de señalización de apoptosis
       date: '2016'
       event: Reunión Nacional de Física N^o^ 101
       authors: Corbat, Agustín; Grecco, Hernán
+      location: Villa de Merlo, San Luis, Argentina
       description:
       - Presentación de Póster
     - name: Proyecto Tecnológico
       date: '2015'
       event: Sistema Optomecánica Abierta
       authors: Proyecto SOMA
+      location: Buenos Aires, Argentina
       description:
       - 2º premio en INNOVAR 2015
       - Dispositivos electromecánicos para experimentos de óptica confeccionados con
@@ -407,13 +413,14 @@ Producción:
       date: '2015'
       event: Reunión Nacional de Física N^o^ 100
       authors: Cuenca, Marina; Corbat, Agustín; von Bilderling, Catalina; Pietrasanta, Lia; Grecco, Hernán
+      location: Tandil, Buenos Aires, Argentina
       description:
       - Póster
     - name: Open Source Fast Filter Wheel
       date: '2015'
       event: Giambiagi Winter School
-      authors: Corbat, Agustín; Cuenca, Marina; von Bilderling, Catalina; Pietrasanta,
-        Lia; Grecco, Hernán
+      authors: Corbat, Agustín; Cuenca, Marina; von Bilderling, Catalina; Pietrasanta, Lia; Grecco, Hernán
+      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
       description:
       - Póster
   Divulgación Científica:
