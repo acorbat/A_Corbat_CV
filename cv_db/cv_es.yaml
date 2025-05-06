@@ -62,30 +62,109 @@ Experiencia:
       - 'Director: Hernán E. Grecco'
       - Beca doctoral de CONICET 2016-2021
   Proyectos:
+    - name: Spatial Profiling of the renal host-pathogen interplay in response to Candida albicans infection in mice
+      date: '2025'
+      location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics Infrastructure Sweden (NBIS)
+      type:
+      - Academic
+      - Facility
+      description:
+      - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación BioImage Informatics Facility.
+        '[Descripcion del proyecto](https://biifsweden.github.io/projects/2025/02/25/PerLjungdahl2025-1/)'
+        '[Repsoitorio del codigo](https://github.com/BIIFSweden/PerLjungdahl2025-1)'
+    - name: 'Segmentation of cavernous malformations using MRI scans of mouse brain'
+      date: '2024'
+      location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics Infrastructure Sweden (NBIS)
+      type:
+      - Academic
+      - Facility
+      description:
+      - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación como parte de BioImage Informatics Facility.
+        '[Descripcion del proyecto](https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/)'
+    - name: 'The role of perivascular TAM phenotypes in metastatic dissemination'
+      date: '2024'
+      location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics Infrastructure Sweden (NBIS)
+      type:
+      - Academic
+      - Facility
+      description:
+      - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación como parte de BioImage Informatics Facility.
+        '[Descripcion del proyecto](https://biifsweden.github.io/projects/2024/07/10/CharlotteRolny2024-1/)'
+    - name: 'AI4Life Open Call 2: Project 11'
+      date: '2024'
+      location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics Infrastructure Sweden (NBIS)
+      type:
+      - Academic
+      - Facility
+      description:
+      - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación como parte de AI4Life Open Call 2.
+        '[Descripcion del proyecto](https://github.com/ai4life-opencalls/oc_2_project_11)'
+    - name: 'AI4Life Open Call 2: Project 38'
+      date: '2024'
+      location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics Infrastructure Sweden (NBIS)
+      type:
+      - Academic
+      - Facility
+      description:
+      - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación como parte de AI4Life Open Call 2.
+        '[Descripcion del proyecto](https://github.com/ai4life-opencalls/oc_2_project_38)'
+    - name: 'Jag1 represses Notch activation in lateral supporting cells and inhibits an outer hair cell fate in the medial compartment of the developing cochlea'
+      date: '2023--2024'
+      location: Emma Andersson Lab, Karolinska Institutet, Estocolmo, Suecia
+      type:
+      - Academic
+      description:
+      - 'supervisor: Dr. Emma R. Andersson'
+    - name: 'Spatially segregated defects and IGF1-responsiveness of hilar and peripheral biliary organoids from a model of Alagille syndrome'
+      date: '2023'
+      location: Emma Andersson Lab, Karolinska Institutet, Estocolmo, Suecia
+      type:
+      - Academic
+      description:
+      - 'supervisor: Dr. Emma R. Andersson'
+    - name: 'Tuning Notch and mechanics to engineer cell fate'
+      date: '2022--2024'
+      location: Emma Andersson Lab, Karolinska Institutet, Estocolmo, Suecia
+      type:
+      - Academic
+      description:
+      - 'supervisor: Dr. Emma R. Andersson'
+      - 'Marie Skłodowska-Curie Actions: Seal of Excellence.'
+      - 'Funded by Vetenskapsrådet (Consejo de Investigaciones de Suecia).'
     - name: 'Células madres mesenquimales de médula ósea para regeneración y transferencia de genes terapéuticos en la cirrosis hepática'
       date: '2010'
-      location: Laboratorio de Terapia Génica,Hospital Universitario Austral
+      location: Laboratorio de Terapia Génica, Hospital Universitario Austral
+      type:
+      - Academic
       description:
-      - Dr. - name: Jorge B. Aquin
+      - 'supervisor: Dr. Jorge B. Aquino'
     - name: 'Visualizing early tumorigenesis via beta-catenin oncomeme in murine intestinal organoids'
       date: '2019'
       location: Systemic Cell Biology, Max Planck Institute for Molecular Physiology
+      type:
+      - Academic
       description:
       - Dr. Philippe Bastiaens
       - 7 semanas en el exterior y se continua trabajando remoto durante 12 meses
     - name: 'PICT-2014-3744, Correlación y causalidad: microscopía multiparamétrica de señales celulares'
       date: 2016--2021
       location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
+      type:
+      - Academic
       description:
       - En carácter de becario doctoral
     - name: 'PICT-2017-1160, Diseño y construcción de un prototipo de microscopio de fluorescencia miniaturizado, de bajo costo, para aplicaciones en neurociencias y medicina'
       date: 2017--2021
       location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
+      type:
+      - Academic
       description:
       - En carácter de becario doctoral
     - name: Beca Estímulo
       date: 2014-2016
       location: Laboratorio de Electrónica Cuántica, Facultad de Ciencias Exactas, U.B.A.
+      type:
+      - Academic
       description:
       - 'Proyecto: Caracterización de nanoemisores para terapia fotodinámica
         cuantificando la respuesta apoptótica mediante microscopía por anistropía
