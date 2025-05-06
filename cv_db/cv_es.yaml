@@ -122,6 +122,15 @@ Experiencia:
       - Academic
       description:
       - 'supervisor: Dr. Emma R. Andersson'
+    - name: 'Decoding cell fate with lineage-tracing in utero transduction'
+      date: '2022--2024'
+      location: Emma Andersson Lab, Karolinska Institutet, Estocolmo, Suecia
+      type:
+      - Academic
+      description:
+      - 'Supervisor: Dr. Emma R. Andersson'
+      - 'Knut och Alice Wallenbergs Stiftelse (Fundación Knut y Alice Wallenberg).'
+      - 'Co-supervisores: Igor Adameyko, Niklas Björkström, Jonas Frisén, Ulrika Marklund.'
     - name: 'Tuning Notch and mechanics to engineer cell fate'
       date: '2022--2024'
       location: Emma Andersson Lab, Karolinska Institutet, Estocolmo, Suecia
@@ -131,30 +140,23 @@ Experiencia:
       - 'supervisor: Dr. Emma R. Andersson'
       - 'Marie Skłodowska-Curie Actions: Seal of Excellence.'
       - 'Funded by Vetenskapsrådet (Consejo de Investigaciones de Suecia).'
-    - name: 'Células madres mesenquimales de médula ósea para regeneración y transferencia de genes terapéuticos en la cirrosis hepática'
-      date: '2010'
-      location: Laboratorio de Terapia Génica, Hospital Universitario Austral
-      type:
-      - Academic
-      description:
-      - 'supervisor: Dr. Jorge B. Aquino'
     - name: 'Visualizing early tumorigenesis via beta-catenin oncomeme in murine intestinal organoids'
-      date: '2019'
+      date: '2019--2021'
       location: Systemic Cell Biology, Max Planck Institute for Molecular Physiology
       type:
       - Academic
       description:
       - Dr. Philippe Bastiaens
       - 7 semanas en el exterior y se continua trabajando remoto durante 12 meses
-    - name: 'PICT-2014-3744, Correlación y causalidad: microscopía multiparamétrica de señales celulares'
-      date: 2016--2021
+    - name: 'PICT-2017-1160, Diseño y construcción de un prototipo de microscopio de fluorescencia miniaturizado, de bajo costo, para aplicaciones en neurociencias y medicina'
+      date: 2017--2021
       location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
       type:
       - Academic
       description:
       - En carácter de becario doctoral
-    - name: 'PICT-2017-1160, Diseño y construcción de un prototipo de microscopio de fluorescencia miniaturizado, de bajo costo, para aplicaciones en neurociencias y medicina'
-      date: 2017--2021
+    - name: 'PICT-2014-3744, Correlación y causalidad: microscopía multiparamétrica de señales celulares'
+      date: 2016--2021
       location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
       type:
       - Academic
@@ -170,6 +172,13 @@ Experiencia:
         cuantificando la respuesta apoptótica mediante microscopía por anistropía
         de fluorescencia'
       - 'Director: Dr. Hernán E. Grecco'
+    - name: 'Células madres mesenquimales de médula ósea para regeneración y transferencia de genes terapéuticos en la cirrosis hepática'
+      date: '2010'
+      location: Laboratorio de Terapia Génica, Hospital Universitario Austral
+      type:
+      - Academic
+      description:
+      - 'supervisor: Dr. Jorge B. Aquino'
   Docencia y Formación:
     - name: Profesor invitado
       date: '2025'
