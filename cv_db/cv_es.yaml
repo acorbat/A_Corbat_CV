@@ -285,6 +285,17 @@ Experiencia:
       - 'Clases Particulares de: Física, Matemática, Química, Biología, Biofísica.'
       - 'Nivel Primario, Secundario y Universitario.'
   Profesionales:
+    - name: Bohus Biotech
+      date: '2024'
+      location: Uppsala, Suecia
+      description:
+      - Desarrollo de algoritmos de análisis de imágenes para evaluar la calidad de productos estéticos.
+    - name: Detección de interacciones proteína-proteína mediante ensayos de ligando proteína
+      date: '2025'
+      location: Navinci, Uppsala, Suecia
+      description:
+      - Consulta independiente para desarrollar algoritmos de análisis de imágenes 
+        para la detección de interacciones proteína-proteína.
     - name: Servicio Técnico de Alto Nivel
       date: '2019'
       location: Laboratorio de Electrónica Cuántica, Facultad de Ciencias Exactas y Naturales, U.B.A.
