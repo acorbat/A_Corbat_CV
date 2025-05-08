@@ -550,9 +550,9 @@ Producción:
       - Expositor
     - name: Tecnópolis
       date: '2013'
-      event: Stand de Física
+      location: Buenos Aires, Argentina
       description:
-      - Expositor
+      - Expositor en Stand de Física
       - Septiembre y Octubre
   Otros:
     - name: A 3D human motor neuron disease platform for high throughput drug screening
