@@ -216,6 +216,12 @@ Experiencia:
       - Curso intensivo de 3 semanas
       - '**Microscopy: Improve Your Imaging Skills - From Sample Preparation to Image
         Analysis**: Curso teórico y práctico sobre diseño experimental en microscopía.'
+    - name: Supervisión de estudiantes de High School
+      date: 2024--2025
+      location: Hitachigymnasium Västerås, Uppsala, Suecia
+      description:
+      - Como proyecto de fin de clases de High School los estudiantes desarrollan un proyecto de desarrollo tecnológico.
+      - El proyecto consistía en utilizar una Raspberry Pi para tomar imágenes y advertir a un conductor de un vehículo.
     - name: Supervisión de Estudiante de Máster
       date: '2024'
       location: Departamento de Biología Celular y Molecular, Karolinska Institutet
@@ -692,19 +698,28 @@ Cursos y Congresos:
     - 'Asistencia y Presentación Monografía (Nota:8)'
   - name: Simposium Frontiers in Bioscience 2
     date: '2016'
-    extension: Simposio
+    extension: Simposio de 1 semana
+    location: Instituto de Biología de Buenos Aires, Buenos Aires, Argentina
+    language: Inglés
     description:
     - Asistencia y Presentación póster
   - name: 101$^a$ Reunión Nacional de la Asociación Física Argentina
     date: '2016'
-    extension: Congreso
-    description: Asistencia y Presentación póster
+    extension: Congreso de 1 semana
+    location: Villa de Merlo, San Luis, Argentina
+    language: Español
+    description: 
+    - Asistencia y Presentación póster
   - name: 100$^a$ Reunión Nacional de la Asociación Física Argentina
     date: '2015'
-    extension: Congreso
-    description: Asistencia y Presentación oral
+    extension: Congreso de 1 semana
+    location: Tandil, Buenos Aires, Argentina
+    language: Español
+    description:
+    - Asistencia y Presentación oral
   - name: Light and light based technologies
     date: '2015'
+    extension: Congreso de 1 semana
     location: Facultad de Ciencias Exactas y Naturales, U.B.A
     language: Inglés
     description:
@@ -719,16 +734,23 @@ Cursos y Congresos:
     - Asistencia
   - name: 99$^a$ Reunión Nacional de la Asociación Física Argentina
     date: '2014'
-    extension: Congreso
-    description: Asistencia
+    extension: Congreso de 1 semana
+    location: Buenos Aires, Argentina
+    language: Español
+    description:
+    - Asistencia
   - name: 'Information Processing in Biological Systems: From cells to equations--and back'
     date: '2013'
+    extension: Congreso de 1 semana
     location: Facultad de Ciencias Exactas y Naturales, U.B.A.
     language: Inglés
     description:
     - Asistencia
   - name: Taller de Desarrollo del Comportamiento Emprendedor
     date: '2011'
+    extension: 50 hs
+    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    language: Español
     description:
     - Empretec
     - Organiza con Naciones Unidas
