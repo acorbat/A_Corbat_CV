@@ -10,5 +10,12 @@ version = "0.1.0"
 [dependencies]
 python = ">=3.10"
 
-[pypi-dependencies]
+[feature.rendercv.pypi-dependencies]
 rendercv = { version = ">=2.2, <3", extras = ["full"] }
+
+[feature.uba.dependencies]
+jupyterlab = "*"
+
+[environments]
+uba = ["uba"]
+rendercv = ["rendercv"]
