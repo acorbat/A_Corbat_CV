@@ -3,7 +3,8 @@ cv:
   location: here
   email: john.doe@example.com
   phone: +1-609-999-9995
-  website:
+  website: https://acorbat.github.io
+  avatar: https://github.com/acorbat/acorbat.github.io/blob/main/assets/img/profile-img.jpg?raw=true
   social_networks:
     - network: LinkedIn
       username: john.doe

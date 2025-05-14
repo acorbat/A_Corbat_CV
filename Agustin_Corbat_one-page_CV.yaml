@@ -1,0 +1,130 @@
+cv:
+  name: Agustin Corbat
+  location: Stockholm, Sweden
+  email: acorbat.bia@gmail.com
+  website: https://acorbat.github.io
+  avatar: https://github.com/acorbat/acorbat.github.io/blob/main/assets/img/profile-img.jpg?raw=true
+  social_networks:
+    - network: GitHub
+      username: acorbat
+    - network: ORCID
+      username: 0000-0001-8068-3486
+  sections:
+    Statement:
+      - My focus is set on the design of image analysis pipelines to obtain quantitative information from images. I leverage my background in physics, biomedicine and microscopy to improve experimental design and simulate the system under study to gain further insight. For more information, please visit my [website](https://acorbat.github.io) or a see my [complete CV](https://www.overleaf.com/project/52351677cb95d6845c00266e).
+    education:
+      - institution: University of Buenos Aires
+        area: Physics
+        degree: PhD
+        start_date: 2016
+        end_date: 2021
+        location: Buenos Aires, Arg.
+        summary:
+        highlights:
+          - '**Advisor**: Dr. Hernán E. Grecco'
+          - '**Thesis**: Microspectroscopy applied to quantification and modelling of signal propagation in biological networks'
+      - institution: University of Buenos Aires
+        area: Physics
+        degree: Lic.
+        start_date: 2011
+        end_date: 2016
+        location: Buenos Aires, Arg.
+        summary:
+        highlights:
+          - 'Estimated Time for Completion: 6 years. Actual Completion: 5 years'
+          - '**Advisor**: Dr. Hernán E. Grecco'
+          - '**Thesis**: Modelling Caspase Dynamics from Temporal Series'
+      - institution: University Hospital Austral
+        area: Medicine
+        degree: 
+        start_date: 2008
+        end_date: 2010
+        location: Buenos Aires, Arg.
+        summary: Core Assignments Completed 
+    experience:
+      - company: BioImage Informatics Unit, SciLifeLab
+        position: Bioimage Analyst
+        date:
+        start_date: 2024-05
+        end_date: present
+        location: Uppsala, Sweden
+        summary:
+        highlights:
+          - Provide support developing image analysis pipelines and disseminate knowledge through courses and supervision
+      - company: Karolinska Institutet
+        position: Postdoctoral Researcher in Developmental Biology
+        date:
+        start_date: 2022-04
+        end_date: 2024-04
+        location: Stockholm, Sweden
+        summary:
+        highlights:
+          - Tuning Notch and mechanics to engineer cell fate
+          - 'Group Leader: Dr. Emma R. Andersson'
+          - 'Marie Skłodowska-Curie Actions: Seal of Excellence'
+          - Funded by Vetenskapsrådet.
+      - company: University of Buenos Aires
+        position: Postdoctoral Researcher in Physics
+        date:
+        start_date: 2021-08
+        end_date: 2022-03
+        location: Buenos Aires, Arg.
+        summary:
+        highlights:
+          - Microspectroscopy applied to quantification and modelling of signal propagation in biological networks
+          - 'Group Leader: Dr. Hernán E. Grecco'
+          - National Scientific and Technical Research Council (CONICET) Postgraduate Fellowship to pursue a PhD 2016-2021, awarded through National competition.
+    Teaching (only 2025):
+      - name: AI Tools in Biology
+        date: 2025-02
+        location: Uppsala, Sweden
+        summary: Sveriges lantbruksuniversitet (Swedish University of Agricultural Sciences)
+        highlights:
+          - Seminar and workshop on artificial intelligence for bioimage analysis.
+      - name: 'Microscopy: Improve Your Imaging Skills - From Sample Preparation to Image Analysis'
+        date: 2025-01
+        location: Stockholm, Sweden
+        summary: Live Cell Imaging, Karolinska Institutet. [Link to video](https://www.youtube.com/watch?v=tqiq2wKrMLY).
+        highlights:
+          - 'Course addressing theoretical and practical knowledge on image analysis oriented to biology.'
+    publications (only 2025):
+      - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
+        authors:
+          - Sandra de Haan
+          - Jingyan He
+          - '**Agustin A. Corbat**'
+          - Lenka Belicova
+          - Michael Ratz
+          - Elin Vinsland
+          - Sten Linnarsson
+          - Jonas Frisén
+          - Matthew W. Kelley
+          - Emma R. Andersson
+        doi: 10.1126/science.adq9248
+        url: https://doi.org/10.1126/science.adq9248
+        journal: Science
+        date: 2025
+      - title: The non-canonical Smoothened-AMPK axis regulates Smaug1 biomolecular condensates
+        authors:
+          - María G. Thomas
+          - Ana J. Fernández-Alvarez
+          - Macarena Giménez
+          - Francisco C. Aristarain
+          - Lucas H. Cozza
+          - Jerónimo Pimentel
+          - João Pessoa
+          - Malena L. Pascual
+          - Lara Boscaglia
+          - Martín Habif
+          - '**Agustín Corbat**'
+          - Pablo E. La Spina
+          - Tomás Peters
+          - Diego M. Bustos
+          - Maria Carmo-Fonseca
+          - Hernán E. Grecco
+          - Graciela L. Boccaccio
+        doi: 10.1242/jcs.263433
+        url: https://doi.org/10.1242/jcs.263433
+        journal: Journal of Cell Science
+        date: 2025
+    
