@@ -573,25 +573,25 @@ Producción:
       doi: 10.5281/zenodo.15390007
       description: Taller para demostrar a estudiantes que se inician en proyectos de análisis de imágenes de microscopía.
     - name: 'Image Artifacts that cannot be corrected post-acquisition: Bleedthrough, saturation/underexposure and soft focus'
-      type: dataset en Zenodo
+      type: Dataset en Zenodo
       date: 2025
       authors: Gisele Miranda, **Agustin Corbat**, Gabriela Imreh, Sylvie Le Guyader, Anna Klemm, Carolina Wählby
       doi: 10.5281/zenodo.15374754
       description: Dataset de imágenes adquirido para demostrar el efecto de foco, exposición y sangrado espectral en el análisis de imágenes de microscopía.
     - name: Uneven illumination and uneven focus correction
-      type: dataset en Zenodo
+      type: Dataset en Zenodo
       date: 2025
       authors: Gisele Miranda, **Agustin Corbat**, Gabriela Imreh, Sylvie Le Guyader, Anna Klemm, Carolina Wählby
       doi: 10.5281/zenodo.15374885
       description: Dataset de imágenes adquirido para demostrar el efecto de la inhomogeneidad de iluminación en el análisis de imágenes de microscopía.
     - name: Microscopy nuclei dataset with decreasing noise level by increasing averaging
-      type: dataset en Zenodo
+      type: Dataset en Zenodo
       date: 2025
       authors: Gisele Miranda, **Agustin Corbat**, Gabriela Imreh, Sylvie Le Guyader, Anna Klemm, Carolina Wählby
       doi: 10.5281/zenodo.15175309
       description: Dataset de imágenes adquirido para demostrar el efecto del ruido de adquisición en el análisis de imágenes  de microscopía.
     - name: A 3D human motor neuron disease platform for high throughput drug screening
-      type: dataset en BioImage Archive
+      type: Dataset en BioImage Archive
       date: 2025
       authors: Katharina Hennig, Afonso Malheiro, Edgar R. Gomes, Agustin Corbat
       doi: 10.6019/S-BIAD1737
