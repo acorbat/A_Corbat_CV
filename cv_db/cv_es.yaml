@@ -1,4 +1,6 @@
-Resumen: {}
+Resumen:
+  free_text:
+    - A lo largo de mi trayectoria profesional, he desarrollado un perfil multidisciplinario en biología y física, abarcando tanto enfoques teóricos como experimentales. Tras completar el ciclo troncal de medicina, orienté mi formación hacia las ciencias físicas, especializándome en biofísica y estadística para profundizar en la cuantificación de fenómenos biológicos. Durante mi doctorado y en los años posteriores, me he centrado en técnicas de microscopía, integrando el desarrollo experimental con el modelado matemático para abordar diversas preguntas de investigación. Además, he disfrutado impartiendo docencia en estadística, física, microscopía, análisis de imágenes y trabajo de laboratorio, enseñando a estudiantes de física y biología. Actualmente, me desempeño como analista de imágenes en BioImage Informatics Facility, donde brindo soporte en el desarrollo de secuencias de análisis de imágenes, al tiempo que continúo ampliando y compartiendo conocimientos en el área. Para información más detallada, incluyendo proyectos en los que he trabajado, visitar mi [página web](acorbat.github.io).
 Educación:
   Educación Universitaria:
   - name: Doctorado en Ciencias Físicas
@@ -66,40 +68,162 @@ Experiencia:
       de la propagación de señales intra e intercelulares
     - 'Director: Hernán E. Grecco'
     - Beca doctoral de CONICET 2016-2021
-  - name: Pasantía
-    date: '2019'
-    location: 'Proyecto: Visualizing early tumorigenesis via beta-catenin oncomeme
-      in murine intestinal organoids, Dr. Philippe Bastiaens'
+  Investigación:
+  - name: Postdoctorado en biología del desarrollo
+    date: 2022--2024
+    location: Departmento de Biología Celular y Molecular, Karolinska Institutet
     description:
-    - Systemic Cell Biology, Max Planck Institute for Molecular Physiology
-    - 7 semanas en el exterior y se continua trabajando a la fecha
-  - name: Participación en Proyecto
-    date: 2017--2021
-    location: PICT-2017-1160, Diseño y construcción de un prototipo de microscopio
-      de fluorescencia miniaturizado, de bajo costo, para aplicaciones en neurociencias
+    - Afinando Notch y mecánica para ingeniería de destino celular
+    - 'Directora: Dr. Emma R. Andersson.'
+    - 'Marie Skłodowska-Curie Actions: Sello de Excelencia.'
+    - Subsidiado por Vetenskapsrådet (Ministerio de Ciencia de Suecia).
+  - name: Postdoctorado en Ciencias Físicas
+    date: 2021--2022
+    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    description:
+    - Desarrollo de técnicas de espectroscopía de correlación aplicadas al estudio
+      de la propagación de señales intra e intercelulares
+    - 'Director: Hernán E. Grecco'
+    - Beca doctoral de CONICET 2016-2021
+  - name: Doctorado en Ciencias Físicas
+    date: 2016--2021
+    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    description:
+    - Desarrollo de técnicas de espectroscopía de correlación aplicadas al estudio
+      de la propagación de señales intra e intercelulares
+    - 'Director: Hernán E. Grecco'
+    - Beca doctoral de CONICET 2016-2021
+  Proyectos:
+  - name: Spatial Profiling of the renal host-pathogen interplay in response to Candida
+      albicans infection in mice
+    date: '2025'
+    location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics
+      Infrastructure Sweden (NBIS)
+    type:
+    - Academic
+    - Facility
+    description:
+    - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación
+      BioImage Informatics Facility. '[Descripcion del proyecto](https://biifsweden.github.io/projects/2025/02/25/PerLjungdahl2025-1/)'
+      '[Repsoitorio del codigo](https://github.com/BIIFSweden/PerLjungdahl2025-1)'
+  - name: Segmentation of cavernous malformations using MRI scans of mouse brain
+    date: '2024'
+    location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics
+      Infrastructure Sweden (NBIS)
+    type:
+    - Academic
+    - Facility
+    description:
+    - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación
+      como parte de BioImage Informatics Facility. '[Descripcion del proyecto](https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/)'
+  - name: The role of perivascular TAM phenotypes in metastatic dissemination
+    date: '2024'
+    location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics
+      Infrastructure Sweden (NBIS)
+    type:
+    - Academic
+    - Facility
+    description:
+    - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación
+      como parte de BioImage Informatics Facility. '[Descripcion del proyecto](https://biifsweden.github.io/projects/2024/07/10/CharlotteRolny2024-1/)'
+  - name: 'AI4Life Open Call 2: Project 11'
+    date: '2024'
+    location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics
+      Infrastructure Sweden (NBIS)
+    type:
+    - Academic
+    - Facility
+    description:
+    - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación
+      como parte de AI4Life Open Call 2. '[Descripcion del proyecto](https://github.com/ai4life-opencalls/oc_2_project_11)'
+  - name: 'AI4Life Open Call 2: Project 38'
+    date: '2024'
+    location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics
+      Infrastructure Sweden (NBIS)
+    type:
+    - Academic
+    - Facility
+    description:
+    - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación
+      como parte de AI4Life Open Call 2. '[Descripcion del proyecto](https://github.com/ai4life-opencalls/oc_2_project_38)'
+  - name: Jag1 represses Notch activation in lateral supporting cells and inhibits
+      an outer hair cell fate in the medial compartment of the developing cochlea
+    date: 2023--2024
+    location: Emma Andersson Lab, Karolinska Institutet, Estocolmo, Suecia
+    type:
+    - Academic
+    description:
+    - 'supervisor: Dr. Emma R. Andersson'
+  - name: Spatially segregated defects and IGF1-responsiveness of hilar and peripheral
+      biliary organoids from a model of Alagille syndrome
+    date: '2023'
+    location: Emma Andersson Lab, Karolinska Institutet, Estocolmo, Suecia
+    type:
+    - Academic
+    description:
+    - 'supervisor: Dr. Emma R. Andersson'
+  - name: Decoding cell fate with lineage-tracing in utero transduction
+    date: 2022--2024
+    location: Emma Andersson Lab, Karolinska Institutet, Estocolmo, Suecia
+    type:
+    - Academic
+    description:
+    - 'Supervisor: Dr. Emma R. Andersson'
+    - Knut och Alice Wallenbergs Stiftelse (Fundación Knut y Alice Wallenberg).
+    - 'Co-supervisores: Igor Adameyko, Niklas Björkström, Jonas Frisén, Ulrika Marklund.'
+  - name: Tuning Notch and mechanics to engineer cell fate
+    date: 2022--2024
+    location: Emma Andersson Lab, Karolinska Institutet, Estocolmo, Suecia
+    type:
+    - Academic
+    description:
+    - 'supervisor: Dr. Emma R. Andersson'
+    - 'Marie Skłodowska-Curie Actions: Seal of Excellence.'
+    - Funded by Vetenskapsrådet (Consejo de Investigaciones de Suecia).
+  - name: Visualizing early tumorigenesis via beta-catenin oncomeme in murine intestinal
+      organoids
+    date: 2019--2021
+    location: Systemic Cell Biology, Max Planck Institute for Molecular Physiology
+    type:
+    - Academic
+    description:
+    - Dr. Philippe Bastiaens
+    - 7 semanas en el exterior y se continua trabajando remoto durante 12 meses
+  - name: PICT-2017-1160, Diseño y construcción de un prototipo de microscopio de
+      fluorescencia miniaturizado, de bajo costo, para aplicaciones en neurociencias
       y medicina
+    date: 2017--2021
+    location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
+    type:
+    - Academic
     description:
     - En carácter de becario doctoral
-  - name: Participación en Proyecto
-    date: 2016--2021
-    location: 'PICT-2014-3744, Correlación y causalidad: microscopía multiparamétrica
+  - name: 'PICT-2014-3744, Correlación y causalidad: microscopía multiparamétrica
       de señales celulares'
+    date: 2016--2021
+    location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
+    type:
+    - Academic
     description:
     - En carácter de becario doctoral
   - name: Beca Estímulo
     date: 2014-2016
-    location: 'Proyecto: Caracterización de nanoemisores para terapia fotodinámica
-      cuantificando la respuesta apoptótica mediante microscopía por anistropía de
-      fluorescencia, Dr. Hernán E. Grecco'
+    location: Laboratorio de Electrónica Cuántica, Facultad de Ciencias Exactas,
+      U.B.A.
+    type:
+    - Academic
     description:
-    - Laboratorio de Electrónica Cuántica, Facultad de Ciencias Exactas, U.B.A.
-  - name: Pasantía
+    - 'Proyecto: Caracterización de nanoemisores para terapia fotodinámica cuantificando
+      la respuesta apoptótica mediante microscopía por anistropía de fluorescencia'
+    - 'Director: Dr. Hernán E. Grecco'
+  - name: Células madres mesenquimales de médula ósea para regeneración y transferencia
+      de genes terapéuticos en la cirrosis hepática
     date: '2010'
-    location: 'Proyecto: Células madres mesenquimales de médula ósea para regeneración
-      y transferencia de genes terapéuticos en la cirrosis hepática, Dr. Jorge B.
-      Aquino'
+    location: Laboratorio de Terapia Génica, Hospital Universitario Austral
+    type:
+    - Academic
     description:
-    - Laboratorio de Terapia Génica,Hospital Universitario Austral
+    - 'supervisor: Dr. Jorge B. Aquino'
   Docencia y Formación:
   - name: Co-organizador
     date: '2025'
@@ -161,6 +285,14 @@ Experiencia:
     - Curso intensivo de 3 semanas
     - '**Microscopy: Improve Your Imaging Skills - From Sample Preparation to Image
       Analysis**: Curso teórico y práctico sobre diseño experimental en microscopía.'
+  - name: Supervisión de estudiantes de High School
+    date: 2024--2025
+    location: Hitachigymnasium Västerås, Uppsala, Suecia
+    description:
+    - Como proyecto de fin de clases de High School los estudiantes desarrollan un
+      proyecto de desarrollo tecnológico.
+    - El proyecto consistía en utilizar una Raspberry Pi para tomar imágenes y advertir
+      a un conductor de un vehículo.
   - name: Supervisión de Estudiante de Master
     date: '2024'
     location: Departamento de Biología Celular y Molecular, Karolinska Institutet
@@ -169,11 +301,10 @@ Experiencia:
     - 'Exploring liver embryonic progenitors and at what extend they can be manipulated:
       Analysis of GSK126 effects on the differentiation of liver progenitor cells
       in vitro'
-  - name: Supervisión de Estudiante
+  - name: Supervisión de Estudiante de Bachelor
     date: 2023--2024
     location: Departamento de Biología Celular y Molecular, Karolinska Institutet
     description:
-    - Estudiante de Bachelor
     - Su proyecto consistía en hacer clearing de cortes gruesos de hígado y luego
       adquirir y analizar imágenes de microscopía.
   - name: Jefe de Trabajos Prácticos
@@ -226,17 +357,25 @@ Experiencia:
     - Hospital Universitario Austral
     - 10 hs. semanales
   Profesionales:
-  - name: Consulta especialista en análisis de imágenes
+  - name: Bohus Biotech
     date: '2025'
-    location: Consulta de Navinci, Navinci comercializa kits de detección de interacciones
-      entre proteinas y consulta para confeccionar un flujo de análisis de imágenes
-      robusto y automatizado
-    description: []
+    location: Uppsala, Suecia
+    description:
+    - Consulta independiente para desarrollar de algoritmos de análisis de imágenes
+      para evaluar la calidad de productos estéticos.
+  - name: Detección de interacciones proteína-proteína mediante ensayos de ligando
+      proteína
+    date: '2025'
+    location: Navinci, Uppsala, Suecia
+    description:
+    - Desarrollar algoritmos de análisis de imágenes para la detección de interacciones
+      proteína-proteína.
   - name: Servicio Técnico de Alto Nivel
     date: '2019'
-    location: Colaboración con Y-Tec, Petrografía Digital
+    location: Laboratorio de Electrónica Cuántica, Facultad de Ciencias Exactas y
+      Naturales, U.B.A.
     description:
-    - ST4407
+    - ST4407, Colaboración con Y-Tec, Petrografía Digital
 Producción:
   Publicaciones:
   - title: 'GloBIAS: strengthening the foundations of BioImage Analysis'
