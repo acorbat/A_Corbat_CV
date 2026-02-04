@@ -1,786 +1,738 @@
-Resumen:
-  free_text:
-    -  A lo largo de mi trayectoria profesional, he desarrollado un perfil multidisciplinario en biología y física, abarcando tanto enfoques teóricos como experimentales. Tras completar el ciclo troncal de medicina, orienté mi formación hacia las ciencias físicas, especializándome en biofísica y estadística para profundizar en la cuantificación de fenómenos biológicos. Durante mi doctorado y en los años posteriores, me he centrado en técnicas de microscopía, integrando el desarrollo experimental con el modelado matemático para abordar diversas preguntas de investigación. Además, he disfrutado impartiendo docencia en estadística, física, microscopía, análisis de imágenes y trabajo de laboratorio, enseñando a estudiantes de física y biología. Actualmente, me desempeño como analista de imágenes en BioImage Informatics Facility, donde brindo soporte en el desarrollo de secuencias de análisis de imágenes, al tiempo que continúo ampliando y compartiendo conocimientos en el área. Para información más detallada, incluyendo proyectos en los que he trabajado, visitar mi [página web](acorbat.github.io).
+Resumen: {}
 Educación:
   Educación Universitaria:
-    - name: Doctorado en Ciencias Físicas
-      date: 2016--2021
-      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - Microespectroscopía aplicada a la cuantificación y modelado de la propagación
-        de señales en redes biológicas
-      - 'Director: Hernán E. Grecco, Nota: Sobresaliente'
-    - name: Licenciatura en Ciencias Físicas
-      date: 2011--2016
-      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - 'Promedio: **9,32**'
-    - name: Medicina, Ciclo Troncal Completo
-      date: 2008--2010
-      location: Facultad de Ciencias Biomédicas, Hospital Universitario Austral.
-      description:
-      - 'Beca al Mérito'
-      - 'Promedio: **7,48**'
+  - name: Doctorado en Ciencias Físicas
+    date: 2016--2021
+    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    description:
+    - Microespectroscopía aplicada a la cuantificación y modelado de la propagación
+      de señales en redes biológicas
+    - 'Director: Hernán E. Grecco, Nota: Sobresaliente'
+  - name: Licenciatura en Ciencias Físicas
+    date: 2011--2016
+    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    description:
+    - 'Promedio: **9,32**'
+  - name: Medicina, Ciclo Troncal Completo
+    date: 2008--2010
+    location: Facultad de Ciencias Biomédicas, Hospital Universitario Austral. Beca
+      al Mérito
+    description:
+    - 'Promedio: **7,48**'
   Educación Secundario:
-    - name: Bachiller bilingüe Modalidad “Economía y Gestión de las organizaciones”
-      date: 2005--2007
-      location: 'Colegio St. Matthew`s College North, Promedio: **8,31**'
-      description:
-      - Egresado con 2^do^ mayor promedio de la promoción.
+  - name: Bachiller bilingüe Modalidad “Economía y Gestión de las organizaciones”
+    date: 2005--2007
+    location: 'Colegio St. Matthew`s College North, Promedio: **8,31**'
+    description:
+    - Egresado con $2^\circ$ mayor promedio de la promoción.
 Experiencia:
-  Academico:
-    - name: Analista de bioimágenes
-      date: 2024--actual
-      location: BioImage Informatics Facility(BIIF), ScilifeLab y National Bioinformatics Infrastructure Sweden (NBIS)
-      description:
-      - Proveer soporte y desarrollar algoritmos para análisis de imágenes, así como
-        también formación a través de supervisión y cursos
-      - Uppsala Uiversitet, Uppsala, Suecia.
-  Investigación:
-    - name: Postdoctorado en biología del desarrollo
-      date: 2022--2024
-      location: Departmento de Biología Celular y Molecular, Karolinska Institutet
-      description:
-      - Afinando Notch y mecánica para ingeniería de destino celular
-      - 'Directora: Dr. Emma R. Andersson.'
-      - 'Marie Skłodowska-Curie Actions: Sello de Excelencia.'
-      - Subsidiado por Vetenskapsrådet (Ministerio de Ciencia de Suecia).
-    - name: Postdoctorado en Ciencias Físicas
-      date: 2021--2022
-      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - Desarrollo de técnicas de espectroscopía de correlación aplicadas al estudio
-        de la propagación de señales intra e intercelulares
-      - 'Director: Hernán E. Grecco'
-      - Beca doctoral de CONICET 2016-2021
-    - name: Doctorado en Ciencias Físicas
-      date: 2016--2021
-      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - Desarrollo de técnicas de espectroscopía de correlación aplicadas al estudio
-        de la propagación de señales intra e intercelulares
-      - 'Director: Hernán E. Grecco'
-      - Beca doctoral de CONICET 2016-2021
-  Proyectos:
-    - name: Spatial Profiling of the renal host-pathogen interplay in response to Candida albicans infection in mice
-      date: '2025'
-      location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics Infrastructure Sweden (NBIS)
-      type:
-      - Academic
-      - Facility
-      description:
-      - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación BioImage Informatics Facility.
-        '[Descripcion del proyecto](https://biifsweden.github.io/projects/2025/02/25/PerLjungdahl2025-1/)'
-        '[Repsoitorio del codigo](https://github.com/BIIFSweden/PerLjungdahl2025-1)'
-    - name: 'Segmentation of cavernous malformations using MRI scans of mouse brain'
-      date: '2024'
-      location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics Infrastructure Sweden (NBIS)
-      type:
-      - Academic
-      - Facility
-      description:
-      - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación como parte de BioImage Informatics Facility.
-        '[Descripcion del proyecto](https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/)'
-    - name: 'The role of perivascular TAM phenotypes in metastatic dissemination'
-      date: '2024'
-      location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics Infrastructure Sweden (NBIS)
-      type:
-      - Academic
-      - Facility
-      description:
-      - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación como parte de BioImage Informatics Facility.
-        '[Descripcion del proyecto](https://biifsweden.github.io/projects/2024/07/10/CharlotteRolny2024-1/)'
-    - name: 'AI4Life Open Call 2: Project 11'
-      date: '2024'
-      location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics Infrastructure Sweden (NBIS)
-      type:
-      - Academic
-      - Facility
-      description:
-      - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación como parte de AI4Life Open Call 2.
-        '[Descripcion del proyecto](https://github.com/ai4life-opencalls/oc_2_project_11)'
-    - name: 'AI4Life Open Call 2: Project 38'
-      date: '2024'
-      location: BioImage Informatics Facility, ScilifeLab y National Bioinformatics Infrastructure Sweden (NBIS)
-      type:
-      - Academic
-      - Facility
-      description:
-      - Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación como parte de AI4Life Open Call 2.
-        '[Descripcion del proyecto](https://github.com/ai4life-opencalls/oc_2_project_38)'
-    - name: 'Jag1 represses Notch activation in lateral supporting cells and inhibits an outer hair cell fate in the medial compartment of the developing cochlea'
-      date: '2023--2024'
-      location: Emma Andersson Lab, Karolinska Institutet, Estocolmo, Suecia
-      type:
-      - Academic
-      description:
-      - 'supervisor: Dr. Emma R. Andersson'
-    - name: 'Spatially segregated defects and IGF1-responsiveness of hilar and peripheral biliary organoids from a model of Alagille syndrome'
-      date: '2023'
-      location: Emma Andersson Lab, Karolinska Institutet, Estocolmo, Suecia
-      type:
-      - Academic
-      description:
-      - 'supervisor: Dr. Emma R. Andersson'
-    - name: 'Decoding cell fate with lineage-tracing in utero transduction'
-      date: '2022--2024'
-      location: Emma Andersson Lab, Karolinska Institutet, Estocolmo, Suecia
-      type:
-      - Academic
-      description:
-      - 'Supervisor: Dr. Emma R. Andersson'
-      - 'Knut och Alice Wallenbergs Stiftelse (Fundación Knut y Alice Wallenberg).'
-      - 'Co-supervisores: Igor Adameyko, Niklas Björkström, Jonas Frisén, Ulrika Marklund.'
-    - name: 'Tuning Notch and mechanics to engineer cell fate'
-      date: '2022--2024'
-      location: Emma Andersson Lab, Karolinska Institutet, Estocolmo, Suecia
-      type:
-      - Academic
-      description:
-      - 'supervisor: Dr. Emma R. Andersson'
-      - 'Marie Skłodowska-Curie Actions: Seal of Excellence.'
-      - 'Funded by Vetenskapsrådet (Consejo de Investigaciones de Suecia).'
-    - name: 'Visualizing early tumorigenesis via beta-catenin oncomeme in murine intestinal organoids'
-      date: '2019--2021'
-      location: Systemic Cell Biology, Max Planck Institute for Molecular Physiology
-      type:
-      - Academic
-      description:
-      - Dr. Philippe Bastiaens
-      - 7 semanas en el exterior y se continua trabajando remoto durante 12 meses
-    - name: 'PICT-2017-1160, Diseño y construcción de un prototipo de microscopio de fluorescencia miniaturizado, de bajo costo, para aplicaciones en neurociencias y medicina'
-      date: 2017--2021
-      location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
-      type:
-      - Academic
-      description:
-      - En carácter de becario doctoral
-    - name: 'PICT-2014-3744, Correlación y causalidad: microscopía multiparamétrica de señales celulares'
-      date: 2016--2021
-      location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
-      type:
-      - Academic
-      description:
-      - En carácter de becario doctoral
-    - name: Beca Estímulo
-      date: 2014-2016
-      location: Laboratorio de Electrónica Cuántica, Facultad de Ciencias Exactas, U.B.A.
-      type:
-      - Academic
-      description:
-      - 'Proyecto: Caracterización de nanoemisores para terapia fotodinámica
-        cuantificando la respuesta apoptótica mediante microscopía por anistropía
-        de fluorescencia'
-      - 'Director: Dr. Hernán E. Grecco'
-    - name: 'Células madres mesenquimales de médula ósea para regeneración y transferencia de genes terapéuticos en la cirrosis hepática'
-      date: '2010'
-      location: Laboratorio de Terapia Génica, Hospital Universitario Austral
-      type:
-      - Academic
-      description:
-      - 'supervisor: Dr. Jorge B. Aquino'
+  Académico:
+  - name: Analista de bioimágenes
+    date: 2024--actual
+    location: Instituto de Física de Buenos Aires, Centro de Microscopias Avanzadas,
+      Universidad de Buenos Aires
+    description:
+    - Proveer soporte y desarrollar algoritmos para análisis de imágenes, así como
+      también formación a través de supervisión y cursos; Postdoc
+  - name: Analista de bioimágenes
+    date: 2024--2025
+    location: BioImage Informatics Facility(BIIF), ScilifeLab y National Bioinformatics
+      Infrastructure Sweden (NBIS)
+    description:
+    - Proveer soporte y desarrollar algoritmos para análisis de imágenes, así como
+      también formación a través de supervisión y cursos
+    - Uppsala Uiversitet, Uppsala, Suecia.
+  - name: Postdoctorado en biología del desarrollo
+    date: 2022--2024
+    location: Departmento de Biología Celular y Molecular, Karolinska Institutet
+    description:
+    - Afinando Notch y mecánica para ingeniería de destino celular
+    - 'Directora: Dr. Emma R. Andersson.'
+    - 'Marie Skłodowska-Curie Actions: Sello de Excelencia.'
+    - Subsidiado por Vetenskapsrådet (Ministerio de Ciencia de Suecia).
+  - name: Postdoctorado en Ciencias Físicas
+    date: 2021--2022
+    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    description:
+    - Desarrollo de técnicas de espectroscopía de correlación aplicadas al estudio
+      de la propagación de señales intra e intercelulares
+    - 'Director: Hernán E. Grecco'
+    - Beca doctoral de CONICET 2016-2021
+  - name: Doctorado en Ciencias Físicas
+    date: 2016--2021
+    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    description:
+    - Desarrollo de técnicas de espectroscopía de correlación aplicadas al estudio
+      de la propagación de señales intra e intercelulares
+    - 'Director: Hernán E. Grecco'
+    - Beca doctoral de CONICET 2016-2021
+  - name: Pasantía
+    date: '2019'
+    location: 'Proyecto: Visualizing early tumorigenesis via beta-catenin oncomeme
+      in murine intestinal organoids, Dr. Philippe Bastiaens'
+    description:
+    - Systemic Cell Biology, Max Planck Institute for Molecular Physiology
+    - 7 semanas en el exterior y se continua trabajando a la fecha
+  - name: Participación en Proyecto
+    date: 2017--2021
+    location: PICT-2017-1160, Diseño y construcción de un prototipo de microscopio
+      de fluorescencia miniaturizado, de bajo costo, para aplicaciones en neurociencias
+      y medicina
+    description:
+    - En carácter de becario doctoral
+  - name: Participación en Proyecto
+    date: 2016--2021
+    location: 'PICT-2014-3744, Correlación y causalidad: microscopía multiparamétrica
+      de señales celulares'
+    description:
+    - En carácter de becario doctoral
+  - name: Beca Estímulo
+    date: 2014-2016
+    location: 'Proyecto: Caracterización de nanoemisores para terapia fotodinámica
+      cuantificando la respuesta apoptótica mediante microscopía por anistropía de
+      fluorescencia, Dr. Hernán E. Grecco'
+    description:
+    - Laboratorio de Electrónica Cuántica, Facultad de Ciencias Exactas, U.B.A.
+  - name: Pasantía
+    date: '2010'
+    location: 'Proyecto: Células madres mesenquimales de médula ósea para regeneración
+      y transferencia de genes terapéuticos en la cirrosis hepática, Dr. Jorge B.
+      Aquino'
+    description:
+    - Laboratorio de Terapia Génica,Hospital Universitario Austral
   Docencia y Formación:
-    - name: Profesor invitado
-      date: '2025'
-      location: Sveriges lantbruksuniversitet, Universidad de Ciencias de la agricultura de Suecia
-      description:
-      - Curso de 3 semanas
-      - '*AI Tools in Biology*: Seminario teórico y práctico sobre inteligencia artificial en análisis de bioimágenes.'
-    - name: Profesor invitado
-      date: '2024'
-      location: Center for Cellular Imaging, Universidad de Gotemburgo
-      description:
-      - Curso intensivo de 1 semana
-      - '**Introducción al análisis de bioimágenes**: Curso teórico y práctico sobre
-        análisis de imágenes orientado a biología.'
-    - name: Profesor invitado y facilitador
-      date: '2025'
-      location: Live Cell Imaging, Karolinska Institutet
-      description:
-      - Curso intensivo de 3 semanas
-      - '**Microscopy: Improve Your Imaging Skills - From Sample Preparation to Image
-        Analysis**: Curso teórico y práctico sobre diseño experimental en microscopía.'
-      - '[Link a video](https://www.youtube.com/watch?v=tqiq2wKrMLY)'
-    - name: Ayudante
-      date: '2024'
-      location: National Bioinformatics Infrastructure Sweden, Bioimage Informatics,
-        Uppsala Universitet
-      description:
-      - Curso intensivo de 1 semana
-      - '**Neural networks and Deep Learning**: Curso teórico y práctico sobre diseño
-        de redes neurales.'
-    - name: Ayudante (Facilitador)
-      date: '2024'
-      location: Live Cell Imaging Facility, Karolinska Institutet
-      description:
-      - Curso intensivo de 3 semanas
-      - '**Microscopy: Improve Your Imaging Skills - From Sample Preparation to Image
-        Analysis**: Curso teórico y práctico sobre diseño experimental en microscopía.'
-    - name: Supervisión de estudiantes de High School
-      date: 2024--2025
-      location: Hitachigymnasium Västerås, Uppsala, Suecia
-      description:
-      - Como proyecto de fin de clases de High School los estudiantes desarrollan un proyecto de desarrollo tecnológico.
-      - El proyecto consistía en utilizar una Raspberry Pi para tomar imágenes y advertir a un conductor de un vehículo.
-    - name: Supervisión de Estudiante de Máster
-      date: '2024'
-      location: Departamento de Biología Celular y Molecular, Karolinska Institutet
-      description:
-      - Proyecto de 4 meses
-      - 'Exploring liver embryonic progenitors and at what extend they can be manipulated:
-        Analysis of GSK126 effects on the differentiation of liver progenitor cells
-        in vitro'
-    - name: Supervisión de Estudiante de Bachelor
-      date: 2023--2024
-      location: Departamento de Biología Celular y Molecular, Karolinska Institutet
-      description:
-      - Su proyecto consistía en hacer clearing de cortes gruesos de hígado y luego
-        adquirir y analizar imágenes de microscopía.
-    - name: Jefe de Trabajos Prácticos
-      date: 2019-Curso de verano
-      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - Dedicación Simple, 20hs. semanales
-      - Laboratorio 3
-    - name: Ayudante Primera
-      date: 2017-2021
-      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - Dedicación Simple, 10hs. semanales
-      - Instrumentación y Control
-      - Laboratorio 5
-      - Laboratorio 3
-      - Microscopía Óptica y de Fluorescencia I
-      - Física 1 para Biólogos y Geólogos
-    - name: Ayudante Segunda
-      date: '2015--2017'
-      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - Dedicación Simple, 10 hs. semanales
-      - Física 1 y 2 para Biólogos y Geólogos
-      - Laboratorio 1 para Químicos
-      - Laboratorio 5
-    - name: Ayudante Segunda
-      date: '2010'
-      location: Facultad de Ciencias Biomédicas, Hospital Universitario Austral
-      description:
-      - 10 hs. semanales
-      - Medicina Celular y Molecular
-    - name: Taller de Programación en Python y \LaTeX
-      date: 2014--2015
-      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - 3 clases de 3 hs. una vez por cuatrimestre
-      - Organización, difusión y presentación del Taller
-    - name: Instituto Profesores Particulares
-      date: '2013'
-      location: Buenos Aires, Argentina
-      description:
-      - Profesor Particular, Octubre y Noviembre
-    - name: Taller de Programación en \LaTeX
-      date: '2013'
-      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - en ambos cuatrimestres
-      - Organización, difusión y presentación del Taller
-    - name: Clases Particulares
-      date: 2011-2013
-      location: Buenos Aires, Argentina
-      description:
-      - 'Clases Particulares de: Física, Matemática, Química, Biología, Biofísica.'
-      - 'Nivel Primario, Secundario y Universitario.'
+  - name: Co-organizador
+    date: '2025'
+    location: Light Sheet Image Analysis Workshop, Universidad Mayor, Santiago de
+      Chile
+    description:
+    - Curso de 1 semana
+    - Como coorganizador del curso, participe en diseñar el cronogrma, decidir los
+      temas a aprender, diseñé 3 clases teóricas y 2 talleres.
+  - name: Profesor invitado
+    date: '2025'
+    location: Curso de Fundamentos de Microscopía Óptica, Fundación Instituto Leloir
+    description:
+    - Curso de 1 semana
+    - '**Imagen Digital e Introducción al análsiis de bioimágenes**: Dos clases teóricas
+      y dos prácticos sobre que es la imagen digital y el análisis de bioimágenes.
+      \href'
+    - https://zenodo.org/records/16920518
+    - Link a Material
+    - https://zenodo.org/records/16920046
+    - Link a Material
+  - name: Profesor invitado
+    date: '2025'
+    location: Sveriges lantbruksuniversitet, Universidad de Ciencias de la agricultura
+      de Suecia
+    description:
+    - Curso de 3 semanas
+    - '**AI Tools in Biology**: Seminario teórico y práctico sobre inteligencia artificial
+      en análisis de bioimágenes. \href'
+    - https://zenodo.org/records/15393775
+    - Link a Material
+  - name: Profesor invitado y facilitador
+    date: '2025'
+    location: Live Cell Imaging, Karolinska Institutet
+    description:
+    - Curso intensivo de 3 semanas
+    - '**Microscopy: Improve Your Imaging Skills - From Sample Preparation to Image
+      Analysis**: Curso teórico y práctico sobre diseño experimental en microscopía.'
+    - \href{https://www.youtube.com/watch?v=tqiq2wKrMLY}{Link a video
+  - name: Profesor invitado
+    date: '2024'
+    location: Center for Cellular Imaging, Universidad de Gotemburgo
+    description:
+    - Curso intensivo de 1 semana
+    - '**Introducción al análisis de bioimágenes**: Curso teórico y práctico sobre
+      análisis de imágenes orientado a biología.'
+  - name: Ayudante
+    date: '2024'
+    location: National Bioinformatics Infrastructure Sweden, Bioimage Informatics,
+      Uppsala Universitet
+    description:
+    - Curso intensivo de 1 semana
+    - '**Neural networks and Deep Learning**: Curso teórico y práctico sobre diseño
+      de redes neurales.'
+  - name: Ayudante (Facilitador)
+    date: '2024'
+    location: Live Cell Imaging Facility, Karolinska Institutet
+    description:
+    - Curso intensivo de 3 semanas
+    - '**Microscopy: Improve Your Imaging Skills - From Sample Preparation to Image
+      Analysis**: Curso teórico y práctico sobre diseño experimental en microscopía.'
+  - name: Supervisión de Estudiante de Master
+    date: '2024'
+    location: Departamento de Biología Celular y Molecular, Karolinska Institutet
+    description:
+    - Proyecto de 4 meses
+    - 'Exploring liver embryonic progenitors and at what extend they can be manipulated:
+      Analysis of GSK126 effects on the differentiation of liver progenitor cells
+      in vitro'
+  - name: Supervisión de Estudiante
+    date: 2023--2024
+    location: Departamento de Biología Celular y Molecular, Karolinska Institutet
+    description:
+    - Estudiante de Bachelor
+    - Su proyecto consistía en hacer clearing de cortes gruesos de hígado y luego
+      adquirir y analizar imágenes de microscopía.
+  - name: Jefe de Trabajos Prácticos
+    date: 2019-Curso de verano
+    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    description:
+    - Dedicación Simple, 20hs. semanales
+    - Laboratorio 3
+  - name: Ayudante Primera
+    date: 2017-2021
+    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    description:
+    - Dedicación Simple, 10hs. semanales
+    - Instrumentación y Control\\Laboratorio 5\\Laboratorio 3\\Microscopía Óptica
+      y de Fluorescencia I
+    - Física 1 para Biólogos y Geólogos
+  - name: Ayudante Segunda
+    date: 2015-2017
+    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    description:
+    - Dedicación Simple, 10hs. semanales
+    - Física 1 y 2 para Biólogos y Geólogos
+    - Laboratorio 1 para Químicos
+    - Laboratorio 5
+  - name: Taller de Programación en Python y \LaTeX
+    date: 2014--2015
+    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    description:
+    - 3 clases de 3 hs. una vez por cuatrimestre
+    - Organización, difusión y presentación del Taller
+  - name: Instituto Profesores Particulares
+    date: '2013'
+    location: Profesor Particular, Octubre y Noviembre
+    description: []
+  - name: Taller de Programación en \LaTeX
+    date: '2013'
+    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    description:
+    - en ambos cuatrimestres
+    - Organización, difusión y presentación del Taller
+  - name: Clases Particulares
+    date: 2011-2013
+    location: 'Clases Particulares de: Física, Matemática, Química, Biología, Biofísica.
+      \newline, Nivel Primario, Secundario y Universitario.'
+    description: []
+  - name: Ayudante Segunda
+    date: '2010'
+    location: Medicina Celular y Molecular, Facultad de Ciencias Biomédicas
+    description:
+    - Hospital Universitario Austral
+    - 10 hs. semanales
   Profesionales:
-    - name: Bohus Biotech
-      date: '2025'
-      location: Uppsala, Suecia
-      description:
-      - Consulta independiente para desarrollar de algoritmos de análisis de imágenes para evaluar la calidad de productos estéticos.
-    - name: Detección de interacciones proteína-proteína mediante ensayos de ligando proteína
-      date: '2025'
-      location: Navinci, Uppsala, Suecia
-      description:
-      - Desarrollar algoritmos de análisis de imágenes para la detección de interacciones proteína-proteína.
-    - name: Servicio Técnico de Alto Nivel
-      date: '2019'
-      location: Laboratorio de Electrónica Cuántica, Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - ST4407, Colaboración con Y-Tec, Petrografía Digital
+  - name: Consulta especialista en análisis de imágenes
+    date: '2025'
+    location: Consulta de Navinci, Navinci comercializa kits de detección de interacciones
+      entre proteinas y consulta para confeccionar un flujo de análisis de imágenes
+      robusto y automatizado
+    description: []
+  - name: Servicio Técnico de Alto Nivel
+    date: '2019'
+    location: Colaboración con Y-Tec, Petrografía Digital
+    description:
+    - ST4407
 Producción:
   Publicaciones:
-    - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
-      date: '2025'
-      journal: Science
-      authors: Sandra de Haan, Jingyan He, **Agustin A. Corbat**, Lenka Belicova,
-        Michael Ratz, Elin Vinsland, Sten Linnarsson, Jonas Frisén, Matthew W. Kelley,
-        Emma R. Andersson
-      description:
-      - 'doi: https://doi.org/10.1126/science.adq9248'
-    - title: The non-canonical Smoothened-AMPK axis regulates Smaug1 biomolecular condensates
-      date: '2025'
-      journal: Journal of Cell Science
-      authors: María G. Thomas, Ana J. Fernández-Alvarez, Macarena Giménez, Francisco
-        C. Aristarain, Lucas H. Cozza, Jerónimo Pimentel, João Pessoa, Malena L. Pascual,
-        Lara Boscaglia, Martín Habif, **Agustín Corbat**, Pablo E. La Spina, Tomás
-        Peters, Diego M. Bustos, Maria Carmo-Fonseca, Hernán E. Grecco, Graciela L.
-        Boccaccio
-      description:
-      - 'doi: https://doi.org/10.1242/jcs.263433'
-    - title: Jag1 represses Notch activation in lateral supporting cells and inhibits an outer hair cell fate in the medial cochlea
-      date: '2024'
-      journal: Development
-      authors: Sandra de Haan, **Agustin Corbat**, Christopher R. Cederroth, Lisa
-        G. Autrum, Simona Hankeova, Elizabeth C. Driver, Barbara Canlon, Matthew W.
-        Kelley, Emma R. Andersson
-      description:
-      - 'Year: 2024; doi: https://doi.org/10.1242/dev.202949'
-    - title: Molten Globule Driven and Self-downmodulated Phase Separation of a Viral Factory Scaffold
-      date: '2023'
-      journal: Journal of Molecular Biology
-      authors: Mariano Salgueiro, Gabriela Camporeale, Araceli Visentin, Martin Aran,
-        Leonardo Pellizza, Sebastián A. Esperante, **Agustín Corbat**, Hernán Grecco,
-        Belén Sousa, Ramiro Esperón, Silvia S. Borkosky, Gonzalo de Prat-Gay
-      description:
-      - 'Year: 2023; doi: https://doi.org/10.1016/j.jmb.2023.168153'
-    - title: Smaug1 membrane-less organelles respond to AMPK and mTOR and affect mitochondrial function
-      date: '2021'
-      journal: Journal of Cell Science
-      authors: Ana J. Fernández-Alvarez, María Gabriela Thomas, Malena L. Pascual,
-        Martín Habif, Jerónimo Pimentel, **Agustin A. Corbat**, João P. Pessoa, Pablo
-        E. La Spina, Lara Boscaglia, Anne Plessis, Maria Carmo-Fonseca, Hernán E.
-        Grecco, Marta Casado, Graciela L. Boccaccio
-      description:
-      - 'doi: https://doi.org/10.1242/jcs.253591'
-    - title: An Integrative Apoptotic Reaction Model for extrinsic and intrinsic stimuli
-      date: '2021'
-      journal: BioRxiv
-      authors: '**Agustin A. Corbat**, Mauro Silberberg, Hernán E. Grecco'
-      description:
-      - 'doi: https://doi.org/10.1101/2021.05.21.444824'
-    - title: 'CASPAM: a triple modality biosensor for multiplexed imaging of caspase network activity'
-      date: '2021'
-      journal: bioRxiv
-      authors: Martín Habif*, **Agustin A. Corbat***, Mauro Silberberg, Hernán E.
-        Grecco
-      description:
-      - ACS Sensors, *Autores contribuyeron equitativamente
-      - 'doi: https://doi.org/10.1101/2021.03.10.434623'
-    - title: Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy
-      date: '2018'
-      journal: REDOX Biology
-      authors: '**Agustin A. Corbat**, Klaus C. Schuermann, Piotr Liguzinski, Yvonne
-        Radon, Philippe I.H. Bastiaens, Peter J. Verveer, Hernán E. Grecco'
-      description:
-      - Publicado
-      - 'Volumen: 19; Emisión: Junio; Páginas: 210-217'
-      - 'doi: 10.1016/j.redox.2018.07.023'
+  - title: 'GloBIAS: strengthening the foundations of BioImage Analysis'
+    date: '2025'
+    journal: ArXiv
+    authors: '**Agustin A. Corbat**, Christa G. Walther, Laura R. de la Ballina, Nicholas
+      D. Condon, Alessandro A. Felder, Martin Schätz, Bettina Schmerl, Ko Sugawara,
+      Clara Prats, Anna Klemm, Florian Levet, Kota Miura, Paula Sampaio, Christian
+      Tischer, Rocco D''Antuono, Beth A. Cimini, Robert Haase'
+    description:
+    - 'doi:'
+  - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
+    date: '2025'
+    journal: Science
+    authors: Sandra de Haan, Jingyan He, **Agustin A. Corbat**, Lenka Belicova, Michael
+      Ratz, Elin Vinsland, Sten Linnarsson, Jonas Frisén, Matthew W. Kelley, Emma
+      R. Andersson
+    description:
+    - 'doi: https://doi.org/10.1126/science.adq9248'
+  - title: The non-canonical Smoothened-AMPK axis regulates Smaug1 biomolecular condensates
+    date: '2025'
+    journal: Journal of Cell Science
+    authors: María G. Thomas, Ana J. Fernández-Alvarez, Macarena Giménez, Francisco
+      C. Aristarain, Lucas H. Cozza, Jerónimo Pimentel, João Pessoa, Malena L. Pascual,
+      Lara Boscaglia, Martín Habif, **Agustín Corbat**, Pablo E. La Spina, Tomás Peters,
+      Diego M. Bustos, Maria Carmo-Fonseca, Hernán E. Grecco, Graciela L. Boccaccio
+    description:
+    - 'doi: https://doi.org/10.1242/jcs.263433'
+  - title: Jag1 represses Notch activation in lateral supporting cells and inhibits
+      an outer hair cell fate in the medial cochlea
+    date: '2024'
+    journal: Development
+    authors: Sandra de Haan, **Agustin Corbat**, Christopher R. Cederroth, Lisa G.
+      Autrum, Simona Hankeova, Elizabeth C. Driver, Barbara Canlon, Matthew W. Kelley,
+      Emma R. Andersson
+    description:
+    - 'Year: 2024; doi: https://doi.org/10.1242/dev.202949'
+  - title: Molten Globule Driven and Self-downmodulated Phase Separation of a Viral
+      Factory Scaffold
+    date: '2023'
+    journal: Journal of Molecular Biology
+    authors: Mariano Salgueiro, Gabriela Camporeale, Araceli Visentin, Martin Aran,
+      Leonardo Pellizza, Sebastián A. Esperante, **Agustín Corbat**, Hernán Grecco,
+      Belén Sousa, Ramiro Esperón, Silvia S. Borkosky, Gonzalo de Prat-Gay
+    description:
+    - 'Year: 2023; doi: https://doi.org/10.1016/j.jmb.2023.168153'
+  - title: Smaug1 membrane-less organelles respond to AMPK and mTOR and affect mitochondrial
+      function
+    date: '2021'
+    journal: Journal of Cell Science
+    authors: Ana J. Fernández-Alvarez, María Gabriela Thomas, Malena L. Pascual, Martín
+      Habif, Jerónimo Pimentel, **Agustin A. Corbat**, João P. Pessoa, Pablo E. La
+      Spina, Lara Boscaglia, Anne Plessis, Maria Carmo-Fonseca, Hernán E. Grecco,
+      Marta Casado, Graciela L. Boccaccio
+    description:
+    - 'Año: 2021; doi: https://doi.org/10.1242/jcs.253591'
+  - title: An Integrative Apoptotic Reaction Model for extrinsic and intrinsic stimuli
+    date: '2021'
+    journal: BioRxiv
+    authors: '**Agustin A. Corbat**, Mauro Silberberg, Hernán E. Grecco'
+    description:
+    - 'Año: 2021'
+  - title: 'CASPAM: a triple modality biosensor for multiplexed imaging of caspase
+      network activity'
+    date: '2021'
+    journal: bioRxiv
+    authors: Martín Habif*, **Agustin A. Corbat***, Mauro Silberberg, Hernán E. Grecco
+    description:
+    - ACS Sensors, *Autores contribuyeron equitativamente
+    - 'Año: 2021; doi: https://doi.org/10.1101/2021.03.10.434623'
+  - title: Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence
+      anisotropy microscopy
+    date: '2018'
+    journal: REDOX Biology
+    authors: '**Agustin A. Corbat**, Klaus C. Schuermann, Piotr Liguzinski, Yvonne
+      Radon, Philippe I.H. Bastiaens, Peter J. Verveer, Hernán E. Grecco'
+    description:
+    - Publicado
+    - 'Año: 2018; Volumen: 19; Emisión: Junio; Páginas: 210-217; doi: 10.1016/j.redox.2018.07.023'
+  free_text:
+  - https://doi.org/10.48550/arXiv.2507.06407}
   Posters y Presentaciones Orales:
-    - name: Demostración de TissUUmaps
-      date: '2024'
-      event: Imaging The Future
-      authors: '**Corbat, Agustin**'
-      location: Austin, Texas, Estados Unidos
-      description:
-      - Presentación de software
-    - name: The Three Gears of Bioscience Projects
-      date: '2024'
-      event: Imaging The Future
-      authors: '**Corbat, Agustin**'
-      location: Austin, Texas, Estados Unidos
-      description:
-      - Presentación de póster
-      - '[Link](https://figshare.com/articles/poster/The_Three_Gears_of_Bioscience_Projects/27725865?file=50481666)'
-    - name: On Navigating the archipelago
-      date: '2024'
-      event: GloBIAS in-person Workshop
-      authors: '**Corbat, Agustin**'
-      location: Universidad de Gotenburgo, Suecia
-      description:
-      - Presentación
-      - '[Diapositivas](https://github.com/GloBIAS-BioimageAnalysts/workshop24_Gothenburg/blob/main/Training_and_Education_Corbat_On_navigating.pptx)'
-      - '[Video](https://www.youtube.com/watch?v=uKQ2OsPboi0)'
-    - name: Interfacing with other networks
-      date: '2024'
-      event: GloBIAS in-person Workshop
-      authors: '**Corbat, Agustin**'
-      location: Universidad de Gotenburgo, Suecia
-      description:
-      - Presentación
-      - '[Diapositivas](https://docs.google.com/presentation/d/13qqOv7V2_8JLehdJA6WURrcpjyz1M2qC/edit)'
-      - '[Documento](https://docs.google.com/document/d/1miWe3rwJYZl7-Edv8yOys7_iOyKxhlioFZdh9h6Qu-8/edit?tab=t.0)'
-      - '[Video](https://www.youtube.com/watch?v=14ZOBSymLds)'
-    - name: 'Multiplexed tissue imaging: tools and approaches'
-      date: '2024'
-      event: 'I2K: Images to Knowledge'
-      authors: '**Corbat, Agustin**; Klemm, Anna; Ballosera Navarro, Frederic; Windhager, Jonas; Lidayová, Kristína'
-      location: Human Technopole, Milán, Italia
-      description:
-      - Taller de 90 minutos
-    - name: Bioimage Informatics Facility
-      date: '2024'
-      event: SciLifeLab Spatial Biology Science Summit
-      authors: '**Corbat, Agustin**'
-      location: Uppsala Universitet, Uppsala, Suecia
-      description:
-      - Presentación de póster
-    - name: 'Unravelling apoptotic signalling cascade by co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy'
-      date: '2019'
-      event: Whole Cell Modelling Summer School 2019, EMBO Workshop
-      authors: Corbat, Agustín A.; Grecco, Hernán E.
-      location: Barcelona, España
-      description:
-      - Presentación de póster
-    - name: 'Unravelling apoptotic signalling cascade by co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy'
-      date: '2020'
-      event: 'Systems Biology of Cancer: Promises of Artificial Intelligence; EMBO|FEBS Lecture Course'
-      authors: Corbat, Agustín A.; Grecco, Hernán E.
-      location: Institut Curie, Paris, France
-      description:
-      - Charla seleccionada y presentación de póster
-      - Encuentro Virtual
-    - name: 'Unravelling apoptotic signalling cascade by co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy'
-      date: '2020'
-      event: 'Image-based Systems Biology, 5^th^ International Symposium'
-      authors: Corbat, Agustín A.; Silberberg, Mauro; Grecco, Hernán E.
-      location: Hans-Knöll Institute, University of Jena, Germany
-      description:
-      - Charla en tandem seleccionada y presentación de póster
-      - Encuentro Virtual
-    - name: Molten Globule Driven Liquid-Liquid Phase Separation at the Center of Viral Factory Assembly
-      date: '2020'
-      event: Biophysical Journal
-      authors: Salgueiro, Mariano; Camporeale, Gabriela; Conci, Julieta; Sousa, Belen;
-        Visentin, Araceli; Corbat, Agustin; Grecco, Hernan; de Oliveira, Guilherme
-        A.; de Prat-Gay, Gonzalo
-      location: San Diego, California, Estados Unidos
-      description:
-      - Presentación de póster a cargo de Mariano Sagueiro
-    - name: Towards a spatio-temporal map of apoptosis in fruit fly embryo
-      date: '2018'
-      event: Taller de Biología Celular y del Desarrollo
-      authors: Moretti, Bruno; Corbat, Agustín A.; Habif, Martín; Grecco, Hernán E.
-      location: Chascomús, Buenos Aires, Argentina
-      description:
-      - Presentación de póster a cargo de Bruno Moretti
-    - name: Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy
-      date: '2018'
-      event: Giambiagi Winter School
-      authors: Corbat, Agustín and Grecco, Hernán
-      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - Presentación de póster
-    - name: A single plasmid based triple-modality-reporter-system for multiplexing caspase activity in individual cells
-      date: '2018'
-      event: SPCell2018
-      authors: Habif, Martín; Corbat, Agustín; Grecco, Hernán
-      location: São Paulo School in Advanced Cell Biology, University of São Paulo, Brazil
-      description:
-      - Presentación de Póster a cargo de Martín Habif
-      - Co-organizado por EMBO y American Society of Cell Biology (ASCB)
-    - name: Integrating functional imaging with light sheet fluorescence microscopy
-      date: '2017'
-      event: Annual Meeting of International Physics of Living Systems (iPoLS) Network
-      authors: Moretti, Bruno; Corbat, Agustín; Habif, Martín; Grecco, Hernán
-      location: Paris, France
-      description:
-      - Presentación de Póster
-    - name: Modeling Caspase Dynamics from Temporal Series
-      date: '2016'
-      event: Frontiers in Bioscience 2
-      authors: Corbat, Agustín; Grecco, Hernán
-      location: Insituto de Biología de Buenos Aires, Buenos Aires, Argentina
-      description:
-      - Presentación de Póster
-    - name: A triple-modality-reporter system for multiplexing intracellular signaling at the single cell level
-      date: '2016'
-      event: Frontiers in Bioscience 2
-      authors: Habif, Martín; Corbat, Agustín; Grecco, Hernán
-      location: Insituto de Biología de Buenos Aires, Buenos Aires, Argentina
-      description:
-      - Presentación de Póster
-    - name: Modelado de experimentos de homoFRET en red de señalización de apoptosis
-      date: '2016'
-      event: Reunión Nacional de Física N^o^ 101
-      authors: Corbat, Agustín; Grecco, Hernán
-      location: Villa de Merlo, San Luis, Argentina
-      description:
-      - Presentación de Póster
-    - name: Proyecto Tecnológico
-      date: '2015'
-      event: Sistema Optomecánica Abierta
-      authors: Proyecto SOMA
-      location: Buenos Aires, Argentina
-      description:
-      - 2º premio en INNOVAR 2015
-      - Dispositivos electromecánicos para experimentos de óptica confeccionados con
-        impresora 3D y controlados por una placa Arduino.
-      - http://www.lec.df.uba.ar/soma/
-    - name: Sistema Opto-mecánico Abierto
-      date: '2015'
-      event: Reunión Nacional de Física N^o^ 100
-      authors: Cuenca, Marina; Corbat, Agustín; von Bilderling, Catalina; Pietrasanta, Lia; Grecco, Hernán
-      location: Tandil, Buenos Aires, Argentina
-      description:
-      - Póster
-    - name: Open Source Fast Filter Wheel
-      date: '2015'
-      event: Giambiagi Winter School
-      authors: Corbat, Agustín; Cuenca, Marina; von Bilderling, Catalina; Pietrasanta, Lia; Grecco, Hernán
-      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - Póster
-  Divulgación Científica:
-    - name: Semana de  la Física
-      date: '2016'
-      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - 'Charla: "Luces de la Semana"'
-      - Preparación
-    - name: Semana de la  Física
-      date: '2015'
-      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - Estación de óptica
-      - Expositor
-    - name: Semana de la Física
-      date: '2014'
-      location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-      description:
-      - Estación de óptica
-      - Expositor
-    - name: Tecnópolis
-      date: '2013'
-      location: Buenos Aires, Argentina
-      description:
-      - Expositor en Stand de Física
-      - Septiembre y Octubre
-  Otros:
-    - name: A 3D human motor neuron disease platform for high throughput drug screening
-      type: dataset en BioImage Archive
-      date: 2025
-      authors: Katharina Hennig, Afonso Malheiro, Edgar R. Gomes, Agustin Corbat
-      doi: 10.6019/S-BIAD1737
-      description: This datasets consists of two images of human induced Pluripotent Stem Cells (hiPSC) derived motor neuron-neurospheres, one treated with 5 µM MI132 to induce stress granule formation and the other one untreated. Channel 1 corresponds to Islet1 antibody staining, channel 2 to G3BP antibody staining and channel 3 corresponds to DAPI staining. Images have a z-stack that covers at least half the neurosphere.
-    - name: 'AI4Life Open Call 2: Project 38'
-      type: Repositorio de código
-      date: 2025
-      authors: Agustin Corbat
-      doi: 10.5281/zenodo.15088621
-      description: 'Image Analysis pipeline developed for AI4Life open call 2 project 38: Neuroscan. Dataset can be found in BioImage Archive with accession number: S-BIAD1737'
-Cursos y Congresos:
-  - name: Bioinformatics Swedish Week (Semana de Bioinformática Sueca)
-    date: '2023'
-    extension: 16 hs
-    location: Karolinska Institutet, Estocolmo, Suecia
-    language: Inglés
+  - title: 'GloBIAS: strengthening the foundations of Bioimage Analysis'
+    date: '2025'
+    event: LABI Meeting 2025
+    authors: '**Corbat, Agustin**'
     description:
-    - Asistencia y curso
-  - name: Advanced Methods in Bioimage Analysis
-    date: '2023'
-    extension: 50 hs
-    location: EMBO, Heidelberg, Alemania
-    language: Inglés
+    - lightning talk and poster
+    - Buenos Aires, Argentina, \href
+    - https://zenodo.org/records/17632823
+    - Link to slides
+    - https://zenodo.org/records/17633744
+    - Link to poster
+  - title: The Core Institutional Memory
+    date: '2025'
+    event: Democratizing Microscopy in Latin America
+    authors: '**Corbat, Agustin**'
     description:
-    - Curso hibrido
-    - Participante Virtual
-  - name: 'GPU Programming: Why, When and How?'
-    date: '2023'
-    extension: 16 hs
-    location: EuroCC National Competence Centre, Sweden
-    language: Inglés
+    - Turbo talk
+    - Baños de Agua Santa, Ecuador, \href
+    - https://zenodo.org/records/17354368
+    - Link
+  - title: Demostración de TissUUmaps
+    date: '2024'
+    event: Imaging The Future
+    authors: '**Corbat, Agustin**'
     description:
-    - Curso Online
-  - name: Programming Formalisms
-    date: '2023'
-    extension: 40 hs
-    location: High Performance Computing Center North and UPPMAX
-    language: Inglés
+    - Presentación de software
+    - Austin, Texas, Estados Unidos
+  - title: The Three Gears of Bioscience Projects
+    date: '2024'
+    event: Imaging The Future
+    authors: '**Corbat, Agustin**'
     description:
-    - Curso Online
-  - name: Using Python in an HPC environment
-    date: '2023'
-    extension: 6 hs
-    location: High Performance Computing Center North and UPPMAX
-    language: Inglés
+    - Presentación de póster
+    - Austin, Texas, Estados Unidos, \\ \href
+    - https://figshare.com/articles/poster/The_Three_Gears_of_Bioscience_Projects/27725865?file=50481666
+    - Link
+  - title: On Navigating the archipelago
+    date: '2024'
+    event: GloBIAS in-person Workshop
+    authors: '**Corbat, Agustin**'
     description:
-    - Curso Online
-  - name: Advanced Deep Learning with Transformers
-    date: '2023'
-    extension: 16 hs
-    location: EuroCC National Competence Centre Sweden
-    language: Inglés
+    - Presentación
+    - Universidad de Gotenburgo, Suecia \\ \href
+    - https://github.com/GloBIAS-BioimageAnalysts/workshop24_Gothenburg/blob/main/Training_and_Education_Corbat_On_navigating.pptx
+    - Diapositivas
+  - title: Interfacing with other networks
+    date: '2024'
+    event: GloBIAS in-person Workshop
+    authors: '**Corbat, Agustin**'
     description:
-    - Curso Online
-  - name: Data-Driven Precision Medicine and Diagnostics Research Area Symposium
-    date: '2022'
-    extension: 8 hs
-    location: Estocolmo, Karolinska Institutet
-    language: Inglés
+    - Presentación
+    - Universidad de Gotenburgo, Suecia \\ \href
+    - https://docs.google.com/presentation/d/13qqOv7V2_8JLehdJA6WURrcpjyz1M2qC/edit
+    - Diapositivas
+    - https://docs.google.com/document/d/1miWe3rwJYZl7-Edv8yOys7_iOyKxhlioFZdh9h6Qu-8/edit?tab=t.0
+    - Documento
+  - title: 'Multiplexed tissue imaging: tools and approaches'
+    date: '2024'
+    event: 'I2K: Images to Knowledge'
+    authors: '**Corbat, Agustin**; Klemm, Anna; Ballosera Navarro, Frederic; Windhager,
+      Jonas; Lidayová, Kristína'
     description:
-    - Asistencia
-  - name: Data-Driven research at Karolinska Institutet
-    date: '2022'
-    extension: 4 hs
-    location: Estocolmo, Karolinska Institutet
-    language: Inglés
+    - Taller de 90 minutos
+    - Human Technopole, Milán, Italia
+  - title: Bioimage Informatics Facility
+    date: '2024'
+    event: SciLifeLab Spatial Biology Science Summit
+    authors: '**Corbat, Agustin**'
     description:
-    - Asistencia
-  - name: Stem cells, regeneration biology and regenerative medicine
-    date: '2022'
-    extension: 2^nd^ StratRegen Conferencia, 8hs
-    location: Estocolmo, Karolinska Institutet
-    language: Inglés
-    description:
-    - Asistencia
-  - name: 'Systems Biology of Cancer: Promises of Artificial Intelligence'
+    - Presentación de póster
+    - Uppsala Universitet
+  - title: Unravelling apoptotic signalling cascade by co-imaging extrinsic, intrinsic
+      and effector caspase activity by fluorescence anisotropy microscopy
     date: '2020'
-    extension: 40 hs
-    location: Institut Curie, Paris, France
-    language: Inglés
+    event: 'Systems Biology of Cancer: Promises of Artificial Intelligence; EMBO|FEBS
+      Lecture Course'
+    authors: Corbat, Agustin; Grecco, Hernan
     description:
-    - Curso virtual de EMBO|FEBS
-    - Asistencia, charla seleccionada y presentación de póster
-  - name: Image-based Systems Biology
+    - Charla seleccionada y presentación de póster
+    - Institut Curie, Paris, France; Encuentro Virtual
+  - title: Unravelling apoptotic signalling cascade by co-imaging extrinsic, intrinsic
+      and effector caspase activity by fluorescence anisotropy microscopy
     date: '2020'
-    extension: 16 hs
-    location: Hans-Knöll Institute, University of Jena, Germany
-    language: Inglés
+    event: Image-based Systems Biology, 5^th^ International Symposium
+    authors: Corbat, Agustin; Silberberg, Mauro; Grecco, Hernan
     description:
-    - Quinto Simposio Internacional
-    - Asistencia, charla en tandem seleccionada y presentación de póster
-    - Encuentro virtual
-  - name: Whole Cell Modelling Summer School
+    - charla en tandem seleccionada y presentación de póster
+    - Hans-Knöll Institute, University of Jena, Germany; Encuentro Virtual
+  - title: Molten Globule Driven Liquid-Liquid Phase Separation at the Center of Viral
+      Factory Assembly
+    date: '2020'
+    event: Biophysical Journal
+    authors: Salgueiro, Mariano; Camporeale, Gabriela; Conci, Julieta; Sousa, Belen;
+      Visentin, Araceli; Corbat, Agustin; Grecco, Hernan; de Oliveira, Guilherme A.;
+      de Prat-Gay, Gonzalo
+    description:
+    - Presentación de póster a cargo de Mariano Sagueiro
+    - San Diego, California, Estados Unidos
+  - title: Unravelling apoptotic signalling cascade by co-imaging extrinsic, intrinsic
+      and effector caspase activity by fluorescence anisotropy microscopy
     date: '2019'
-    extension: Escuela de 50 horas
-    location: 'Centre for Genomic Regulation, European Molecular Biology Organization, Barcelona, España'
-    language: Inglés
+    event: Whole Cell Modelling Summer School 2019, EMBO Workshop
+    authors: Corbat, Agustín A.; Grecco, Hernán E.
     description:
-    - Asistencia y presentación de póster
-    - Becado por European Molecular Biology Organization y organización del curso
-  - name: 'Quantitative Imaging: From Acquisition to Analysis'
+    - Presentación de póster
+    - Barcelona, España
+  - title: Towards a spatio-temporal map of apoptosis in fruit fly embryo
     date: '2018'
-    extension: Escuela de 156 horas
-    location: 'Cold Spring Harbor Laboratory (CSHL). New York, USA.'
-    language: Inglés
+    event: Taller de Biología Celular y del Desarrollo
+    authors: Moretti, Bruno; Corbat, Agustín A.; Habif, Martín; Grecco, Hernán E.
     description:
-    - Media beca por Helmsley Charitable Trust y Howard Hughes Medical Institute
-  - name: School on Physics Applications in Biology
+    - Presentación de póster a cargo de Bruno Moretti
+    - Chascomús, Buenos Aires, Argentina
+  - title: Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence
+      anisotropy microscopy
     date: '2018'
-    extension: Escuela de 50 hs
-    location: 'International Center for Theoretical Physics (ICTP) - South American
-      Institute for Fundamental Research (SAIFR). S\~ao Paulo, Brasil.'
-    language: Inglés
+    event: Taller de Biología Celular y del Desarrollo (Workshop on Cellular and Developmental
+      Biology)
+    authors: Corbat, Agustín and Grecco, Hernán
     description:
-    - Traslado, alojamiento, mantenimiento y becado por ICTP
-  - name: 'Escuela de Ciencias Informáticas: "Bayesian Models in Machine Learning"'
+    - Presentación de póster
+    - Chascomús, Buenos Aires, Argentina
+  - title: Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence
+      anisotropy microscopy
+    date: '2018'
+    event: Giambiagi Winter School
+    authors: Corbat, Agustín and Grecco, Hernán
+    description:
+    - Presentación de póster
+  - title: A single plasmid based triple-modality-reporter-system for multiplexing
+      caspase activity in individual cells
+    date: '2018'
+    event: SPCell2018- São Paulo School in Advanced Cell Biology, University of São
+      Paulo, Brazil
+    authors: Habif, Martín; Corbat, Agustín; Grecco, Hernán
+    description:
+    - Presentación de Póster a cargo de Martín Habif
+    - Co-organizado por EMBO y American Society of Cell Biology (ASCB)
+  - title: Integrating functional imaging with light sheet fluorescence microscopy
     date: '2017'
-    extension: Curso de 15 hs.
-    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-    language: Inglés
+    event: Annual Meeting of International Physics of Living Systems (iPoLS) Network
+    authors: Moretti, Bruno; Corbat, Agustín; Habif, Martín; Grecco, Hernán
     description:
-    - 'Lukáš Burget. Brno University of Technology. República Checa.'
-    - 'Asistencia y Presentación Monografía (Nota:8)'
-  - name: 'Escuela de Ciencias Informáticas: "Machine learning for analyzing neuroimaging data from natural stimulus experiments"'
-    date: '2017'
-    extension: Curso de 15 hs.
-    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-    language: Inglés
-    description:
-    - Alex Huth. UC Berkeley. Estados Unidos.
-    - 'Asistencia y Presentación Monografía (Nota:8)'
-  - name: 'Escuela de Ciencias Informáticas: "Clasificación de estados cerebrales utilizando neuroimágenes funcionales"'
-    date: '2017'
-    extension: Curso de 15 hs.
-    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-    language: Español
-    description:
-    - Enzo Tagliazucchi. Brain and Spine Institute. Paris, Francia
-    - 'Asistencia y Presentación Monografía (Nota:8)'
-  - name: Simposium Frontiers in Bioscience 2
+    - Presentación de Póster
+  - title: Modeling Caspase Dynamics from Temporal Series
     date: '2016'
-    extension: Simposio de 1 semana
-    location: Instituto de Biología de Buenos Aires, Buenos Aires, Argentina
-    language: Inglés
+    event: Frontiers in Bioscience 2
+    authors: Corbat, Agustín; Grecco, Hernán
     description:
-    - Asistencia y Presentación póster
-  - name: 101$^a$ Reunión Nacional de la Asociación Física Argentina
+    - Presentación de Póster
+  - title: A triple-modality-reporter system for multiplexing intracellular signaling
+      at the single cell level
     date: '2016'
-    extension: Congreso de 1 semana
-    location: Villa de Merlo, San Luis, Argentina
-    language: Español
-    description: 
-    - Asistencia y Presentación póster
-  - name: 100$^a$ Reunión Nacional de la Asociación Física Argentina
+    event: Frontiers in Bioscience 2
+    authors: Habif, Martín; Corbat, Agustín; Grecco, Hernán
+    description:
+    - Presentación de Póster
+  - title: Modelado de experimentos de homoFRET en red de señalización de apoptosis
+    date: '2016'
+    event: Reunión Nacional de Física N^\circ^101
+    authors: Corbat, Agustín; Grecco, Hernán
+    description:
+    - Presentación de Póster
+  - title: Proyecto Tecnológico
     date: '2015'
-    extension: Congreso de 1 semana
-    location: Tandil, Buenos Aires, Argentina
-    language: Español
+    event: Sistema Optomecánica Abierta
+    authors: Proyecto SOMA
     description:
-    - Asistencia y Presentación oral
-  - name: Light and light based technologies
+    - 2º premio en INNOVAR 2015
+    - Dispositivos electromecánicos para experimentos de óptica confeccionados con
+      impresora 3D y controlados por una placa Arduino.
+    - http://www.lec.df.uba.ar/soma/
+  - title: Sistema Opto-mecánico Abierto
     date: '2015'
-    extension: Congreso de 1 semana
-    location: Facultad de Ciencias Exactas y Naturales, U.B.A
-    language: Inglés
+    event: Reunión Nacional de Física N^\circ^100
+    authors: Corbat, Agustín; Cuenca, Marina; Grecco, Hernán
     description:
-    - Giambiagi XVII Winter School
-    - Asistencia
-  - name: Técnicas para manipulación de frecuencias de láser
+    - Charla en división Óptica y Fotónica
+  - title: Sistema Opto-mecánico Abierto
+    date: '2015'
+    event: Reunión Nacional de Física N^\circ^100
+    authors: Cuenca, Marina; Corbat, Agustín; von Bilderling, Catalina; Pietrasanta,
+      Lia; Grecco, Hernán
+    description:
+    - Póster
+  - title: Open Source Fast Filter Wheel
+    date: '2015'
+    event: Giambiagi Winter School
+    authors: Corbat, Agustín; Cuenca, Marina; von Bilderling, Catalina; Pietrasanta,
+      Lia; Grecco, Hernán
+    description:
+    - Póster
+  Divulgación Científica:
+  - title: Semana de la Física
+    date: '2016'
+    event: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    authors: 'Charla: "Luces de la Semana"'
+    description:
+    - Preparación
+  - title: Semana de la Física
+    date: '2015'
+    event: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    authors: Estación de óptica
+    description:
+    - Expositor
+  - title: Semana de la Física
     date: '2014'
-    extension: Hasta 24 hs
-    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-    language: Español
+    event: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    authors: Estación de óptica
     description:
-    - Asistencia
-  - name: 99$^a$ Reunión Nacional de la Asociación Física Argentina
-    date: '2014'
-    extension: Congreso de 1 semana
-    location: Buenos Aires, Argentina
-    language: Español
-    description:
-    - Asistencia
-  - name: 'Information Processing in Biological Systems: From cells to equations--and back'
+    - Expositor
+  - title: Tecnópolis
     date: '2013'
-    extension: Congreso de 1 semana
-    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-    language: Inglés
+    event: Stand de Física
+    authors: Expositor
     description:
-    - Asistencia
-  - name: Taller de Desarrollo del Comportamiento Emprendedor
-    date: '2011'
-    extension: 50 hs
-    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
-    language: Español
-    description:
-    - Empretec
-    - Organiza con Naciones Unidas
-  - name: Taller de pedagogía
-    date: '2009'
-    extension: 60 hs
-    location: Facultad de Cs. Biomédicas, Hospital Universitario Austral
-    language: Español
-    description:
-    - Asistencia con exámen
+    - Septiembre y Octubre
+Cursos y Congresos:
+- name: Democratizing Microscopy in Latin America
+  date: '2024'
+  extension: 50 hr
+  location: Baños de Agua Santa, Ecuador
+  language: nglés
+  description:
+  - Congreso
+- name: Bioinformatics Swedish Week (Semana de Bioinformática Sueca
+  date: '2023'
+  extension: 16hs
+  location: Karolinska Institutet, Estocolmo, Suecia
+  language: nglés
+  description:
+  - Asistencia y curso
+- name: Advanced Methods in Bioimage Analysis
+  date: '2023'
+  extension: 50hs
+  location: Participante Virtual, Curso hibrido, EMBO, Heidelberg, Alemania
+  language: nglés
+  description:
+  - Curso
+- name: 'GPU Programming: Why, When and How?'
+  date: '2023'
+  extension: 16hs
+  location: Online, EuroCC National Competence Centre Sweden
+  language: nglés
+  description:
+  - Curso
+- name: Programming Formalisms
+  date: '2023'
+  extension: 40hs
+  location: Online, High Performance Computing Center North and UPPMAX
+  language: nglés
+  description:
+  - Curso
+- name: Using Python in an HPC environment
+  date: '2023'
+  extension: 6hs
+  location: Online, High Performance Computing Center North and UPPMAX
+  language: nglés
+  description:
+  - Curso
+- name: Advanced Deep Learning with Transformers
+  date: '2023'
+  extension: 16hs
+  location: Online, EuroCC National Competence Centre Sweden
+  language: nglés
+  description:
+  - Curso
+- name: Data-Driven Precision Medicine and Diagnostics Research Area Symposium
+  date: '2022'
+  extension: 8hs
+  location: Estocolmo, Karolinska Institutet
+  language: nglés
+  description:
+  - Asistencia
+- name: Data-Driven research at Karolinska Institutet
+  date: '2022'
+  extension: 4hs
+  location: Estocolmo, Karolinska Institutet
+  language: nglés
+  description:
+  - Asistencia
+- name: Stem cells, regeneration biology and regenerative medicine
+  date: '2022'
+  extension: 2^nd^ StratRegen Conferencia, 8hs
+  location: Estocolmo, Karolinska Institutet
+  language: nglés
+  description:
+  - Asistencia
+- name: 'Systems Biology of Cancer: Promises of Artificial Intelligence'
+  date: '2020'
+  extension: Curso de EMBO|FEBS de 40hs virtual
+  location: Institut Curie, Paris, France
+  language: nglés
+  description:
+  - Asistencia, charla seleccionada y presentación de póster
+- name: Image-based Systems Biology
+  date: '2020'
+  extension: Quinto Simposio Internacional, 16hs, encuentro virtual
+  location: Hans-Knöll Institute, University of Jena, Germany
+  language: nglés
+  description:
+  - Asistencia, charla en tandem seleccionada y presentación de póster
+- name: Whole Cell Modelling Summer School
+  date: '2019'
+  extension: Escuela de 50 horas
+  location: 'Centre for Genomic Regulation, European Molecular Biology Organization.
+    Barcelona, España. Lenguaje: Inglés'
+  language: Asistencia y presentación de póster
+  description:
+  - Becado por European Molecular Biology Organization y organización del curso
+- name: 'Quantitative Imaging: From Acquisition to Analysis'
+  date: '2018'
+  extension: Escuela de 156 horas
+  location: 'Cold Spring Harbor Laboratory (CSHL). New York, USA. Lenguaje: Inglés'
+  language: Asistencia
+  description:
+  - Media beca por Helmsley Charitable Trust y Howard Hughes Medical Institute
+- name: School on Physics Applications in Biology
+  date: '2018'
+  extension: Escuela de 50 hs
+  location: 'International Center for Theoretical Physics (ICTP) - South American
+    Institute for Fundamental Research (SAIFR). S\~ao Paulo, Brasil. Lenguaje: Inglés'
+  language: Asistencia
+  description:
+  - Traslado, alojamiento, mantenimiento y becado por ICTP
+- name: Escuela de Ciencias Informáticas
+  date: '2017'
+  extension: Curso de 15 hs.
+  location: '"Clasificación de estados cerebrales utilizando neuroimágenes funcionales"
+    Enzo Tagliazucchi. Brain and Spine Institute. Paris, Francia. Idioma: Castellano'
+  language: Asistencia y Presentación Monografía (Nota:8)
+  description: []
+- name: Escuela de Ciencias Informáticas
+  date: '2017'
+  extension: Curso de 15 hs.
+  location: '"Machine learning for analyzing neuroimaging data from natural stimulus
+    experiments" Alex Huth. UC Berkeley. Estados Unidos. Idioma: Inglés'
+  language: Asistencia y Presentación Monografía (Nota:8)
+  description: []
+- name: Escuela de Ciencias Informáticas
+  date: '2017'
+  extension: Curso de 15 hs.
+  location: '"Bayesian Models in Machine Learning" Lukáš Burget. Brno University of
+    Technology. República Checa. Idioma: Inglés'
+  language: Asistencia y Presentación Monografía (Nota:8)
+  description: []
+- name: Simposium Frontiers in Bioscience 2
+  date: '2016'
+  extension: Simposio
+  location: Asistencia y Presentación póster
+  description: []
+- name: 101$^a$ Reunión Nacional de la Asociación Física Argentina
+  date: '2016'
+  extension: Congreso
+  location: Asistencia y Presentación póster
+  description: []
+- name: 100$^a$ Reunión Nacional de la Asociación Física Argentina
+  date: '2015'
+  extension: Congreso
+  location: Asistencia y Presentación oral
+  description: []
+- name: Light and light based technologies
+  date: '2015'
+  extension: Giambiagi XVII Winter School
+  location: Facultad de Ciencias Exactas y Naturales
+  language: U.B.A
+  description:
+  - Asistencia
+- name: Técnicas para manipulación de frecuencias de láser
+  date: '2014'
+  extension: Facultad de Ciencias Exactas y Naturales
+  location: U.B.A.
+  language: Hasta 24 horas
+  description:
+  - Asistencia
+- name: 99$^a$ Reunión Nacional de la Asociación Física Argentina
+  date: '2014'
+  extension: Congreso
+  location: Asistencia
+  description: []
+- name: Information Processing in Biological Systems
+  date: '2013'
+  extension: From cells to equations--and back
+  location: Facultad de Ciencias Exactas y Naturales
+  language: U.B.A.
+  description:
+  - Asistencia
+- name: Taller de Desarrollo del Comportamiento Emprendedor
+  date: '2011'
+  extension: Empretec
+  location: Organiza con Naciones Unidas
+  description: []
+- name: Taller de pedagogía
+  date: '2009'
+  extension: Facultad de Cs. Biomédicas
+  location: Hospital Universitario Austral
+  language: Asistencia con exámen
+  description: []
 Idiomas:
   Exámenes Internacionales:
-    - name: I.G.C.S.E.
-      date: 2006--2007
-      description:
-      - Exámenes
-      - Inglés primer idioma
-      - Francés tercer idioma
-      - Computación
-      - Manejo y cuidado del medio ambiente
-      - Literatura inglesa
-      - Estudios de la Economía
-      - Matemática
-      - Diploma I.C.E.
-    - name: DELF A1 Expression générale
-      date: '2005'
-      description:
-      - Exámen Internacional de Francés
-    - name: First Certificate in English
-      date: '2004'
-    - name: Trinity Exam Grade 7
-      date: '2001'
-    - name: Key English Test
-      date: '2000'
+  - name: I.G.C.S.E.
+    date: 2006--2007
+    description:
+    - Exámenes \newline
+  - name: DELF A1 Expression générale
+    date: '2005'
+    description:
+    - Exámen Internacional de Francés
+  - name: First Certificate in English
+    date: '2004'
+    description: []
+  - name: Trinity Exam Grade 7
+    date: '2001'
+    description: []
+  - name: Key English Test
+    date: '2000'
+    description: []
