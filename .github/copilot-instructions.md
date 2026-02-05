@@ -8,10 +8,12 @@ This is a CV/resume generation system using **RenderCV** (Typst/Markdown-based) 
 ## Architecture
 
 ### Data Layer (`cv_db/`)
-- `cv_en.yaml` / `cv_es.yaml`: Complete CV content databases (education, experience, publications)
+- `cv_en.yaml` / `cv_es.yaml`: Primary CV content databases (education, experience, publications, projects)
+- `main.yaml` / `main_en.yaml`: Alternative CV databases (legacy/backup files)
 - `transcript_en.yaml` / `transcript_es.yaml`: Academic transcript data
-- **Structure**: Nested YAML with sections like "Career Statement", "Education", "Experience", "Research", etc.
-- **Convention**: Use nested dictionaries for hierarchical organization (e.g., Education → University → Ph. D. in Physics)
+- **Structure**: List-based YAML with sections like "Resumen"/"Career Statement", "Educación"/"Education", "Experiencia"/"Experience" (with subsections: Académico, Investigación, Proyectos, Docencia y Formación, Profesionales), "Producción"/"Production"
+- **Convention**: Use **list-based structures** with consistent field names (`name:` or `title:` for entry identification) rather than nested dictionaries. This ensures compatibility with render_uba notebook and template processing.
+- **Synchronization**: `cv_en.yaml` and `cv_es.yaml` must maintain parallel structure and content across languages
 
 ### Template Layer
 Two parallel template systems for different output formats:
@@ -49,8 +51,9 @@ pixi run -f uba jupyter lab
 # Then open render_uba/render_uba.ipynb
 ```
 - **Purpose**: Transform CV data into UBA's specific academic application format
-- **Process**: Loads `cv_db/cv_es.yaml`, restructures data per UBA requirements
-- **Sections**: "Antecedentes Docentes" (teaching history), course listings, etc.
+- **Process**: Loads `cv_db/cv_es.yaml` (or `main.yaml` as fallback), restructures data per UBA requirements
+- **Sections**: "Antecedentes Docentes" (teaching history), "Proyectos", "Posters y Presentaciones Orales", "Divulgación Científica", course listings
+- **Recent Updates**: Notebook cells updated to handle list-based YAML structures with consistent field parsing (title, event, date, authors, description)
 
 ### Environment Management
 Project uses **pixi** (conda-based) with two environments:
@@ -82,13 +85,17 @@ All design settings from YAML are exposed as Typst variables with prefix `design
 
 ### CV YAML Schema
 - **Dates**: Use `date: YYYY--YYYY` or `date: YYYY--actual` format
-- **Hierarchical sections**: Nest related items (e.g., Teaching → Position Title → date/location/description)
+- **List-based sections**: Each section should contain a list of entries rather than nested dictionaries
+- **Entry identification**: Use `name:` or `title:` fields consistently for entry identification
+- **Subsections in Experience**: Académico, Investigación, Proyectos, Docencia y Formación, Profesionales
 - **Descriptions**: Array of strings for bullet points or paragraphs
 - **Locations**: Full institutional names with department/faculty details
+- **Avoiding duplicates**: Keep research positions only in Investigación subsection, not in Académico
 
 ### Bilingual Content
 - Maintain parallel English (`_en`) and Spanish (`_es`) files
-- Ensure structural consistency between language versions
+- Ensure structural consistency between language versions (matching sections, same number of entries)
+- Keep content synchronized: when adding entries to one language, add to the other
 - Design/locale files can be language-specific or shared
 
 ## Important Notes
@@ -108,3 +115,29 @@ All design settings from YAML are exposed as Typst variables with prefix `design
 **Language switching**: Use appropriate locale file (`locale_en.yaml` vs `locale_es.yaml`) and CV database (`cv_en.yaml` vs `cv_es.yaml`)
 
 **UBA format updates**: Edit `render_uba/render_uba.ipynb` notebook to adjust data transformation logic
+
+**Maintaining file synchronization**: 
+- When adding entries to `cv_es.yaml`, add parallel entries to `cv_en.yaml`
+- Use list-based structures with `name:` or `title:` fields for consistency
+- Keep `main.yaml` and `main_en.yaml` as backup/alternative versions
+- Avoid duplicating entries across subsections (e.g., keep research only in Investigación, not in Académico)
+
+## Recent Maintenance (February 2026)
+
+**File Synchronization Completed**:
+- All CV databases (`cv_en.yaml`, `cv_es.yaml`, `main.yaml`) now use consistent list-based structures
+- Separated Proyectos/Projects section from Académico/Academic in all files
+- Removed duplicate research positions from cv_es.yaml (kept only in Investigación subsection)
+- Added missing content to cv_en.yaml: BIIF facility projects, professional consulting entries (Bohus Biotech, Navinci), High School student supervision
+- Aligned dates across language versions (UBA: 2024--actual, Bachelor supervision: 2023--2024)
+
+**Notebook Updates**:
+- Updated `render_uba.ipynb` cells to handle list-based YAML structures
+- Simplified parsing logic for "Posters y Presentaciones Orales" and "Divulgación Científica"
+- Added fallback logic to extract Proyectos from Académico if separate section doesn't exist
+
+**Best Practices Established**:
+- Use list-based YAML structures for better template compatibility
+- Maintain separate subsections in Experience to avoid structural confusion
+- Keep bilingual files synchronized in both structure and content
+- Document date formats consistently (YYYY--actual for ongoing positions)
