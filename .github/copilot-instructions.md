@@ -110,6 +110,8 @@ All design settings from YAML are exposed as Typst variables with prefix `design
 
 **Adding a new CV section**: Create YAML entry in `cv_db/cv_*.yaml` + corresponding template file in both `moderncv/` and `markdown/` directories
 
+**Creating a CV for a new position**: Create a new folder and include a YAML file that contains filtered entries from the database for that position.
+
 **Changing design**: Modify `design_moderncv_es.yaml` values (colors, fonts, spacing) and re-render
 
 **Language switching**: Use appropriate locale file (`locale_en.yaml` vs `locale_es.yaml`) and CV database (`cv_en.yaml` vs `cv_es.yaml`)
