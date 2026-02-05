@@ -26,7 +26,7 @@ Educación:
     date: 2005--2007
     location: 'Colegio St. Matthew`s College North, Promedio: **8,31**'
     description:
-    - Egresado con $2^\circ$ mayor promedio de la promoción.
+    - 'Egresado con $2^\circ$ mayor promedio de la promoción.'
 Experiencia:
   Académico:
   - name: Analista de bioimágenes
@@ -216,11 +216,7 @@ Experiencia:
     - Curso de 1 semana
     - '**Imagen Digital e Introducción al análsiis de bioimágenes**: Dos clases teóricas
       y dos prácticos sobre que es la imagen digital y el análisis de bioimágenes.
-      \href'
-    - https://zenodo.org/records/16920518
-    - Link a Material
-    - https://zenodo.org/records/16920046
-    - Link a Material
+      [Link a Material](https://zenodo.org/records/16920518), [Link a Material](https://zenodo.org/records/16920046)'
   - name: Profesor invitado
     date: '2025'
     location: Sveriges lantbruksuniversitet, Universidad de Ciencias de la agricultura
@@ -228,17 +224,15 @@ Experiencia:
     description:
     - Curso de 3 semanas
     - '**AI Tools in Biology**: Seminario teórico y práctico sobre inteligencia artificial
-      en análisis de bioimágenes. \href'
-    - https://zenodo.org/records/15393775
-    - Link a Material
+      en análisis de bioimágenes. [Link a Material](https://zenodo.org/records/15393775)'
   - name: Profesor invitado y facilitador
     date: '2025'
     location: Live Cell Imaging, Karolinska Institutet
     description:
     - Curso intensivo de 3 semanas
     - '**Microscopy: Improve Your Imaging Skills - From Sample Preparation to Image
-      Analysis**: Curso teórico y práctico sobre diseño experimental en microscopía.'
-    - \href{https://www.youtube.com/watch?v=tqiq2wKrMLY}{Link a video
+      Analysis**: Curso teórico y práctico sobre diseño experimental en microscopía.
+      [Link a video](https://www.youtube.com/watch?v=tqiq2wKrMLY)'
   - name: Profesor invitado
     date: '2024'
     location: Center for Cellular Imaging, Universidad de Gotemburgo
@@ -362,7 +356,7 @@ Producción:
       Clara Prats, Anna Klemm, Florian Levet, Kota Miura, Paula Sampaio, Christian
       Tischer, Rocco D''Antuono, Beth A. Cimini, Robert Haase'
     description:
-    - 'doi:'
+    - 'doi: https://doi.org/10.48550/arXiv.2507.06407'
   - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
     date: '2025'
     journal: Science
@@ -388,7 +382,7 @@ Producción:
       Autrum, Simona Hankeova, Elizabeth C. Driver, Barbara Canlon, Matthew W. Kelley,
       Emma R. Andersson
     description:
-    - 'Year: 2024; doi: https://doi.org/10.1242/dev.202949'
+    - 'doi: https://doi.org/10.1242/dev.202949'
   - title: Molten Globule Driven and Self-downmodulated Phase Separation of a Viral
       Factory Scaffold
     date: '2023'
@@ -397,7 +391,7 @@ Producción:
       Leonardo Pellizza, Sebastián A. Esperante, **Agustín Corbat**, Hernán Grecco,
       Belén Sousa, Ramiro Esperón, Silvia S. Borkosky, Gonzalo de Prat-Gay
     description:
-    - 'Year: 2023; doi: https://doi.org/10.1016/j.jmb.2023.168153'
+    - 'doi: https://doi.org/10.1016/j.jmb.2023.168153'
   - title: Smaug1 membrane-less organelles respond to AMPK and mTOR and affect mitochondrial
       function
     date: '2021'
@@ -407,13 +401,13 @@ Producción:
       Spina, Lara Boscaglia, Anne Plessis, Maria Carmo-Fonseca, Hernán E. Grecco,
       Marta Casado, Graciela L. Boccaccio
     description:
-    - 'Año: 2021; doi: https://doi.org/10.1242/jcs.253591'
+    - 'doi: https://doi.org/10.1242/jcs.253591'
   - title: An Integrative Apoptotic Reaction Model for extrinsic and intrinsic stimuli
     date: '2021'
     journal: BioRxiv
     authors: '**Agustin A. Corbat**, Mauro Silberberg, Hernán E. Grecco'
     description:
-    - 'Año: 2021'
+    - 'doi: https://doi.org/10.1101/2021.05.21.444824'
   - title: 'CASPAM: a triple modality biosensor for multiplexed imaging of caspase
       network activity'
     date: '2021'
@@ -421,7 +415,7 @@ Producción:
     authors: Martín Habif*, **Agustin A. Corbat***, Mauro Silberberg, Hernán E. Grecco
     description:
     - ACS Sensors, *Autores contribuyeron equitativamente
-    - 'Año: 2021; doi: https://doi.org/10.1101/2021.03.10.434623'
+    - 'doi: https://doi.org/10.1101/2021.03.10.434623'
   - title: Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence
       anisotropy microscopy
     date: '2018'
@@ -430,9 +424,7 @@ Producción:
       Radon, Philippe I.H. Bastiaens, Peter J. Verveer, Hernán E. Grecco'
     description:
     - Publicado
-    - 'Año: 2018; Volumen: 19; Emisión: Junio; Páginas: 210-217; doi: 10.1016/j.redox.2018.07.023'
-  free_text:
-  - https://doi.org/10.48550/arXiv.2507.06407}
+    - 'Volumen: 19; Emisión: Junio; Páginas: 210-217; doi: 10.1016/j.redox.2018.07.023'
   Posters y Presentaciones Orales:
   - title: 'GloBIAS: strengthening the foundations of Bioimage Analysis'
     date: '2025'
@@ -440,20 +432,15 @@ Producción:
     authors: '**Corbat, Agustin**'
     description:
     - lightning talk and poster
-    - Buenos Aires, Argentina, \href
-    - https://zenodo.org/records/17632823
-    - Link to slides
-    - https://zenodo.org/records/17633744
-    - Link to poster
+    - Buenos Aires, Argentina, [Link to slides](https://zenodo.org/records/17632823),
+      [Link to poster](https://zenodo.org/records/17633744)
   - title: The Core Institutional Memory
     date: '2025'
     event: Democratizing Microscopy in Latin America
     authors: '**Corbat, Agustin**'
     description:
     - Turbo talk
-    - Baños de Agua Santa, Ecuador, \href
-    - https://zenodo.org/records/17354368
-    - Link
+    - Baños de Agua Santa, Ecuador, [Link](https://zenodo.org/records/17354368)
   - title: Demostración de TissUUmaps
     date: '2024'
     event: Imaging The Future
@@ -467,29 +454,22 @@ Producción:
     authors: '**Corbat, Agustin**'
     description:
     - Presentación de póster
-    - Austin, Texas, Estados Unidos, \\ \href
-    - https://figshare.com/articles/poster/The_Three_Gears_of_Bioscience_Projects/27725865?file=50481666
-    - Link
+    - Austin, Texas, Estados Unidos, [Link](https://figshare.com/articles/poster/The_Three_Gears_of_Bioscience_Projects/27725865?file=50481666)
   - title: On Navigating the archipelago
     date: '2024'
     event: GloBIAS in-person Workshop
     authors: '**Corbat, Agustin**'
     description:
     - Presentación
-    - Universidad de Gotenburgo, Suecia \\ \href
-    - https://github.com/GloBIAS-BioimageAnalysts/workshop24_Gothenburg/blob/main/Training_and_Education_Corbat_On_navigating.pptx
-    - Diapositivas
+    - Universidad de Gotenburgo, Suecia [Diapositivas](https://github.com/GloBIAS-BioimageAnalysts/workshop24_Gothenburg/blob/main/Training_and_Education_Corbat_On_navigating.pptx)
   - title: Interfacing with other networks
     date: '2024'
     event: GloBIAS in-person Workshop
     authors: '**Corbat, Agustin**'
     description:
     - Presentación
-    - Universidad de Gotenburgo, Suecia \\ \href
-    - https://docs.google.com/presentation/d/13qqOv7V2_8JLehdJA6WURrcpjyz1M2qC/edit
-    - Diapositivas
-    - https://docs.google.com/document/d/1miWe3rwJYZl7-Edv8yOys7_iOyKxhlioFZdh9h6Qu-8/edit?tab=t.0
-    - Documento
+    - Universidad de Gotenburgo, Suecia [Diapositivas](https://docs.google.com/presentation/d/13qqOv7V2_8JLehdJA6WURrcpjyz1M2qC/edit),
+      [Documento](https://docs.google.com/document/d/1miWe3rwJYZl7-Edv8yOys7_iOyKxhlioFZdh9h6Qu-8/edit?tab=t.0)
   - title: 'Multiplexed tissue imaging: tools and approaches'
     date: '2024'
     event: 'I2K: Images to Knowledge'
@@ -604,8 +584,7 @@ Producción:
     description:
     - 2º premio en INNOVAR 2015
     - Dispositivos electromecánicos para experimentos de óptica confeccionados con
-      impresora 3D y controlados por una placa Arduino.
-    - http://www.lec.df.uba.ar/soma/
+      impresora 3D y controlados por una placa Arduino. [Link](http://www.lec.df.uba.ar/soma/)
   - title: Sistema Opto-mecánico Abierto
     date: '2015'
     event: Reunión Nacional de Física N^\circ^100
