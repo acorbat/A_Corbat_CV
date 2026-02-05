@@ -64,8 +64,7 @@ Education:
     location: 'St. Matthew`s College North, General Average: **8.31** (grading scale:
       from 0 to 10, with 10 as maximum)'
     description:
-    - $2^
-    - nd
+    - $2^{nd}$ highest average in the class
 Experience:
   Academic:
   - name: Bioimage Analyst
@@ -232,9 +231,8 @@ Experience:
     description:
     - 1 week course
     - As coorganizer of the workshop I participated in designing the schedule, learning
-      outcomes and prepared 3 theoretical lectures and 2 hands-on workshops. \href
-    - https://bruvellu.github.io/light-sheet-image-analysis-workshop-2026/
-    - Link al curso
+      outcomes and prepared 3 theoretical lectures and 2 hands-on workshops. [Link
+      al curso](https://bruvellu.github.io/light-sheet-image-analysis-workshop-2026/)
   - name: Invited Lecturer
     date: '2025'
     location: Fundamentals of Optical Microscopy Course, Fundación Instituto Leloir
@@ -242,20 +240,15 @@ Experience:
     - 1 week course
     - '**Digital Image and Introduction to bioimage Analysis**: Two theoretical lectures
       and two practical lessonsabout digital images and introductions to bioimage
-      analysis. \href'
-    - https://zenodo.org/records/16920518
-    - Link to Material
-    - https://zenodo.org/records/16920046
-    - Link to Material
+      analysis. [Link to Material](https://zenodo.org/records/16920518), [Link to
+      Material](https://zenodo.org/records/16920046)'
   - name: Invited Lecturer
     date: '2025'
     location: Sveriges lantbruksuniversitet, Swedish University of Agricultural Sciences
     description:
     - 3 week course
     - '**AI Tools in Biology**: Seminar and workshop on artificial intelligence for
-      bioimage analysis. \href'
-    - https://zenodo.org/records/15393775
-    - Link a Material
+      bioimage analysis. [Link a Material](https://zenodo.org/records/15393775)'
   - name: Invited Lecturer and Teaching Assistant (Facilitator)
     date: '2025'
     location: Live Cell Imaging, Karolinska Institutet
@@ -263,8 +256,7 @@ Experience:
     - Intensive 3 week course
     - '**Microscopy: Improve Your Imaging Skills - From Sample Preparation to Image
       Analysis**: Course addressing theoretical and practical knowledge on image analysis
-      oriented to biology.'
-    - \href{https://www.youtube.com/watch?v=tqiq2wKrMLY}{Link to video
+      oriented to biology. [Link to video](https://www.youtube.com/watch?v=tqiq2wKrMLY)'
   - name: Invited Lecturer
     date: '2024'
     location: Center for Cellular Imaging, University of Gothenburg
@@ -445,9 +437,7 @@ Production:
     authors: '**Corbat, Agustin**'
     description:
     - Turbo talk
-    - Baños de Agua Santa, Ecuador, \href
-    - https://zenodo.org/records/17354368
-    - Link
+    - Baños de Agua Santa, Ecuador, [Link](https://zenodo.org/records/17354368)
   - title: TissUUmaps Demo
     date: '2024'
     event: Imaging The Future
@@ -461,29 +451,22 @@ Production:
     authors: '**Corbat, Agustin**'
     description:
     - Poster presentation
-    - Austin, Texas, United States, \\ \href
-    - https://figshare.com/articles/poster/The_Three_Gears_of_Bioscience_Projects/27725865?file=50481666
-    - Link
+    - Austin, Texas, United States, [Link](https://figshare.com/articles/poster/The_Three_Gears_of_Bioscience_Projects/27725865?file=50481666)
   - title: On Navigating the archipelago
     date: '2024'
     event: GloBIAS in-person Workshop
     authors: '**Corbat, Agustin**'
     description:
     - Presentation
-    - Gothenburg University, Sweden \\ \href
-    - https://github.com/GloBIAS-BioimageAnalysts/workshop24_Gothenburg/blob/main/Training_and_Education_Corbat_On_navigating.pptx
-    - Slides
+    - Gothenburg University, Sweden [Slides](https://github.com/GloBIAS-BioimageAnalysts/workshop24_Gothenburg/blob/main/Training_and_Education_Corbat_On_navigating.pptx)
   - title: Interfacing with other networks
     date: '2024'
     event: GloBIAS in-person Workshop
     authors: '**Corbat, Agustin**'
     description:
     - Presentation
-    - Gothenburg University, Sweden \\ \href
-    - https://docs.google.com/presentation/d/13qqOv7V2_8JLehdJA6WURrcpjyz1M2qC/edit
-    - Slides
-    - https://docs.google.com/document/d/1miWe3rwJYZl7-Edv8yOys7_iOyKxhlioFZdh9h6Qu-8/edit?tab=t.0
-    - Document
+    - Gothenburg University, Sweden [Slides](https://docs.google.com/presentation/d/13qqOv7V2_8JLehdJA6WURrcpjyz1M2qC/edit),
+      [Document](https://docs.google.com/document/d/1miWe3rwJYZl7-Edv8yOys7_iOyKxhlioFZdh9h6Qu-8/edit?tab=t.0)
   - title: 'Multiplexed tissue imaging: tools and approaches'
     date: '2024'
     event: 'I2K: Images to Knowledge'
@@ -602,8 +585,7 @@ Production:
     description:
     - 2^nd^ prize at INNOVAR 2015 (National innovation fair)
     - 'Open source electromechanical devices for optics experiments manufactured with
-      3D printers and controlled with Arduino '
-    - http://www.lec.df.uba.ar/soma/
+      3D printers and controlled with Arduino [Link](http://www.lec.df.uba.ar/soma/)'
   - title: Sistema Opto-mecánico Abierto
     date: '2015'
     event: Reunión Nacional de Física N^\circ^100 (100^th^ National Physics Reunion
