@@ -69,7 +69,7 @@ Education:
 Experience:
   Academic:
   - name: Bioimage Analyst
-    date: 2024--2025
+    date: 2024--actual
     location: Centro de Microscopias Avanzadas, Universidad de Buenos Aires
     description:
     - Provide support developing image analysis pipelines and disseminate knowledge
@@ -109,39 +109,115 @@ Experience:
     - 'Advisor: Dr. Hernán E. Grecco'
     - National Scientific and Technical Research Council (CONICET) Postgraduate Fellowship
       to pursue a PhD 2016-2021, awarded through National competition.
-  - name: Internship
-    date: '2019'
-    location: 'Project: Visualizing early tumorigenesis via beta-catenin oncomeme
-      in murine intestinal organoids, Dr. Philippe Bastiaens'
+  Projects:
+  - name: Spatial Profiling of the renal host-pathogen interplay in response to Candida
+      albicans infection in mice
+    date: '2025'
+    location: Bioimage Informatics Facility, SciLifeLab and National Bioinformatics
+      Infrastructure Sweden (NBIS)
     description:
-    - Systemic Cell Biology, Max Planck Institute for Molecular Physiology
-  - name: Participation in project
+    - Develop image analysis algorithms for BioImage Informatics Facility research
+      projects. '[Project description](https://biifsweden.github.io/projects/2025/02/25/PerLjungdahl2025-1/)'
+      '[Code repository](https://github.com/BIIFSweden/PerLjungdahl2025-1)'
+  - name: Segmentation of cavernous malformations using MRI scans of mouse brain
+    date: '2024'
+    location: Bioimage Informatics Facility, SciLifeLab and National Bioinformatics
+      Infrastructure Sweden (NBIS)
+    description:
+    - Develop image analysis algorithms for research projects as part of BioImage
+      Informatics Facility. '[Project description](https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/)'
+  - name: The role of perivascular TAM phenotypes in metastatic dissemination
+    date: '2024'
+    location: Bioimage Informatics Facility, SciLifeLab and National Bioinformatics
+      Infrastructure Sweden (NBIS)
+    description:
+    - Develop image analysis algorithms for research projects as part of BioImage
+      Informatics Facility. '[Project description](https://biifsweden.github.io/projects/2024/07/10/CharlotteRolny2024-1/)'
+  - name: 'AI4Life Open Call 2: Project 11'
+    date: '2024'
+    location: Bioimage Informatics Facility, SciLifeLab and National Bioinformatics
+      Infrastructure Sweden (NBIS)
+    description:
+    - Develop image analysis algorithms for research projects as part of AI4Life
+      Open Call 2. '[Project description](https://github.com/ai4life-opencalls/oc_2_project_11)'
+  - name: 'AI4Life Open Call 2: Project 38'
+    date: '2024'
+    location: Bioimage Informatics Facility, SciLifeLab and National Bioinformatics
+      Infrastructure Sweden (NBIS)
+    description:
+    - Develop image analysis algorithms for research projects as part of AI4Life
+      Open Call 2. '[Project description](https://github.com/ai4life-opencalls/oc_2_project_38)'
+  - name: Jag1 represses Notch activation in lateral supporting cells and inhibits
+      an outer hair cell fate in the medial compartment of the developing cochlea
+    date: 2023--2024
+    location: Emma Andersson Lab, Karolinska Institutet, Stockholm, Sweden
+    description:
+    - 'Supervisor: Dr. Emma R. Andersson'
+  - name: Spatially segregated defects and IGF1-responsiveness of hilar and peripheral
+      biliary organoids from a model of Alagille syndrome
+    date: '2023'
+    location: Emma Andersson Lab, Karolinska Institutet, Stockholm, Sweden
+    description:
+    - 'Supervisor: Dr. Emma R. Andersson'
+  - name: Decoding cell fate with lineage-tracing in utero transduction
+    date: 2022--2024
+    location: Emma Andersson Lab, Karolinska Institutet, Stockholm, Sweden
+    description:
+    - 'Supervisor: Dr. Emma R. Andersson'
+    - Knut and Alice Wallenberg Foundation.
+    - 'Co-supervisors: Igor Adameyko, Niklas Björkström, Jonas Frisén, Ulrika Marklund.'
+  - name: Tuning Notch and mechanics to engineer cell fate
+    date: 2022--2024
+    location: Emma Andersson Lab, Karolinska Institutet, Stockholm, Sweden
+    description:
+    - 'Supervisor: Dr. Emma R. Andersson'
+    - 'Marie Skłodowska-Curie Actions: Seal of Excellence.'
+    - Funded by Vetenskapsrådet (Swedish Research Council).
+  - name: Visualizing early tumorigenesis via beta-catenin oncomeme in murine intestinal
+      organoids
+    date: 2019--2021
+    location: Systemic Cell Biology, Max Planck Institute for Molecular Physiology
+    description:
+    - Dr. Philippe Bastiaens
+    - 7 weeks abroad and continued remote work for 12 months
+  - name: PICT-2017-1160, Design and construction of a miniaturized fluorescence microscope
+      prototype, low cost, for medicine and neuroscience applications
     date: 2017--2021
-    location: PICT-2017-1160, Design and construction of a miniaturized fluorescence
-      microscope prototype, low cost, for medicine and neuroscience applications
+    location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
     description:
     - In character of Ph. D. student
-  - name: Participation in project
+  - name: PICT-2014-3744, Correlation and causality: multiparametric microscopy of
+      cellular signalling
     date: 2016--2021
-    location: 'PICT-2014-3744, Correlation and causality: multiparametric microscopy
-      of cellular signalling'
+    location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
     description:
     - In character of Ph. D. student
   - name: Stimulus U.B.A. Scholarship
     date: 2014-2016
-    location: 'Project: Characterization of nanoemitters for photodynamic therapy
-      quantifying apoptotic response through fluorescence anisotropy microscopy, Advisor:
-      Dr. Hernán E. Grecco'
+    location: Laboratorio de Electrónica Cuántica, Facultad de Ciencias Exactas, U.B.A.
     description:
-    - Laboratorio de Electrónica Cuántica, Facultad de Ciencias Exactas, U.B.A.
+    - 'Project: Characterization of nanoemitters for photodynamic therapy quantifying
+      apoptotic response through fluorescence anisotropy microscopy'
+    - 'Advisor: Dr. Hernán E. Grecco'
     - Awarded through open competition
-  - name: Internship
+  - name: Bone marrow mesenchymal stem cells applied to regeneration and therapeutic
+      gene transfer for hepatic cirrhosis
     date: '2010'
-    location: 'Project: Bone marrow mesenchymal stem cells applied to regeneration
-      and therapeutic gene transfer for hepatic cirrhosis, Advisor: Dr. Jorge B. Aquino'
+    location: Laboratorio de Terapia Génica, Hospital Universitario Austral
     description:
-    - Laboratorio de Terapia Génica, Hospital Universitario Austral
+    - 'Advisor: Dr. Jorge B. Aquino'
   Professional:
+  - name: Bohus Biotech
+    date: '2025'
+    location: Uppsala, Sweden
+    description:
+    - Independent consulting to develop image analysis algorithms to evaluate the
+      quality of aesthetic products.
+  - name: Detection of protein-protein interactions using protein-ligand assays
+    date: '2025'
+    location: Navinci, Uppsala, Sweden
+    description:
+    - Develop image analysis algorithms to detect protein-protein interactions.
   - name: High Level Technological Service
     date: '2019'
     location: Colaboration with Y-Tec, Digital Petrography
@@ -212,6 +288,13 @@ Experience:
     - '**Microscopy: Improve Your Imaging Skills - From Sample Preparation to Image
       Analysis**: Course addressing theoretical and practical knowledge on experimental
       design on microscopy.'
+  - name: High School Student Supervision
+    date: 2024--2025
+    location: Hitachigymnasium Västerås, Uppsala, Sweden
+    description:
+    - As a high school capstone project, students developed a technology project.
+    - The project involved using a Raspberry Pi to capture images and alert a vehicle
+      driver.
   - name: MSc Student Supervision
     date: '2024'
     location: Cell and Molecular Biology Department, Karolinska Institutet
@@ -221,7 +304,7 @@ Experience:
       Analysis of GSK126 effects on the differentiation of liver progenitor cells
       in vitro'
   - name: Student Supervision
-    date: 2023--actual
+    date: 2023--2024
     location: Cell and Molecular Biology Department, Karolinska Institutet
     description:
     - Bachelor student with technical degree
