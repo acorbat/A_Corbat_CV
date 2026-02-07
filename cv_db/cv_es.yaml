@@ -635,84 +635,84 @@ Cursos y Congresos:
   date: '2024'
   extension: 50 hr
   location: Baños de Agua Santa, Ecuador
-  language: nglés
+  language: Inglés
   description:
   - Congreso
 - name: Bioinformatics Swedish Week (Semana de Bioinformática Sueca
   date: '2023'
   extension: 16hs
   location: Karolinska Institutet, Estocolmo, Suecia
-  language: nglés
+  language: Inglés
   description:
   - Asistencia y curso
 - name: Advanced Methods in Bioimage Analysis
   date: '2023'
   extension: 50hs
   location: Participante Virtual, Curso hibrido, EMBO, Heidelberg, Alemania
-  language: nglés
+  language: Inglés
   description:
   - Curso
 - name: 'GPU Programming: Why, When and How?'
   date: '2023'
   extension: 16hs
   location: Online, EuroCC National Competence Centre Sweden
-  language: nglés
+  language: Inglés
   description:
   - Curso
 - name: Programming Formalisms
   date: '2023'
   extension: 40hs
   location: Online, High Performance Computing Center North and UPPMAX
-  language: nglés
+  language: Inglés
   description:
   - Curso
 - name: Using Python in an HPC environment
   date: '2023'
   extension: 6hs
   location: Online, High Performance Computing Center North and UPPMAX
-  language: nglés
+  language: Inglés
   description:
   - Curso
 - name: Advanced Deep Learning with Transformers
   date: '2023'
   extension: 16hs
   location: Online, EuroCC National Competence Centre Sweden
-  language: nglés
+  language: Inglés
   description:
   - Curso
 - name: Data-Driven Precision Medicine and Diagnostics Research Area Symposium
   date: '2022'
   extension: 8hs
   location: Estocolmo, Karolinska Institutet
-  language: nglés
+  language: Inglés
   description:
   - Asistencia
 - name: Data-Driven research at Karolinska Institutet
   date: '2022'
   extension: 4hs
   location: Estocolmo, Karolinska Institutet
-  language: nglés
+  language: Inglés
   description:
   - Asistencia
 - name: Stem cells, regeneration biology and regenerative medicine
   date: '2022'
   extension: 2^nd^ StratRegen Conferencia, 8hs
   location: Estocolmo, Karolinska Institutet
-  language: nglés
+  language: Inglés
   description:
   - Asistencia
 - name: 'Systems Biology of Cancer: Promises of Artificial Intelligence'
   date: '2020'
   extension: Curso de EMBO|FEBS de 40hs virtual
   location: Institut Curie, Paris, France
-  language: nglés
+  language: Inglés
   description:
   - Asistencia, charla seleccionada y presentación de póster
 - name: Image-based Systems Biology
   date: '2020'
   extension: Quinto Simposio Internacional, 16hs, encuentro virtual
   location: Hans-Knöll Institute, University of Jena, Germany
-  language: nglés
+  language: Inglés
   description:
   - Asistencia, charla en tandem seleccionada y presentación de póster
 - name: Whole Cell Modelling Summer School
