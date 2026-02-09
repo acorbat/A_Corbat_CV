@@ -303,24 +303,24 @@ Experience:
     - Her project consists on clearing thick liver samples and perform acquisition
       and analysis of microscopy images.
   - name: Teaching Assistant (in charge of practical course)
-    date: 2019-Summer Course
+    date: 2019--summer course
     location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
     description:
-    - 10hs. per week
+    - 10 hours per week
     - '**Laboratory 3**: Design, analysis and experimentation applied to electricity
       and magnetism.'
   - name: Graduate Teaching Assistant
-    date: 2017-2021
+    date: 2017--2021
     location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
     description:
-    - 10hs. per week
+    - 10 hours per week
     - '**Control and Instrumentation**: Design, signal processing, automation and
       instrumentation of various devices found in laboratories.'
   - name: Undergraduate Teaching Assistant
-    date: 2015-2017
+    date: 2015--2017
     location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
     description:
-    - 10hs. per week
+    - 10 hours per week
     - '**Physics 1 and 2 for biologists and geologists**: Mandatory classical mechanics,
       electromagnetism, optics and thermodinamics practical exercises for biologists
       and geologists.'
@@ -328,30 +328,32 @@ Experience:
     date: 2014--2015
     location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
     description:
-    - 3 practical classes consisting of 3 hs. dictated once per semester
-    - Organization, diffusion and presentation of the Workshop
+    - 3 practical classes consisting of 3 hours, once per semester
+    - Organization, diffusion and presentation of the workshop
   - name: Tutoring Institute
     date: '2013'
-    location: Tutor, October and November
+    location: Buenos Aires, Argentina
     description:
+    - Tutor (October and November)
     - Lessons for primary, secondary and undergraduate university students
-  - name: \LaTeX Programming Workshop
+  - name: \\LaTeX Programming Workshop
     date: '2013'
     location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
     description:
-    - both semesters, one 3 hs. lesson
-    - Organization, diffusion and presentation of the Workshop
+    - Both semesters, one 3 hour lesson
+    - Organization, diffusion and presentation of the workshop
   - name: Tutoring
-    date: 2011-2013
-    location: 'Subjects: Physics, Mathematics, Chemistry, Biology, Biophysics. \newline,
-      Primary, Secondary and University levels.'
-    description: []
+    date: 2011--2013
+    location: Buenos Aires, Argentina
+    description:
+    - Subjects: Physics, Mathematics, Chemistry, Biology, Biophysics
+    - Primary, secondary and university levels
   - name: Undergraduate Teaching Assistant
     date: '2010'
     location: Cellular and Molecular Medicine, Facultad de Ciencias Biomédicas
     description:
     - Austral University Hospital
-    - '*10 weekly hours*'
+    - 10 weekly hours
 Production:
   Publications:
   - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
@@ -434,107 +436,110 @@ Production:
   - title: The Core Institutional Memory
     date: '2024'
     event: Democratizing Microscopy in Latin America
+    location: Baños de Agua Santa, Ecuador
     authors: '**Corbat, Agustin**'
     description:
     - Turbo talk
-    - Baños de Agua Santa, Ecuador, [Link](https://zenodo.org/records/17354368)
+    - '[Link](https://zenodo.org/records/17354368)'
   - title: TissUUmaps Demo
     date: '2024'
     event: Imaging The Future
+    location: Austin, Texas, United States
     authors: '**Corbat, Agustin**'
     description:
     - Software demonstration
-    - Austin, Texas, United States
   - title: The Three Gears of Bioscience Projects
     date: '2024'
     event: Imaging The Future
+    location: Austin, Texas, United States
     authors: '**Corbat, Agustin**'
     description:
     - Poster presentation
-    - Austin, Texas, United States, [Link](https://figshare.com/articles/poster/The_Three_Gears_of_Bioscience_Projects/27725865?file=50481666)
+    - '[Link](https://figshare.com/articles/poster/The_Three_Gears_of_Bioscience_Projects/27725865?file=50481666)'
   - title: On Navigating the archipelago
     date: '2024'
     event: GloBIAS in-person Workshop
+    location: University of Gothenburg, Sweden
     authors: '**Corbat, Agustin**'
     description:
     - Presentation
-    - Gothenburg University, Sweden [Slides](https://github.com/GloBIAS-BioimageAnalysts/workshop24_Gothenburg/blob/main/Training_and_Education_Corbat_On_navigating.pptx)
+    - '[Slides](https://github.com/GloBIAS-BioimageAnalysts/workshop24_Gothenburg/blob/main/Training_and_Education_Corbat_On_navigating.pptx)'
   - title: Interfacing with other networks
     date: '2024'
     event: GloBIAS in-person Workshop
+    location: University of Gothenburg, Sweden
     authors: '**Corbat, Agustin**'
     description:
     - Presentation
-    - Gothenburg University, Sweden [Slides](https://docs.google.com/presentation/d/13qqOv7V2_8JLehdJA6WURrcpjyz1M2qC/edit),
-      [Document](https://docs.google.com/document/d/1miWe3rwJYZl7-Edv8yOys7_iOyKxhlioFZdh9h6Qu-8/edit?tab=t.0)
+    - '[Slides](https://docs.google.com/presentation/d/13qqOv7V2_8JLehdJA6WURrcpjyz1M2qC/edit), [Document](https://docs.google.com/document/d/1miWe3rwJYZl7-Edv8yOys7_iOyKxhlioFZdh9h6Qu-8/edit?tab=t.0)'
   - title: 'Multiplexed tissue imaging: tools and approaches'
     date: '2024'
     event: 'I2K: Images to Knowledge'
+    location: Human Technopole, Milan, Italy
     authors: '**Corbat, Agustin**; Klemm, Anna; Ballosera Navarro, Frederic; Windhager,
       Jonas; Lidayová, Kristína'
     description:
     - 90-minute workshop
-    - Human Technopole, Milan, Italy
-  - title: Bioimage Informatic Facility
+  - title: Bioimage Informatics Facility
     date: '2024'
     event: SciLifeLab Spatial Biology Science Summit
+    location: Uppsala University
     authors: '**Corbat, Agustin**'
     description:
     - Poster presentation
-    - Uppsala Universitet
   - title: Unravelling apoptotic signalling cascade by co-imaging extrinsic, intrinsic
       and effector caspase activity by fluorescence anisotropy microscopy
     date: '2020'
     event: 'Systems Biology of Cancer: Promises of Artificial Intelligence; EMBO|FEBS
       Lecture Course'
+    location: Institut Curie, Paris, France (virtual)
     authors: '**Corbat, Agustin**; Grecco, Hernan'
     description:
     - Selected talk and poster presentation
-    - Institut Curie, Paris, France; Virtual Meeting
   - title: Unravelling apoptotic signalling cascade by co-imaging extrinsic, intrinsic
       and effector caspase activity by fluorescence anisotropy microscopy
     date: '2020'
-    event: Image-based Systems Biology, 5^th^ International Symposium
+    event: Image-based Systems Biology, 5th International Symposium
+    location: Hans-Knöll Institute, University of Jena, Germany (virtual)
     authors: '**Corbat, Agustin**; Silberberg, Mauro; Grecco, Hernan'
     description:
     - Selected tandem talk and poster presentation
-    - Hans-Knöll Institute, University of Jena, Germany; Virtual Meeting
   - title: Molten Globule Driven Liquid-Liquid Phase Separation at the Center of Viral
       Factory Assembly
     date: '2020'
     event: Biophysical Journal
+    location: San Diego, California, United States
     authors: Salgueiro, Mariano; Camporeale, Gabriela; Conci, Julieta; Sousa, Belen;
       Visentin, Araceli; **Corbat, Agustin**; Grecco, Hernan; de Oliveira, Guilherme
       A.; de Prat-Gay, Gonzalo
     description:
-    - Poster presentation by Mariano Sagueiro
-    - San Diego, California, United States
+    - Poster presentation by Mariano Salgueiro
   - title: Unravelling apoptotic signalling cascade by co-imaging extrinsic, intrinsic
       and effector caspase activity by fluorescence anisotropy microscopy
     date: '2019'
     event: Whole Cell Modelling Summer School 2019, EMBO Workshop
+    location: Barcelona, Spain
     authors: '**Corbat, Agustín A.**; Grecco, Hernán E.'
     description:
     - Poster presentation
-    - Barcelona, España
   - title: Towards a spatio-temporal map of apoptosis in fruit fly embryo
     date: '2018'
     event: Taller de Biología Celular y del Desarrollo (Workshop on Cellular and Developmental
       Biology)
+    location: Chascómús, Buenos Aires, Argentina
     authors: Moretti, Bruno; **Corbat, Agustín A.**; Habif, Martín; Grecco, Hernán
       E.
     description:
     - Poster presentation
-    - Chascomús, Buenos Aires, Argentina
   - title: Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence
       anisotropy microscopy
     date: '2018'
     event: Taller de Biología Celular y del Desarrollo (Workshop on Cellular and Developmental
       Biology)
+    location: Chascómús, Buenos Aires, Argentina
     authors: '**Corbat, Agustín** and Grecco, Hernán'
     description:
     - Poster presentation
-    - Chascomús, Buenos Aires, Argentina
   - title: Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence
       anisotropy microscopy
     date: '2018'
@@ -547,17 +552,18 @@ Production:
     date: '2018'
     event: SPCell2018 - São Paulo School in Advanced Cell Biology, University of São
       Paulo, Brazil
+    location: São Paulo, Brazil
     authors: Habif, Martín; **Corbat, Agustín**; Grecco, Hernán
     description:
-    - Póster presentation by Martín Habif
+    - Poster presentation by Martín Habif
     - Co-organized by EMBO and American Society of Cell Biology (ASCB)
   - title: Integrating functional imaging with light sheet fluorescence microscopy
     date: '2017'
     event: Annual Meeting of International Physics of Living Systems (iPoLS) Network
+    location: Paris, France
     authors: Moretti, Bruno; **Corbat, Agustín**; Habif, Martín; Grecco, Hernán
     description:
     - Poster presentation
-    - Paris, France
   - title: Modeling Caspase Dynamics from Temporal Series
     date: '2016'
     event: Frontiers in Bioscience 2
@@ -574,25 +580,27 @@ Production:
   - title: '*Modelado de experimentos de homoFRET en red de señalización de apoptosis*
       (Modeling homoFRET experiments of apoptotic signalling cascade)'
     date: '2016'
-    event: Reunión Nacional de Física N^\circ^101 (101^st^ National Physics Reunion)
+    event: Reunión Nacional de Física Nº101 (101st National Physics Reunion)
     authors: '**Corbat, Agustín**; Grecco, Hernán'
     description:
     - Poster presentation
-  - title: Technological Project
+  - title: Technological Project - Open Optomechanics System
     date: '2015'
-    event: 'Sistema Optomecánica Abierta (namely: Open Optomechanics System)'
+    event: INNOVAR 2015
+    location: Argentina
     authors: SOMA Project
     description:
-    - 2^nd^ prize at INNOVAR 2015 (National innovation fair)
+    - 2nd prize (National innovation fair)
     - 'Open source electromechanical devices for optics experiments manufactured with
       3D printers and controlled with Arduino [Link](http://www.lec.df.uba.ar/soma/)'
-  - title: Sistema Opto-mecánico Abierto
+  - title: Open Optomechanics System
     date: '2015'
-    event: Reunión Nacional de Física N^\circ^100 (100^th^ National Physics Reunion
-    authors: Cuenca, Marina*; **Corbat, Agustín***; von Bilderling, Catalina; Pietrasanta,
+    event: Reunión Nacional de Física Nº100 (100th National Physics Reunion)
+    location: Argentina
+    authors: Cuenca, Marina; **Corbat, Agustín**; von Bilderling, Catalina; Pietrasanta,
       Lia; Grecco, Hernán
     description:
-    - '*Oral presentation'
+    - Oral presentation'
   - title: Open Source Fast Filter Wheel
     date: '2015'
     event: Giambiagi Winter School
@@ -601,237 +609,249 @@ Production:
     description:
     - Poster presentation
   Outreach Experience:
-  - title: Semana de la Física (Physics week)
+  - title: Semana de la Física - Presentation "Lights of the Week"
     date: '2016'
-    event: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
-    authors: 'Presentation: "Luces de la Semana" (Lights of the week)'
+    event: Physics Week
+    location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
+    authors: ''
     description:
-    - Preparation. Presentation regarding different concepts about light
-    - Volunteer
-  - title: Semana de la Física (Physics week)
+    - Preparation and presentation on different concepts about light
+  - title: Semana de la Física - Optics Station
     date: '2015'
-    event: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
-    authors: Optics Station
+    event: Physics Week
+    location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
+    authors: ''
     description:
-    - Presenter
-    - Volunteer
-  - title: Semana de la Física (Physics week)
+    - Presenter and volunteer
+  - title: Semana de la Física - Optics Station
     date: '2014'
-    event: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
-    authors: Optics Station
+    event: Physics Week
+    location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
+    authors: ''
+    description:
+    - Presenter and volunteer
+  - title: Tecnopolis - Physics Stand
+    date: '2013'
+    event: Tecnopolis
+    location: Buenos Aires, Argentina
+    authors: ''
     description:
     - Presenter
-    - Volunteer
-  - title: Tecnópolis
-    date: '2013'
-    event: Physics Stand
-    authors: Presenter
-    description:
     - September and October
-    - Presentation of physics experiments and their explanations to general and heterogeneous
-      audience.
+    - Presentation of physics experiments and their explanations to general and heterogeneous audience
 Participation in Conferences and Schools:
 - name: Democratizing Microscopy in Latin America
   date: '2024'
-  extension: 50 hr
+  extension: 50 hours
   location: Baños de Agua Santa, Ecuador
   language: English
   description:
   - Workshop
 - name: Bioinformatics Swedish Week
   date: '2023'
-  extension: 16hs
+  extension: 16 hours
   location: Karolinska Institutet, Stockholm, Sweden
   language: English
   description:
   - Attendance and Workshop
 - name: Advanced Methods in Bioimage Analysis
   date: '2023'
-  extension: 50hs
-  location: Virtual participant, Hybrid Course, EMBO, Heidelberg, Germany
+  extension: 50 hours
+  location: EMBO, Heidelberg, Germany (virtual participant, hybrid course)
   language: English
   description:
   - Workshop
 - name: 'GPU Programming: Why, When and How?'
   date: '2023'
-  extension: 16hs
-  location: Online, EuroCC National Competence Centre Sweden
+  extension: 16 hours
+  location: EuroCC National Competence Centre Sweden (online)
   language: English
   description:
   - Workshop
 - name: Programming Formalisms
   date: '2023'
-  extension: 40hs
-  location: Online, High Performance Computing Center North and UPPMAX
+  extension: 40 hours
+  location: High Performance Computing Center North and UPPMAX (online)
   language: English
   description:
   - Workshop
 - name: Using Python in an HPC environment
   date: '2023'
-  extension: 6hs
-  location: Online, High Performance Computing Center North and UPPMAX
+  extension: 6 hours
+  location: High Performance Computing Center North and UPPMAX (online)
   language: English
   description:
   - Workshop
 - name: Advanced Deep Learning with Transformers
   date: '2023'
-  extension: 16hs
-  location: Online, EuroCC National Competence Centre Sweden
+  extension: 16 hours
+  location: EuroCC National Competence Centre Sweden (online)
   language: English
   description:
   - Workshop
 - name: Data-Driven Precision Medicine and Diagnostics Research Area Symposium
   date: '2022'
-  extension: 8hs
-  location: Stockholm, Karolinska Institutet
+  extension: 8 hours
+  location: Karolinska Institutet, Stockholm
   language: English
   description:
   - Assistance
 - name: Data-Driven research at Karolinska Institutet
   date: '2022'
-  extension: 4hs
-  location: Stockholm, Karolinska Institutet
+  extension: 4 hours
+  location: Karolinska Institutet, Stockholm
   language: English
   description:
   - Assistance
 - name: Stem cells, regeneration biology and regenerative medicine
   date: '2022'
-  extension: 2^nd^ StratRegen Conference, 8hs
-  location: Stockholm, Karolinska Institutet
+  extension: 8 hours
+  location: Karolinska Institutet, Stockholm
   language: English
   description:
   - Assistance
 - name: Artificial intelligence and deep learning in physics
   date: '2020'
-  extension: XXII Giambiagi Winter School, 40hs, virtual meeting
-  location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+  extension: 40 hours
+  location: Facultad de Ciencias Exactas y Naturales, U.B.A. (virtual)
   language: English
   description:
   - Assistance and Exam
 - name: 'Systems Biology of Cancer: Promises of Artificial Intelligence'
   date: '2020'
-  extension: EMBO|FEBS Lecture Course, 40hs, virtual meeting
-  location: Institut Curie, Paris, France
+  extension: 40 hours
+  location: Institut Curie, Paris, France (virtual)
   language: English
   description:
   - Assistance, selected talk and poster presentation
 - name: Image-based Systems Biology
   date: '2020'
-  extension: 5^th^ International Symposium, 16hs, virtual meeting
-  location: Hans-Knöll Institute, University of Jena, Germany
+  extension: 16 hours
+  location: Hans-Knöll Institute, University of Jena, Germany (virtual)
   language: English
   description:
   - Assistance, tandem talk and poster presentation
 - name: 'OSA Biophotonics Congress: Biomedical Optics'
   date: '2020'
-  extension: Virtual Congress, 40hs
-  location: Virtual Attendance
+  extension: 40 hours
+  location: Virtual
   language: English
   description:
-  - Assistance
+  - Attendance
 - name: Whole Cell Modelling Summer School 2019
   date: '2019'
-  extension: EMBO Workshop, 50hs
-  location: Centre for Genomic Regulation, Barcelona, España
+  extension: 50 hours
+  location: Centre for Genomic Regulation, Barcelona, Spain
   language: English
   description:
-  - Assistance and poster presentation \\ Travel grant and fee waiver awarded
+  - Attendance and poster presentation
+  - Travel grant and fee waiver awarded
 - name: 'Physicists in the World of Health: a transdisciplinary meeting'
   date: '2018'
-  extension: XX Giambiagi Winter School
-  location: Facultad de Ciencias Exactas y Naturales
-  language: U.B.A
+  extension: Winter School
+  location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+  language: English
   description:
-  - Assistance, Poster presentation and Exam
+  - Attendance, poster presentation and exam
 - name: 'Quantitative Imaging: From Acquisition to Analysis'
   date: '2018'
-  extension: 156 hs workshop
-  location: 'Cold Spring Harbor Laboratory (CSHL). New York, USA. Language: English'
-  language: Assistance and hands-on
+  extension: 156 hours
+  location: Cold Spring Harbor Laboratory (CSHL), New York, USA
+  language: English
   description:
+  - Attendance
   - Half scholarship by Helmsley Charitable Trust and Howard Hughes Medical Institute
 - name: School on Physics Applications in Biology
   date: '2018'
-  extension: 50 hs Workshop
-  location: 'International Center for Theoretical Physics (ICTP) - South American
-    Institute for Fundamental Research (SAIFR). S\~ao Paulo, Brasil. Language: English'
-  language: Assistance to lectures
+  extension: 50 hours
+  location: International Center for Theoretical Physics (ICTP) - South American Institute for Fundamental Research (SAIFR), São Paulo, Brazil
+  language: English
   description:
+  - Attendance
   - Full tuition, travel, lodging and maintenance supported by ICTP
-- name: Escuela de Ciencias Informáticas (Informatics School)
+- name: Escuela de Ciencias Informáticas - Classification of brain states using functional neuroimaging
   date: '2017'
-  extension: 15 hs Course
-  location: '"Clasificación de estados cerebrales utilizando neuroimágenes funcionales"
-    ("Classification of brain states using functional neuroimaging") Enzo Tagliazucchi.
-    Brain and Spine Institute. Paris, France. Language: Spanish'
-  language: 'Assistance and monograph presentation (Grade: 8)'
-  description: []
-- name: Escuela de Ciencias Informáticas (Informatics School)
+  extension: 15 hours
+  location: Brain and Spine Institute, Paris, France
+  language: Spanish
+  description:
+  - Attendance and monograph presentation (Grade: 8)
+- name: Escuela de Ciencias Informáticas - Machine learning for analyzing neuroimaging data from natural stimulus experiments
   date: '2017'
-  extension: 15 hs Course
-  location: '"Machine learning for analyzing neuroimaging data from natural stimulus
-    experiments" Alex Huth. UC Berkeley. U.S.A. Language: English'
-  language: 'Assistance and monograph presentation (Grade: 8)'
-  description: []
-- name: Escuela de Ciencias Informáticas (Informatics School)
+  extension: 15 hours
+  location: UC Berkeley, U.S.A.
+  language: English
+  description:
+  - Attendance and monograph presentation (Grade: 8)
+- name: Escuela de Ciencias Informáticas - Bayesian Models in Machine Learning
   date: '2017'
-  extension: 15 hs Course
-  location: '"Bayesian Models in Machine Learning" Lukáš Burget. Brno University of
-    Technology. Czech Republic. Language: English'
-  language: 'Assistance and monograph presentation (Grade: 8)'
-  description: []
+  extension: 15 hours
+  location: Brno University of Technology, Czech Republic
+  language: English
+  description:
+  - Attendance and monograph presentation (Grade: 8)
 - name: Simposium Frontiers in Bioscience 2
   date: '2016'
-  extension: Simposium
-  location: Assitance and Poster presentation
-  description: []
-- name: 101^st^ Argentine Physics Association National Reunion
+  extension: Symposium
+  language: English
+  description:
+  - Attendance and poster presentation
+- name: 101st Argentine Physics Association National Reunion
   date: '2016'
   extension: Conference
-  location: Assitance and Poster presentation
-  description: []
-- name: 100^th^ Argentine Physics Association National Reunion
+  location: Argentina
+  language: Spanish
+  description:
+  - Attendance and poster presentation
+- name: 100th Argentine Physics Association National Reunion
   date: '2015'
   extension: Conference
-  location: Assitance and Oral presentation
-  description: []
+  location: Argentina
+  language: Spanish
+  description:
+  - Attendance and oral presentation
 - name: Light and light based technologies
   date: '2015'
-  extension: Giambiagi XVII Winter School
-  location: Facultad de Ciencias Exactas y Naturales
-  language: U.B.A
+  extension: Winter School
+  location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+  language: English
   description:
-  - Assistance
+  - Attendance
 - name: Laser frequency manipulation techniques
   date: '2014'
-  extension: Facultad de Ciencias Exactas y Naturales
-  location: U.B.A.
-  language: 20 hours
+  extension: 20 hours
+  location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+  language: English
   description:
-  - Assistance
-- name: 99^th^ Argentine Physics Association National Reunion
+  - Attendance
+- name: 99th Argentine Physics Association National Reunion
   date: '2014'
   extension: Conference
-  location: Assistance
-  description: []
+  location: Argentina
+  language: Spanish
+  description:
+  - Attendance
 - name: Information Processing in Biological Systems
   date: '2013'
-  extension: From cells to equations--and back
-  location: Facultad de Ciencias Exactas y Naturales
-  language: U.B.A.
+  extension: Workshop
+  location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+  language: Spanish
   description:
-  - Assistance
+  - Attendance
 - name: Development of Entrepreneur Behaviour Workshop
   date: '2011'
-  extension: Empretec
-  location: Organized with united Nations
-  description: []
+  extension: Workshop
+  location: Organized by United Nations
+  language: Spanish
+  description:
+  - Empretec
 - name: Pedagogy Workshop
   date: '2009'
-  extension: Facultad de Cs. Biomédicas
-  location: Hospital Universitario Austral
-  language: Assistance and exam
-  description: []
+  extension: Workshop
+  location: Facultad de Ciencias Biomédicas, Hospital Universitario Austral
+  language: Spanish
+  description:
+  - Attendance and exam
 Languages:
   International Exams:
   - name: I.G.C.S.E.
