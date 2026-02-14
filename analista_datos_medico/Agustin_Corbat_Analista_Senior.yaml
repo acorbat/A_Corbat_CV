@@ -119,37 +119,60 @@ cv:
       - label: Idiomas
         details: Español (nativo), Inglés (avanzado - First Certificate, IGCSE), Francés (intermedio - DELF A1)
     
-    Publicaciones Seleccionadas:
-      - title: 'GloBIAS: strengthening the foundations of BioImage Analysis'
-        authors:
-          - '***Agustin A. Corbat***'
-          - Christa G. Walther
-          - Laura R. de la Ballina
-          - et al.
-        doi: 10.48550/arXiv.2507.06407
-        date: '2025'
-        journal: ArXiv
+    Cusros dictados:
+      - label: Light Sheet Image Analysis Workshop
+        details: Co-organizador, Universidad Mayor, Santiago de Chile (2025) - Diseño del cronograma, selección de temas, 3 clases teóricas y 2 talleres prácticos
       
-      - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
-        authors:
-          - Sandra de Haan  
-          - Jingyan He
-          - '***Agustin A. Corbat***'
-          - et al.
-        doi: 10.1126/science.adq9248
-        date: '2025'
-        journal: Science
+      - label: AI Tools in Biology
+        details: Profesor invitado, Sveriges Lantbruksuniversitet, Universidad de Ciencias de la Agricultura de Suecia (2025) - Seminario teórico y práctico sobre inteligencia artificial en análisis de bioimágenes
       
-      - title: The non-canonical Smoothened-AMPK axis regulates Smaug1 biomolecular condensates
-        authors:
-          - María G. Thomas
-          - Ana J. Fernández-Alvarez
-          - et al.
-          - '***Agustín Corbat***'
-          - et al.
-        doi: 10.1242/jcs.263433
-        date: '2025'
-        journal: Journal of Cell Science
+      - label: Neural Networks and Deep Learning
+        details: Asistente de curso, National Bioinformatics Infrastructure Sweden, Uppsala Universitet (2024) - Curso teórico y práctico sobre diseño de redes neurales
+    
+    # Publicaciones Seleccionadas:
+    #   - title: 'GloBIAS: strengthening the foundations of BioImage Analysis'
+    #     authors:
+    #       - '***Agustin A. Corbat***'
+    #       - Christa G. Walther
+    #       - Laura R. de la Ballina
+    #       - et al.
+    #     doi: 10.48550/arXiv.2507.06407
+    #     date: '2025'
+    #     journal: ArXiv
+      
+    #   - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
+    #     authors:
+    #       - Sandra de Haan  
+    #       - Jingyan He
+    #       - '***Agustin A. Corbat***'
+    #       - et al.
+    #     doi: 10.1126/science.adq9248
+    #     date: '2025'
+    #     journal: Science
+      
+    #   - title: The non-canonical Smoothened-AMPK axis regulates Smaug1 biomolecular condensates
+    #     authors:
+    #       - María G. Thomas
+    #       - Ana J. Fernández-Alvarez
+    #       - et al.
+    #       - '***Agustín Corbat***'
+    #       - et al.
+    #     doi: 10.1242/jcs.263433
+    #     date: '2025'
+    #     journal: Journal of Cell Science
+     
+    Formación Continua:
+      - label: Advanced Methods in Bioimage Analysis
+        details: EMBO, Heidelberg (2023) - 50 horas
+      
+      - label: Quantitative Imaging - From Acquisition to Analysis
+        details: Cold Spring Harbor Laboratory, New York (2018) - 156 horas. Becado por Helmsley Charitable Trust y HHMI
+      
+      - label: 'GPU Programming & Deep Learning with Transformers'
+        details: EuroCC National Competence Centre Sweden (2023)
+      
+      - label: Programming Formalisms
+        details: High Performance Computing Center North and UPPMAX (2023)
     
     Educación:
       - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
@@ -172,19 +195,6 @@ cv:
         start_date: 2008-01
         end_date: 2010-12
         location: Buenos Aires, Argentina
-    
-    Formación Continua:
-      - label: Advanced Methods in Bioimage Analysis
-        details: EMBO, Heidelberg (2023) - 50 horas
-      
-      - label: Quantitative Imaging - From Acquisition to Analysis
-        details: Cold Spring Harbor Laboratory, New York (2018) - 156 horas. Becado por Helmsley Charitable Trust y HHMI
-      
-      - label: 'GPU Programming & Deep Learning with Transformers'
-        details: EuroCC National Competence Centre Sweden (2023)
-      
-      - label: Programming Formalisms
-        details: High Performance Computing Center North and UPPMAX (2023)
 
 design:
   theme: moderncv
