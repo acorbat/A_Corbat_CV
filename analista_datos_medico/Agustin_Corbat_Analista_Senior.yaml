@@ -1,0 +1,194 @@
+cv:
+  name: Agustín A. Corbat
+  location: Buenos Aires, Argentina
+  email: acorbat.bia@gmail.com
+  phone: 
+  website: https://acorbat.github.io
+  social_networks:
+    - network: LinkedIn
+      username: agustín-andrés-corbat-1a7a6b89
+    - network: GitHub
+      username: acorbat
+  sections:
+    Resumen:
+      - Analista senior de datos e imágenes biomédicas con más de 8 años de experiencia en microscopía cuantitativa, desarrollo de algoritmos de análisis y consultoría técnica. Perfil multidisciplinario en física, biología y medicina, con sólidas habilidades en procesamiento de imágenes, aprendizaje automático y automatización de flujos de trabajo. Experiencia comprobada proveyendo soluciones de análisis a medida para instituciones académicas y empresas del sector biotecnológico y médico. Especialista en diseño de flujos de análisis reproducibles, extracción de información cuantitativa de imágenes complejas y comunicación efectiva con equipos multidisciplinarios.
+    
+    Experiencia Profesional:
+      - company: Instituto de Física de Buenos Aires, Centro de Microscopias Avanzadas, Universidad de Buenos Aires
+        position: Analista Senior de Bioimágenes
+        start_date: 2024-06
+        end_date: present
+        location: Buenos Aires, Argentina
+        highlights:
+          - Desarrollo de algoritmos para análisis de imágenes de microscopía avanzada
+          - Soporte técnico a investigadores en diseño experimental y análisis estadístico
+          - Formación y capacitación a través de cursos y supervisión de estudiantes
+      
+      - company: BioImage Informatics Facility (BIIF), ScilifeLab y National Bioinformatics Infrastructure Sweden (NBIS), Uppsala University
+        position: Analista de Bioimágenes
+        start_date: 2024-02
+        end_date: 2025-03
+        location: Uppsala, Suecia
+        highlights:
+          - Consultoría técnica en análisis de imágenes para proyectos de investigación biomédica
+          - Desarrollo de pipelines automatizados de procesamiento utilizando Python, QuPath y Fiji
+          - Implementación de soluciones de machine y deep learning para segmentación y clasificación
+      
+      - company: Karolinska Institutet, Departamento de Biología Celular y Molecular
+        position: Investigador Postdoctoral
+        start_date: 2022-01
+        end_date: 2024-01
+        location: Estocolmo, Suecia
+        highlights:
+          - 'Proyecto: Afinando Notch y mecánica para ingeniería de destino celular'
+          - Análisis cuantitativo de imágenes de microscopía confocal y lightsheet
+          - Modelado matemático de procesos de señalización celular
+          - 'Financiamiento: Marie Skłodowska-Curie Seal of Excellence, Vetenskapsrådet'
+    
+    Proyectos Destacados:
+      - name: Spatial Profiling del interplay huésped-patógeno renal
+        start_date: 2024-12
+        end_date: 2025-03
+        location: BioImage Informatics Facility, ScilifeLab
+        highlights:
+          - Análisis espacial de imágenes de inmunofluorescencia multiplex y whole-slide en tejido renal infectado con Candida albicans
+          - Desarrollo de pipeline automatizado para cuantificación de respuesta inmune
+          - '[Documentación completa del proyecto](https://biifsweden.github.io/projects/2025/02/25/PerLjungdahl2025-1/)'
+      
+      - name: Segmentación de malformaciones cavernosas en MRI cerebral
+        start_date: 2024-09
+        end_date: 2025-05
+        location: BioImage Informatics Facility, ScilifeLab
+        highlights:
+          - Implementación de modelos de inteligencia artificial para segmentación de estructuras patológicas en escaneos de resonancia magnética de ratón
+          - '[Documentación del proyecto](https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/)'
+      
+      - name: Rol de fenotipos TAM perivasculares en metástasis
+        start_date: 2024-07
+        end_date: 2024-08
+        location: BioImage Informatics Facility, ScilifeLab
+        highlights:
+          - Análisis cuantitativo de distribución espacial de macrófagos asociados a tumores, 
+          - Extracción de features morfológicos, expresión de marcadores y de co-localización
+          - '[Documentación del proyecto](https://biifsweden.github.io/projects/2024/07/10/CharlotteRolny2024-1/)'
+      
+      - name: 'AI4Life Open Call 2: Proyectos 11 y 38'
+        start_date: 2024-04
+        end_date: 2024-12
+        location: En colaboración con AI4Life
+        highlights:
+          - Desarrollo de soluciones de inteligencia artificial para análisis de imágenes biomédicas
+          - Trabajo con imágenes de fotogrametría submarina capturadas por embarcaciones
+          - Implementación de modelo SAM (Segment Anything Model) para segmentación y clasificación automática de especies marinas
+          - '[Proyecto 11](https://github.com/ai4life-opencalls/oc_2_project_11) | [Proyecto 38](https://github.com/ai4life-opencalls/oc_2_project_38)'
+      
+      - name: Desarrollo de algoritmos para control de calidad en productos estéticos
+        start_date: 2025-01
+        end_date: 2025-01
+        location: Bohus Biotech, Uppsala, Suecia
+        highlights:
+          - Consultoría independiente para empresa de biotecnología sobre métodos y diseño de métricas cuantitativas automatizadas para evaluación de productos
+        
+      - name: Detección de interacciones proteína-proteína mediante ensayos de proximidad
+        start_date: 2025-01
+        end_date: 2025-01
+        location: Navinci Diagnostics, Uppsala, Suecia
+        highlights:
+          - Consultoría para empresa de diagnóstico molecular sobre desarrollo de flujos de análisis para detección de interacciones proteína-proteína
+          - Interfaz directa con equipo de desarrollo de productos
+      
+      - name: Petrografía Digital para la industria petrolera
+        start_date: 2019-01
+        end_date: 2019-12
+        location: Y-TEC (YPF Tecnología), Buenos Aires, Argentina
+        highlights:
+          - Servicio Técnico de Alto Nivel (ST4407) en colaboración con Universidad de Buenos Aires
+          - Análisis automatizado de imágenes gigapixel microscópicas de muestras geológicas
+          - Desarrollo de herramientas de clasificación y cuantificación de estructuras petrofísicas
+    
+    Habilidades Técnicas:
+      - label: Programación
+        details: Experto en Python (NumPy, pandas, scikit-image, scikit-learn, matplotlib, seaborn), ImageJ/Fiji, MATLAB, Git/GitHub, LaTeX
+      
+      - label: Análisis de Imágenes y ML
+        details: Preprocesamiento, segmentación (clásica y deep learning - Cellpose, StarDist, U-Net), análisis morfométrico, análisis espacial, object tracking, deep learning (PyTorch, TensorFlow/Keras), análisis estadístico
+      
+      - label: Modalidades de Microscopía
+        details: Fluorescencia (widefield, confocal, TIRF), light sheet, super-resolución, time-lapse, multiplex/multicanal, MRI y otras modalidades médicas
+      
+      - label: Idiomas
+        details: Español (nativo), Inglés (avanzado - First Certificate, IGCSE), Francés (intermedio - DELF A1)
+    
+    Publicaciones Seleccionadas:
+      - title: 'GloBIAS: strengthening the foundations of BioImage Analysis'
+        authors:
+          - '***Agustin A. Corbat***'
+          - Christa G. Walther
+          - Laura R. de la Ballina
+          - et al.
+        doi: 10.48550/arXiv.2507.06407
+        date: '2025'
+        journal: ArXiv
+      
+      - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
+        authors:
+          - Sandra de Haan  
+          - Jingyan He
+          - '***Agustin A. Corbat***'
+          - et al.
+        doi: 10.1126/science.adq9248
+        date: '2025'
+        journal: Science
+      
+      - title: The non-canonical Smoothened-AMPK axis regulates Smaug1 biomolecular condensates
+        authors:
+          - María G. Thomas
+          - Ana J. Fernández-Alvarez
+          - et al.
+          - '***Agustín Corbat***'
+          - et al.
+        doi: 10.1242/jcs.263433
+        date: '2025'
+        journal: Journal of Cell Science
+    
+    Educación:
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Ciencias Físicas
+        degree: Doctorado
+        start_date: 2016-01
+        end_date: 2021-12
+        location: Buenos Aires, Argentina
+      
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Ciencias Físicas
+        degree: Licenciatura
+        start_date: 2011-01
+        end_date: 2016-12
+        location: Buenos Aires, Argentina
+      
+      - institution: Hospital Universitario Austral, Facultad de Ciencias Biomédicas
+        area: Medicina
+        degree: Ciclo Troncal
+        start_date: 2008-01
+        end_date: 2010-12
+        location: Buenos Aires, Argentina
+    
+    Formación Continua:
+      - label: Advanced Methods in Bioimage Analysis
+        details: EMBO, Heidelberg (2023) - 50 horas
+      
+      - label: Quantitative Imaging - From Acquisition to Analysis
+        details: Cold Spring Harbor Laboratory, New York (2018) - 156 horas. Becado por Helmsley Charitable Trust y HHMI
+      
+      - label: 'GPU Programming & Deep Learning with Transformers'
+        details: EuroCC National Competence Centre Sweden (2023)
+      
+      - label: Programming Formalisms
+        details: High Performance Computing Center North and UPPMAX (2023)
+
+design:
+  theme: moderncv
+  color: blue
+  disable_external_link_icons: false
+  page_size: a4paper
+  show_last_updated_date: false

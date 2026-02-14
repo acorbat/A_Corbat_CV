@@ -2,10 +2,10 @@ design:
   theme: moderncv
   page:
     size: us-letter
-    top_margin: 2cm
-    bottom_margin: 2cm
-    left_margin: 2cm
-    right_margin: 2cm
+    top_margin: 1.5cm
+    bottom_margin: 1.5cm
+    left_margin: 1.5cm
+    right_margin: 1.5cm
     show_page_numbering: true
     show_last_updated_date: true
   colors:
@@ -46,7 +46,7 @@ design:
     vertical_space_above: 0.5cm
     vertical_space_below: 0.3cm
   entries:
-    date_and_location_width: 4.15cm
+    date_and_location_width: 3.65cm
     left_and_right_margin: 0.2cm
     horizontal_space_between_columns: 0.1cm
     vertical_space_between_entries: 1.2em
@@ -67,7 +67,7 @@ design:
     education_entry:
       main_column_first_row_template: '**INSTITUTION**, AREA'
       degree_column_template: '**DEGREE**'
-      degree_column_width: 1cm
+      degree_column_width: 2cm
       main_column_second_row_template: |-
         SUMMARY
         HIGHLIGHTS

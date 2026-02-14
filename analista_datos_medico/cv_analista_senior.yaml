@@ -1,0 +1,252 @@
+Resumen:
+  free_text:
+    - Analista senior de datos e imágenes biomédicas con más de 8 años de experiencia en microscopía cuantitativa, desarrollo de algoritmos de análisis y consultoría técnica. Perfil multidisciplinario en física, biología y medicina, con sólidas habilidades en procesamiento de imágenes, machine learning y automatización de flujos de trabajo. Experiencia comprobada proveyendo soluciones de análisis a medida para instituciones académicas y empresas del sector biotecnológico y médico. Especializado en diseño de pipelines de análisis reproducibles, extracción de información cuantitativa de imágenes complejas, y comunicación efectiva con equipos multidisciplinarios.
+Educación:
+  Educación Universitaria:
+  - name: Doctorado en Ciencias Físicas
+    date: 2016--2021
+    location: Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
+    description:
+    - Microespectroscopía aplicada a la cuantificación y modelado de la propagación de señales en redes biológicas
+    - 'Director: Dr. Hernán E. Grecco. Nota: Sobresaliente'
+    - Beca doctoral CONICET
+  - name: Licenciatura en Ciencias Físicas
+    date: 2011--2016
+    location: Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
+    description:
+    - 'Promedio: **9,32**/10'
+    - Enfoque en biofísica y estadística
+  - name: Medicina, Ciclo Troncal Completo
+    date: 2008--2010
+    location: Facultad de Ciencias Biomédicas, Hospital Universitario Austral
+    description:
+    - 'Promedio: **7,48**/10. Beca al Mérito'
+    - Formación en anatomía, fisiología y patología
+Experiencia:
+  Posiciones Actuales:
+  - name: Analista Senior de Bioimágenes
+    date: 2024--actual
+    location: Instituto de Física de Buenos Aires, Centro de Microscopias Avanzadas, Universidad de Buenos Aires
+    description:
+    - Desarrollo de algoritmos personalizados para análisis de imágenes de microscopía avanzada
+    - Soporte técnico a investigadores en diseño experimental y análisis estadístico
+    - Formación y capacitación a través de cursos y supervisión de estudiantes
+  - name: Analista de Bioimágenes
+    date: 2024--2025
+    location: BioImage Informatics Facility (BIIF), ScilifeLab y National Bioinformatics Infrastructure Sweden (NBIS), Uppsala University
+    description:
+    - Consultoría técnica en análisis de imágenes para proyectos de investigación biomédica
+    - Desarrollo de pipelines automatizados de procesamiento utilizando Python, ImageJ/Fiji, y herramientas de deep learning
+    - Implementación de soluciones de machine learning para segmentación y clasificación de estructuras biológicas
+  Consultoría Profesional:
+  - name: Consultor en Análisis de Imágenes
+    date: '2025'
+    location: Bohus Biotech, Uppsala, Suecia
+    description:
+    - Desarrollo de algoritmos de análisis de imágenes para control de calidad de productos estéticos
+    - Diseño de métricas cuantitativas automatizadas para evaluación de productos
+    - Entrega de documentación técnica y capacitación al equipo cliente
+  - name: Consultor en Análisis de Imágenes
+    date: '2025'
+    location: Navinci Diagnostics, Uppsala, Suecia
+    description:
+    - Desarrollo de pipelines de análisis para detección de interacciones proteína-proteína mediante ensayos de proximidad
+    - Optimización de flujos de trabajo para procesamiento de alto rendimiento
+    - Interfaz directa con equipo de desarrollo de productos
+  - name: Consultor Técnico
+    date: '2019'
+    location: Y-TEC (YPF Tecnología), colaboración con Laboratorio de Electrónica Cuántica, UBA
+    description:
+    - Servicio Técnico de Alto Nivel (ST4407) en Petrografía Digital
+    - Análisis automatizado de imágenes microscópicas de muestras geológicas
+  Experiencia de Investigación Aplicada:
+  - name: Postdoctorado en Biología del Desarrollo
+    date: 2022--2024
+    location: Departamento de Biología Celular y Molecular, Karolinska Institutet, Estocolmo
+    description:
+    - 'Proyecto: Afinando Notch y mecánica para ingeniería de destino celular'
+    - Análisis cuantitativo de imágenes de microscopía confocal y lightsheet
+    - Modelado matemático de procesos de señalización celular
+    - 'Financiamiento: Marie Skłodowska-Curie Seal of Excellence, Vetenskapsrådet (Consejo de Investigación de Suecia)'
+  - name: Postdoctorado en Ciencias Físicas
+    date: 2021--2022
+    location: Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
+    description:
+    - Desarrollo de técnicas de espectroscopía de correlación para cuantificación de señales intracelulares
+    - Automatización de adquisición y análisis de datos de microscopía
+Proyectos Destacados:
+  Proyectos de Consultoría BIIF:
+  - name: Spatial Profiling del interplay huésped-patógeno renal en respuesta a infección por Candida albicans en ratones
+    date: '2025'
+    location: BioImage Informatics Facility, ScilifeLab, Suecia
+    description:
+    - Análisis espacial de imágenes de inmunofluorescencia multiplex en tejido renal
+    - Desarrollo de pipeline automatizado para cuantificación de respuesta inmune
+    - 'Repositorio: [GitHub](https://github.com/BIIFSweden/PerLjungdahl2025-1)'
+    - 'Documentación: [Proyecto BIIF](https://biifsweden.github.io/projects/2025/02/25/PerLjungdahl2025-1/)'
+  - name: Segmentación de malformaciones cavernosas en escaneos MRI de cerebro de ratón
+    date: '2024'
+    location: BioImage Informatics Facility, ScilifeLab, Suecia
+    description:
+    - Implementación de modelos de deep learning para segmentación de estructuras patológicas en MRI
+    - Validación y optimización de parámetros de modelo
+    - 'Documentación: [Proyecto BIIF](https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/)'
+  - name: El rol de fenotipos TAM perivasculares en diseminación metastásica
+    date: '2024'
+    location: BioImage Informatics Facility, ScilifeLab, Suecia
+    description:
+    - Análisis cuantitativo de distribución espacial de macrófagos asociados a tumores
+    - Extracción de features morfológicos y de co-localización
+    - 'Documentación: [Proyecto BIIF](https://biifsweden.github.io/projects/2024/07/10/CharlotteRolny2024-1/)'
+  - name: 'AI4Life Open Call 2: Proyectos 11 y 38'
+    date: '2024'
+    location: BioImage Informatics Facility, en colaboración con AI4Life
+    description:
+    - Desarrollo de soluciones de inteligencia artificial para análisis de imágenes biomédicas
+    - Implementación de modelos de segmentación y clasificación
+    - 'Repositorios: [Proyecto 11](https://github.com/ai4life-opencalls/oc_2_project_11), [Proyecto 38](https://github.com/ai4life-opencalls/oc_2_project_38)'
+  Proyectos de Investigación:
+  - name: Jag1 reprime la activación de Notch en células de soporte lateral y inhibe un destino de célula pilosa externa en el compartimiento medial de la cóclea en desarrollo
+    date: 2023--2024
+    location: Emma Andersson Lab, Karolinska Institutet
+    description:
+    - Análisis cuantitativo de patrones de expresión génica en tejido coclear
+    - Publicado en Development (2024)
+  - name: Decodificando el destino celular con rastreo de linaje por transducción in utero
+    date: 2022--2024
+    location: Emma Andersson Lab, Karolinska Institutet
+    description:
+    - Desarrollo de pipeline de análisis para experimentos de lineage tracing
+    - Colaboración multidisciplinaria con laboratorios de Jonas Frisén, Igor Adameyko y otros
+    - 'Financiamiento: Knut och Alice Wallenbergs Stiftelse'
+  - name: Visualización de tumorigénesis temprana via oncogén beta-catenina en organoides intestinales murinos
+    date: 2019--2021
+    location: Systemic Cell Biology, Max Planck Institute for Molecular Physiology, Dortmund
+    description:
+    - Análisis de imágenes de time-lapse de organoides
+    - Cuantificación de dinámicas de crecimiento y proliferación celular
+Formación y Capacitación:
+  - name: Co-organizador y Profesor
+    date: '2025'
+    location: Light Sheet Image Analysis Workshop, Universidad Mayor, Santiago de Chile
+    description:
+    - Diseño de cronograma y contenido del curso de 1 semana
+    - Dictado de 3 clases teóricas y 2 talleres prácticos sobre análisis de imágenes de lightsheet
+  - name: Profesor Invitado
+    date: '2025'
+    location: Curso de Fundamentos de Microscopía Óptica, Fundación Instituto Leloir, Buenos Aires
+    description:
+    - '**Imagen Digital e Introducción al Análisis de Bioimágenes**: Dos clases teóricas y dos prácticos'
+    - 'Material disponible: [Zenodo](https://zenodo.org/records/16920518)'
+  - name: Profesor Invitado
+    date: '2025'
+    location: Sveriges lantbruksuniversitet (Universidad de Ciencias Agrícolas de Suecia)
+    description:
+    - '**AI Tools in Biology**: Seminario teórico-práctico sobre inteligencia artificial en análisis de bioimágenes'
+    - 'Material disponible: [Zenodo](https://zenodo.org/records/15393775)'
+  - name: Profesor Invitado y Facilitador
+    date: 2024--2025
+    location: Live Cell Imaging, Karolinska Institutet
+    description:
+    - '**Microscopy: Improve Your Imaging Skills**: Curso intensivo de 3 semanas sobre diseño experimental en microscopía y análisis'
+  - name: Supervisión de Estudiantes
+    date: 2023--2025
+    location: Karolinska Institutet y High School, Uppsala
+    description:
+    - Supervisión de estudiante de Master (4 meses) en análisis de imágenes de células progenitoras hepáticas
+    - Supervisión de estudiante de Bachelor (1 año) en clearing y microscopía de tejido hepático
+    - Supervisión de estudiantes de High School en proyecto de visión por computadora con Raspberry Pi
+Publicaciones Relevantes:
+  - title: 'GloBIAS: strengthening the foundations of BioImage Analysis'
+    date: '2025'
+    journal: ArXiv
+    authors: '**Agustin A. Corbat**, Christa G. Walther, Laura R. de la Ballina, et al.'
+    description:
+    - Artículo sobre fortalecimiento de la comunidad de análisis de bioimágenes
+    - 'doi: https://doi.org/10.48550/arXiv.2507.06407'
+  - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
+    date: '2025'
+    journal: Science
+    authors: Sandra de Haan, Jingyan He, **Agustin A. Corbat**, et al.
+    description:
+    - Trabajo con análisis cuantitativo extensivo de imágenes de lineage tracing
+    - 'doi: https://doi.org/10.1126/science.adq9248'
+  - title: Jag1 represses Notch activation in lateral supporting cells and inhibits an outer hair cell fate in the medial cochlea
+    date: '2024'
+    journal: Development
+    authors: Sandra de Haan, **Agustin Corbat**, et al.
+    description:
+    - Análisis cuantitativo de patrones de expresión en cóclea en desarrollo
+    - 'doi: https://doi.org/10.1242/dev.202949'
+  - title: The non-canonical Smoothened-AMPK axis regulates Smaug1 biomolecular condensates
+    date: '2025'
+    journal: Journal of Cell Science
+    authors: María G. Thomas, Ana J. Fernández-Alvarez, et al., **Agustín Corbat**, et al.
+    description:
+    - Análisis cuantitativo de organelos sin membrana mediante microscopía de fluorescencia
+    - 'doi: https://doi.org/10.1242/jcs.263433'
+  - title: 'CASPAM: a triple modality biosensor for multiplexed imaging of caspase network activity'
+    date: '2021'
+    journal: bioRxiv
+    authors: '**Agustin A. Corbat**, Luciana I. Gallo, et al.'
+    description:
+    - Desarrollo de biosensor y pipeline de análisis para cuantificación multiplexada
+    - 'doi: https://doi.org/10.1101/2021.03.10.434623'
+Habilidades Técnicas:
+  Lenguajes de Programación y Herramientas:
+  - Experto en **Python** (NumPy, pandas, scikit-image, scikit-learn, matplotlib, seaborn)
+  - **ImageJ/Fiji** y desarrollo de macros personalizadas
+  - **MATLAB** para procesamiento de señales y análisis estadístico
+  - Git/GitHub para control de versiones y colaboración
+  - LaTeX para documentación técnica
+  Análisis de Imágenes y Machine Learning:
+  - Preprocesamiento de imágenes (corrección de fondo, denoising, normalización)
+  - Segmentación (clásica y deep learning, incluyendo Cellpose, StarDist, U-Net)
+  - Análisis morfométrico y cuantificación de features
+  - Análisis espacial y de co-localización
+  - Object tracking y análisis de time-lapse
+  - Deep learning con PyTorch y TensorFlow/Keras
+  - Análisis estadístico y visualización de datos
+  Modalidades de Microscopía:
+  - Microscopía de fluorescencia (widefield, confocal, TIRF)
+  - Light sheet microscopy
+  - Microscopía de super-resolución
+  - Time-lapse y live-cell imaging
+  - Imágenes multiplex y multicanal
+  - MRI y otras modalidades médicas
+Cursos Especializados:
+  - name: Advanced Methods in Bioimage Analysis
+    date: '2023'
+    location: EMBO, Heidelberg, Alemania (híbrido)
+    description:
+    - Curso intensivo de 50 horas sobre métodos avanzados de análisis
+  - name: 'GPU Programming: Why, When and How?'
+    date: '2023'
+    location: EuroCC National Competence Centre Sweden (online)
+    description:
+    - Programación en GPU para aceleración de procesamiento
+  - name: Advanced Deep Learning with Transformers
+    date: '2023'
+    location: EuroCC National Competence Centre Sweden (online)
+    description:
+    - Aplicaciones de transformers en análisis de datos
+  - name: 'Quantitative Imaging: From Acquisition to Analysis'
+    date: '2018'
+    location: Cold Spring Harbor Laboratory, New York, USA
+    description:
+    - Curso intensivo de 156 horas. Media beca Helmsley Charitable Trust y HHMI
+  - name: Programming Formalisms
+    date: '2023'
+    location: High Performance Computing Center North and UPPMAX (online)
+    description:
+    - Buenas prácticas en desarrollo de software científico
+Idiomas:
+  - name: Español
+    description:
+    - Nativo
+  - name: Inglés
+    description:
+    - Avanzado - Certificaciones First Certificate in English, I.G.C.S.E.
+  - name: Francés
+    description:
+    - Intermedio - DELF A1 Expression générale

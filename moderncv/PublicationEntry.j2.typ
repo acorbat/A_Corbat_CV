@@ -1,5 +1,6 @@
 ((* if date_and_location_column_template *))
 #two-col-entry(
+  right-column-width: 1cm,
   left-content: [
     <<main_column_first_row_template>>
 
