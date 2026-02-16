@@ -1,0 +1,204 @@
+cv:
+  name: Agustín A. Corbat
+  location: Buenos Aires, Argentina
+  email: acorbat.bia@gmail.com
+  phone: 
+  website: https://acorbat.github.io
+  social_networks:
+    - network: LinkedIn
+      username: agustín-andrés-corbat-1a7a6b89
+    - network: GitHub
+      username: acorbat
+  sections:
+    Summary:
+      - '**Senior biomedical data and image analyst with over 10 years of experience in quantitative microscopy, algorithm development, and technical consulting**. Multidisciplinary profile spanning physics, biology, and medicine, with strong skills in image processing, machine learning, and workflow automation. Proven track record delivering custom analysis solutions to academic institutions and biotechnology/medical sector companies. Specialist in designing reproducible analysis workflows, extracting quantitative information from complex images, and effectively communicating with multidisciplinary teams.'
+    
+    Professional Experience:
+      - company: Instituto de Física de Buenos Aires, Centro de Microscopias Avanzadas, Universidad de Buenos Aires
+        position: Senior Bioimage Analyst
+        start_date: 2024-06
+        end_date: present
+        location: Buenos Aires, Argentina
+        highlights:
+          - Development of algorithms for advanced microscopy image analysis
+          - Technical support to researchers in experimental design and statistical analysis
+          - Training and education through courses and student supervision
+      
+      - company: BioImage Informatics Facility (BIIF), ScilifeLab and National Bioinformatics Infrastructure Sweden (NBIS), Uppsala University
+        position: Bioimage Analyst
+        start_date: 2024-02
+        end_date: 2025-03
+        location: Uppsala, Sweden
+        highlights:
+          - Technical consulting in image analysis for biomedical research projects
+          - Development of automated processing pipelines using Python, QuPath, and Fiji
+          - Implementation of machine and deep learning solutions for segmentation and classification
+      
+      - company: Karolinska Institutet, Department of Cell and Molecular Biology
+        position: Postdoctoral Researcher
+        start_date: 2022-01
+        end_date: 2024-01
+        location: Stockholm, Sweden
+        highlights:
+          - 'Project: Tuning Notch and mechanics for cell fate engineering'
+          - Quantitative analysis of confocal and light sheet microscopy images
+          - Mathematical modeling of cell signaling processes
+          - 'Funding: Marie Skłodowska-Curie Seal of Excellence, Vetenskapsrådet'
+    
+    Featured Projects:
+      - name: Spatial Profiling of renal host-pathogen interplay
+        start_date: 2024-12
+        end_date: 2025-03
+        location: BioImage Informatics Facility, ScilifeLab
+        highlights:
+          - Spatial analysis of multiplex immunofluorescence and whole-slide images in renal tissue infected with Candida albicans
+          - Development of automated pipeline for immune response quantification
+          - '[Complete project documentation](https://biifsweden.github.io/projects/2025/02/25/PerLjungdahl2025-1/)'
+      
+      - name: Segmentation of cavernous malformations in brain MRI
+        start_date: 2024-09
+        end_date: 2025-05
+        location: BioImage Informatics Facility, ScilifeLab
+        highlights:
+          - Implementation of AI models for segmentation of pathological structures in mouse MRI scans
+          - '[Project documentation](https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/)'
+      
+      - name: Role of perivascular TAM phenotypes in metastasis
+        start_date: 2024-07
+        end_date: 2024-08
+        location: BioImage Informatics Facility, ScilifeLab
+        highlights:
+          - Quantitative analysis of tumor-associated macrophage spatial distribution
+          - Extraction of morphological features, marker expression and co-localization
+          - '[Project documentation](https://biifsweden.github.io/projects/2024/07/10/CharlotteRolny2024-1/)'
+      
+      - name: 'AI4Life Open Call 2: Projects 11 and 38'
+        start_date: 2024-04
+        end_date: 2024-12
+        location: In collaboration with AI4Life
+        highlights:
+          - Development of AI solutions for biomedical image analysis
+          - Work with underwater photogrammetry images captured by vessels
+          - Implementation of SAM (Segment Anything Model) for automatic segmentation and classification of marine species
+          - '[Project 11](https://github.com/ai4life-opencalls/oc_2_project_11) | [Project 38](https://github.com/ai4life-opencalls/oc_2_project_38)'
+      
+      - name: Algorithm development for quality control in aesthetic products
+        start_date: 2025-01
+        end_date: 2025-01
+        location: Bohus Biotech, Uppsala, Sweden
+        highlights:
+          - Independent consulting for biotechnology company on methods and design of automated quantitative metrics for product evaluation
+        
+      - name: Detection of protein-protein interactions via proximity assays
+        start_date: 2025-01
+        end_date: 2025-01
+        location: Navinci Diagnostics, Uppsala, Sweden
+        highlights:
+          - Consulting for molecular diagnostics company on development of analysis workflows for protein-protein interaction detection
+          - Direct interface with product development team
+      
+      - name: Digital Petrography for the oil industry
+        start_date: 2019-01
+        end_date: 2019-12
+        location: Y-TEC (YPF Tecnología), Buenos Aires, Argentina
+        highlights:
+          - High-Level Technical Service (ST4407) in collaboration with Universidad de Buenos Aires
+          - Automated analysis of gigapixel microscopic images of geological samples
+          - Development of classification and quantification tools for petrophysical structures
+    
+    Technical Skills:
+      - label: Programming
+        details: Expert in Python (NumPy, pandas, scikit-image, scikit-learn, matplotlib, seaborn), ImageJ/Fiji, MATLAB, Git/GitHub, LaTeX
+      
+      - label: Image Analysis and ML
+        details: Preprocessing, segmentation (classical and deep learning - Cellpose, StarDist, U-Net), morphometric analysis, spatial analysis, object tracking, deep learning (PyTorch, TensorFlow/Keras), statistical analysis
+      
+      - label: Microscopy Modalities
+        details: Fluorescence (widefield, confocal, TIRF), light sheet, super-resolution, time-lapse, multiplex/multichannel, MRI and other medical modalities
+      
+      - label: Languages
+        details: Spanish (native), English (advanced - First Certificate, IGCSE), French (intermediate - DELF A1)
+    
+    Courses Taught:
+      - label: Light Sheet Image Analysis Workshop
+        details: Co-organizer, Universidad Mayor, Santiago de Chile (2025) - Schedule design, topic selection, 3 theoretical lectures and 2 practical workshops
+      
+      - label: AI Tools in Biology
+        details: Guest lecturer, Sveriges Lantbruksuniversitet, Swedish University of Agricultural Sciences (2025) - Theoretical and practical seminar on artificial intelligence in bioimage analysis
+      
+      - label: Neural Networks and Deep Learning
+        details: Course assistant, National Bioinformatics Infrastructure Sweden, Uppsala Universitet (2024) - Theoretical and practical course on neural network design
+    
+    # Selected Publications:
+    #   - title: 'GloBIAS: strengthening the foundations of BioImage Analysis'
+    #     authors:
+    #       - '***Agustin A. Corbat***'
+    #       - Christa G. Walther
+    #       - Laura R. de la Ballina
+    #       - et al.
+    #     doi: 10.48550/arXiv.2507.06407
+    #     date: '2025'
+    #     journal: ArXiv
+      
+    #   - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
+    #     authors:
+    #       - Sandra de Haan  
+    #       - Jingyan He
+    #       - '***Agustin A. Corbat***'
+    #       - et al.
+    #     doi: 10.1126/science.adq9248
+    #     date: '2025'
+    #     journal: Science
+      
+    #   - title: The non-canonical Smoothened-AMPK axis regulates Smaug1 biomolecular condensates
+    #     authors:
+    #       - María G. Thomas
+    #       - Ana J. Fernández-Alvarez
+    #       - et al.
+    #       - '***Agustín Corbat***'
+    #       - et al.
+    #     doi: 10.1242/jcs.263433
+    #     date: '2025'
+    #     journal: Journal of Cell Science
+     
+    Continuing Education:
+      - label: Advanced Methods in Bioimage Analysis
+        details: EMBO, Heidelberg (2023) - 50 hours
+      
+      - label: Quantitative Imaging - From Acquisition to Analysis
+        details: Cold Spring Harbor Laboratory, New York (2018) - 156 hours. Scholarship from Helmsley Charitable Trust and HHMI
+      
+      - label: 'GPU Programming & Deep Learning with Transformers'
+        details: EuroCC National Competence Centre Sweden (2023)
+      
+      - label: Programming Formalisms
+        details: High Performance Computing Center North and UPPMAX (2023)
+    
+    Education:
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physical Sciences
+        degree: PhD
+        start_date: 2016-01
+        end_date: 2021-12
+        location: Buenos Aires, Argentina
+      
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physical Sciences
+        degree: Bachelor's Degree (Licenciatura)
+        start_date: 2011-01
+        end_date: 2016-12
+        location: Buenos Aires, Argentina
+      
+      - institution: Hospital Universitario Austral, Facultad de Ciencias Biomédicas
+        area: Medicine
+        degree: Core Medical Curriculum
+        start_date: 2008-01
+        end_date: 2010-12
+        location: Buenos Aires, Argentina
+
+design:
+  theme: moderncv
+  color: blue
+  disable_external_link_icons: false
+  page_size: a4paper
+  show_last_updated_date: false
