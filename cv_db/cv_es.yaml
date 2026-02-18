@@ -263,6 +263,13 @@ Experiencia:
       proyecto de desarrollo tecnológico.
     - El proyecto consistía en utilizar una Raspberry Pi para tomar imágenes y advertir
       a un conductor de un vehículo.
+  - name: Supervisión de estudiantes de Laboratorio 6
+    date: 2025--2026
+    location: Facultad de Ciencias Exactas y Naturales, U.B.A.
+    description:
+    - Supervisión de estudiantes de física en pasantía de grado para Laboratorio 6 y 7
+    - 'Proyecto: Estudio de cómo las capacidades del microscopio afectan la estimación
+      de parámetros FRAP'
   - name: Supervisión de Estudiante de Master
     date: '2024'
     location: Departamento de Biología Celular y Molecular, Karolinska Institutet

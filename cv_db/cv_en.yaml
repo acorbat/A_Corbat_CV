@@ -287,6 +287,13 @@ Experience:
     - As a high school capstone project, students developed a technology project.
     - The project involved using a Raspberry Pi to capture images and alert a vehicle
       driver.
+  - name: Laboratorio 6 Student Supervision
+    date: 2025--2026
+    location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
+    description:
+    - Supervision of undergraduate physics students in an internship for Laboratory
+      6 and 7
+    - 'Project: Study of how microscope capabilities affects FRAP parameter estimation'
   - name: MSc Student Supervision
     date: '2024'
     location: Cell and Molecular Biology Department, Karolinska Institutet
