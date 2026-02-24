@@ -12,14 +12,14 @@ cv:
 
   sections:
     Summary:
-      - "**Senior data & bioimage analyst** (PhD in Physics; core training in Medicine) specialized in **quantitative microscopy** and **AI-driven computer vision** for biomedical imaging. I deliver reproducible, production-minded analysis workflows across **microscopy, MRI, CT, digital pathology, and digital petrography**, translating domain questions into robust software that teams can maintain and reuse. Strong focus on **software architecture**, **SOLID principles**, and **Git-based collaboration** (clear handover, documentation, and iterative improvement). Actively exploring **Agentic AI** approaches for **context engineering** and tool orchestration, including integrations aligned with the **Model Context Protocol (MCP)**."
+      - "**Senior data & bioimage analyst** (PhD in Physics; core training in Medicine) specialized in **quantitative microscopy** and **AI-driven computer vision** for biomedical imaging. I deliver reproducible, production-minded analysis workflows across **microscopy, MRI, CT, digital pathology, and digital petrography**, translating domain questions into robust software and **image-derived datasets** for **statistical analysis, visualization and actionability**. Strong focus on **software architecture**, **SOLID principles**, and **Git-based collaboration** (clear handover, documentation, and iterative improvement). Actively exploring **Agentic AI** approaches for **context engineering** and tool orchestration, including integrations aligned with the **Model Context Protocol (MCP)**."
 
     Technical Skills:
       - label: Agentic AI & Context Engineering
         details: "Agentic workflow design patterns; context engineering for complex analysis tasks; MCP-oriented tool integration patterns; prompt/tool orchestration for reproducible analysis assistants"
 
       - label: Programming, Software Architecture & Collaboration
-        details: "Advanced Python (NumPy, pandas, scikit-image, scikit-learn); software architecture; SOLID principles; reproducible pipelines; Git/GitHub (version control, code review, collaborative workflows); teamwork in software development; technical documentation (LaTeX)"
+        details: "Advanced Python (NumPy, pandas, scikit-image, scikit-learn, matplotlib, seaborn); data wrangling/EDA; statistical analysis + visualization; software architecture; SOLID principles; reproducible pipelines; Git/GitHub (version control, code review, collaborative workflows); technical documentation (LaTeX)"
 
       - label: Computer Vision & Deep Learning
         details: "Image preprocessing and enhancement; classical and deep learning segmentation (Cellpose, StarDist, U-Net, Segment Anything Model (SAM)); feature extraction, morphometrics, and spatial analysis; object detection/tracking; ML/DL with PyTorch; foundations: CNNs, RNNs, Transformers, GenAI"
@@ -28,7 +28,7 @@ cv:
         details: "Widefield/confocal fluorescence microscopy; light sheet; super-resolution; time-lapse and multiplex imaging; MRI/CT analysis; digital pathology / whole-slide imaging; 2D/3D quantitative workflows"
 
       - label: Domain Tools
-        details: "Napari; ImageJ/Fiji; QuPath; MATLAB"
+        details: "Jupyter; Napari; ImageJ/Fiji; QuPath; MATLAB"
 
       - label: Languages
         details: "Spanish (native); English (advanced – First Certificate, IGCSE); French (intermediate – DELF A1)"
