@@ -201,6 +201,14 @@ Experiencia:
     description:
     - 'supervisor: Dr. Jorge B. Aquino'
   Docencia y Formación:
+  - name: KhipuX Quito 2026
+    date: '2026'
+    location: Quito, Ecuador
+    description:
+    - 'Mesa redonda: "Building regional capacity in AI for bio and medical imaging" con Andrea Lara, David Antonio Brito Imbaquingo y Hernan Andres Morales-Navarrete'
+    - 'Círculo de mentoría: Orienté a estudiantes jóvenes sobre desarrollo profesional en IA y análisis de bioimágenes'
+    - 'Instructor del workshop: "Introduction to Bioimage Analysis"; [Diapositivas](https://doi.org/10.5281/zenodo.18717815) y [Material](https://doi.org/10.5281/zenodo.18772893) disponibles en Zenodo'
+    - 'Evento temático: "Democratizing AI in Bioimage and Medical Imaging"'
   - name: Co-organizador
     date: '2025'
     location: Light Sheet Image Analysis Workshop, Universidad Mayor, Santiago de

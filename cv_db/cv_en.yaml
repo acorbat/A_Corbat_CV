@@ -224,6 +224,14 @@ Experience:
     - ST4407
     - Image analysis and machine learning applied to gigapixel petrography samples.
   Teaching and Mentoring Experience:
+  - name: KhipuX Quito 2026
+    date: '2026'
+    location: Quito, Ecuador
+    description:
+    - 'Panel discussion: "Building regional capacity in AI for bio and medical imaging" with Andrea Lara, David Antonio Brito Imbaquingo, and Hernan Andres Morales-Navarrete'
+    - 'Mentorship circle: Guided young students on career development in AI and bioimage analysis'
+    - 'Workshop instructor: "Introduction to Bioimage Analysis"; [Slides](https://doi.org/10.5281/zenodo.18717815) and [Materials](https://doi.org/10.5281/zenodo.18772893) available on Zenodo'
+    - 'Event theme: "Democratizing AI in Bioimage and Medical Imaging"'
   - name: Co-Organizer
     date: '2025'
     location: Light Sheet Image Analysis Workshop, Universidad Mayor, Santiago de
