@@ -1,0 +1,146 @@
+cv:
+  name: Agustin A. Corbat
+  location: Buenos Aires, Argentina
+  email: acorbat.bia@gmail.com
+  phone:
+  website: https://acorbat.github.io
+  social_networks:
+    - network: LinkedIn
+      username: agustin-andres-corbat
+    - network: GitHub
+      username: acorbat
+
+  sections:
+    Summary:
+      - "**Senior Data Scientist, Senior Image Analyst and AI Engineer** with a PhD in Physics and core training in Medicine, with a long-standing **passion for biomedical research** and a track record of leading end-to-end client projects from stakeholder meetings and requirement definition to technical implementation, validation, and delivery of actionable results; strong profile in **statistical analysis, machine learning, and computer vision** across microscopy, MRI, CT, digital pathology, and digital petrography; advanced programming expertise with **software architecture**, **SOLID principles**, and collaborative **Git/GitHub workflows**; substantial experience in **teaching, mentoring, and supervising students and technical projects**; and delving into hands-on implementation of **Agentic AI** solutions, including agent skill development, tool orchestration, and **Model Context Protocol (MCP)**-oriented integrations to build production-ready, robust, and user-friendly pipelines suitable for downstream publication and reuse."
+
+    Technical Skills:
+      - label: Data Science & Statistics
+        details: "EDA; hypothesis testing; statistical modeling; feature engineering; model evaluation/validation; uncertainty-aware analysis; data visualization and reporting for decision support"
+
+      - label: Programming, Architecture & Collaboration
+        details: "Advanced Python (NumPy, pandas, scikit-learn, scikit-image, matplotlib, seaborn); reproducible pipeline design; software architecture; programming formalisms; SOLID principles; Agile development; test-driven development; Git/GitHub collaboration; code review; technical documentation"
+
+      - label: Machine Learning & Computer Vision
+        details: "Machine learning and deep learning with PyTorch; segmentation/classification workflows; SAM (Vision Transformer), U-Net, Cellpose, StarDist; object-level quantification, morphometrics, and spatial analysis"
+
+      - label: Biomedical & Clinical Imaging Data
+        details: "Quantitative image and data analysis workflows for microscopy, MRI, CT, and digital pathology; 2D/3D processing; large-image handling (whole-slide and OME-Zarr)"
+
+      - label: Agentic AI & MCP
+        details: "Design and implementation of agent skills and assistant workflows; context engineering; tool orchestration for analysis automation; MCP concepts and integration patterns"
+
+      - label: Tools & Languages
+        details: "Jupyter, Napari, Fiji, QuPath, MATLAB; Spanish (native), English (fluent), French (beginner)"
+
+    Professional Experience:
+      - company: Centro de Microscopias Avanzadas, Universidad de Buenos Aires
+        position: Bioimage Analyst
+        start_date: 2024-09
+        end_date: present
+        location: Buenos Aires, Argentina
+        highlights:
+          - "Lead complete project lifecycles with researchers and technical stakeholders: scoping meetings, requirements alignment, workflow implementation, validation, and final delivery"
+          - "Develop robust data and image analysis pipelines with strong emphasis on usability, reproducibility, and maintainable architecture (**pandas**, **Napari**, **Fiji**, **QuPath**)"
+          - Translate biological and clinical questions into quantitative metrics, statistical analyses, and clear visual outputs for decision making (**scikit-image**, **scikit-learn**)
+          - Mentor students and lead training on deep learning, neural networks, and quantitative image
+
+      - company: BioImage Informatics Facility (BIIF), SciLifeLab and National Bioinformatics Infrastructure Sweden (NBIS)
+        position: Bioimage Analyst
+        start_date: 2024-04
+        end_date: 2025-05
+        location: Uppsala, Sweden
+        highlights:
+          - Delivered client-facing consulting for multiple biomedical projects, owning communication, technical strategy, and execution
+          - "Built reusable Python pipelines and supported handover for long-term use by research teams and facilities (**Git**, **pandas**, **scikit-image**, **scikit-learn**, **QuPath**, **Fiji**, **Napari**)"
+          - "Applied machine learning/deep learning to segmentation, classification, and quantitative phenotyping on heterogeneous imaging datasets (**PyTorch**)"
+          - Instructed workshops and training on deep learning, neural networks, and image analysis
+
+      - company: Karolinska Institutet, Sweden
+        position: Postdoctoral Researcher in Developmental Biology
+        start_date: 2022-04
+        end_date: 2024-04
+        location: Stockholm, Sweden
+        highlights:
+          - "Performed quantitative analysis of confocal and whole-slide imaging data to support biological discovery (**Napari**, **scikit-image**, **pandas**, **scikit-learn**)"
+          - "Performed bioinformatics analyses of RNA-seq datasets and interpreted genetically encoded barcodes for lineage tracing studies (**samtools**, **Python data science stack**)"
+          - Developed validated analysis workflows and statistical readouts for lineage tracing and cell fate studies
+          - "Funding distinctions: Marie Sklodowska-Curie Actions Seal of Excellence; Vetenskapsradet"
+
+    Selected Data Science Projects:
+      - name: Spatial profiling of host-pathogen response in kidney infection (whole-slide multiplex imaging)
+        start_date: 2025-01
+        end_date: 2025-03
+        location: BIIF, SciLifeLab
+        highlights:
+          - Built end-to-end analytics workflow using OME-Zarr, registration (elastix), and spatial statistics for reproducible quantitative outputs (**scikit-image**, **SpatialData**, **Napari**)
+          - "Project and code: https://biifsweden.github.io/projects/2025/02/25/PerLjungdahl2025-1/"
+
+      - name: MRI-based segmentation of cavernous malformations in mouse brain
+        start_date: 2024-09
+        end_date: 2024-12
+        location: BIIF, SciLifeLab
+        highlights:
+          - Implemented preprocessing, registration, and ML/DL segmentation with evaluation-focused validation design (**scikit-learn**, **Napari**)
+          - "Project: https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/"
+
+      - name: AI4Life Open Call 2 (Projects 11 and 38)
+        start_date: 2024-04
+        end_date: 2024-12
+        location: European collaborative projects
+        highlights:
+          - Developed production-oriented computer vision pipelines using SAM and Cellpose across seabed imagery and light-sheet microscopy (**scikit-image**, **Visual Transformers (SAM)**)
+          - "Repositories: https://github.com/ai4life-opencalls/oc_2_project_11 and https://github.com/ai4life-opencalls/oc_2_project_38"
+
+      - name: "Industry consulting: Bohus Biotech and Navinci Diagnostics"
+        start_date: 2025-01
+        end_date: 2025-01
+        location: Uppsala, Sweden
+        highlights:
+          - Defined quantitative quality metrics and analysis algorithms for product evaluation and protein interaction assays
+          - Delivered concise technical reports and implementation guidance to client teams
+
+    Teaching & Student Supervision:
+      - label: KhipuX Quito 2026
+        details: "Panelist, workshop instructor, and mentor at the event on democratizing AI in bioimage and medical imaging; contributed to regional capacity building in AI for bio and medical imaging and guided students on career development"
+
+      - label: Light Sheet Image Analysis Workshop (Co-Organizer)
+        details: "Universidad Mayor, Santiago de Chile (2025) - Co-designed the schedule and learning outcomes, and delivered 3 theoretical lectures and 2 hands-on workshops"
+
+      - label: AI Tools in Biology (Invited Lecturer)
+        details: "Swedish University of Agricultural Sciences (2025) - Seminar and workshop on artificial intelligence for bioimage analysis"
+
+      - label: Neural Networks and Deep Learning (Teaching Assistant)
+        details: "NBIS, Uppsala University (2024) - Theoretical and practical course support on neural network design and deep learning"
+
+      - label: Student supervision and mentoring
+        details: "Supervision of undergraduate internship students and MSc/BSc/high-school-level projects in image analysis, computer vision, and quantitative research workflows (2023-present)"
+
+    Education:
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physics
+        degree: PhD
+        start_date: 2016-04
+        end_date: 2021-10
+        location: Buenos Aires, Argentina
+
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physics
+        degree: Licenciatura (MSc equivalent)
+        start_date: 2011-01
+        end_date: 2016-12
+        location: Buenos Aires, Argentina
+
+      - institution: Hospital Universitario Austral, Facultad de Ciencias Biomedicas
+        area: Medicine
+        degree: Core Curriculum
+        start_date: 2008-01
+        end_date: 2010-12
+        location: Buenos Aires, Argentina
+
+design:
+  theme: moderncv
+  color: green
+  disable_external_link_icons: false
+  page_size: a4paper
+  show_last_updated_date: false
