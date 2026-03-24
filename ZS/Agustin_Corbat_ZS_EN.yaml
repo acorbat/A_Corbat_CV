@@ -1,0 +1,132 @@
+cv:
+  name: Agustin A. Corbat
+  location: Buenos Aires, Argentina
+  email: acorbat.bia@gmail.com
+  phone:
+  website: https://acorbat.github.io
+  social_networks:
+    - network: LinkedIn
+      username: agustin-andres-corbat
+    - network: GitHub
+      username: acorbat
+
+  sections:
+    Summary:
+      - "**Advanced Data Scientist with a PhD in Physics and foundational training in Medicine**, with a background spanning data science and quantitative image analysis, combining rigorous statistical expertise with hands-on machine learning and client-facing consulting experience in healthcare and life sciences. Proven ability to develop statistically sound, high-dimensionality algorithms and predictive models that translate complex biomedical data into actionable insights. Track record of delivering scalable analytical solutions for academic institutions and biotechnology companies, leading projects end-to-end from stakeholder scoping through implementation and validation. Experienced in mentoring junior team members and communicating technical results to multidisciplinary audiences."
+
+    Technical Skills:
+      - label: Statistics & Predictive Modeling
+        details: "Hypothesis testing; regression and classification modeling; predictive modeling; EDA; feature engineering and selection; model evaluation and validation; uncertainty quantification; time series analysis; data visualization for decision support"
+
+      - label: Machine Learning & AI Algorithms
+        details: "Supervised/unsupervised learning (scikit-learn); deep learning with PyTorch; segmentation and classification pipelines (U-Net, SAM, Cellpose, StarDist); dimensionality reduction; spatial and morphometric analysis; data mining and pattern recognition; agentic AI coding workflows"
+
+      - label: Programming & Data Engineering
+        details: "Advanced Python (NumPy, pandas, scikit-image, scikit-learn, matplotlib, seaborn); software architecture; SOLID principles; code review; reproducible pipeline design with Git/GitHub; Programming Formalisms; SQL (fundamentals); cloud environments (AWS and Azure fundamentals); Agile development practices; Jupyter; Napari; MATLAB; AI agent skills; tool orchestration; Model Context Protocol (MCP) concepts and integrations"
+
+      - label: Domain Knowledge
+        details: "Healthcare and life sciences (imaging biomarkers, histopathology, MRI, clinical and preclinical data); medical consulting background; Spanish (native), English (fluent — First Certificate, IGCSE)"
+
+    Professional Experience:
+      - company: Centro de Microscopias Avanzadas, Universidad de Buenos Aires
+        position: Senior Bioimage Analyst
+        start_date: 2024-09
+        end_date: present
+        location: Buenos Aires, Argentina
+        highlights:
+          - "Design and deploy custom algorithms and analytical workflows to solve high-dimensionality problems from complex biomedical datasets for academic and clinical stakeholders"
+          - "Lead complete project lifecycles: requirement scoping, quantitative solution design, statistical validation, and delivery of reproducible, maintainable pipelines"
+          - "Mentor undergraduate and graduate students; deliver training workshops on machine learning, deep learning, and quantitative analysis for diverse scientific audiences"
+
+      - company: BioImage Informatics Facility (BIIF), SciLifeLab / Uppsala University
+        position: Bioimage Analyst & Data Science Consultant
+        start_date: 2024-04
+        end_date: 2025-05
+        location: Uppsala, Sweden
+        highlights:
+          - "Delivered client-facing data science consulting across 8+ independent biomedical projects, owning stakeholder communication, technical strategy, and solution delivery from start to finish"
+          - "Developed reusable, well-documented machine learning and deep learning pipelines (Python, PyTorch, scikit-learn) for segmentation, classification, and spatial analysis of heterogeneous healthcare imaging datasets; supported handover for long-term team use"
+          - "Applied statistical data mining and pattern recognition to extract clinically relevant quantitative metrics from large-scale fluorescence microscopy and MRI datasets"
+          - "Consulted directly with biotechnology/diagnostics companies (Bohus Biotech, Navinci) to define quantitative algorithms, quality metrics, and scalable analysis frameworks"
+
+      - company: Karolinska Institutet, Department of Cell and Molecular Biology
+        position: Postdoctoral Researcher
+        start_date: 2022-04
+        end_date: 2024-04
+        location: Stockholm, Sweden
+        highlights:
+          - "Developed statistical and computational pipelines for quantitative analysis of imaging and genomics (RNA-seq) datasets; integrated multivariate readouts for hypothesis-driven biological discovery"
+          - "Contributed to thought leadership via peer-reviewed publications in high-impact journals (Science, Development, Journal of Cell Science)"
+          - "Funding distinctions: Marie Sklodowska-Curie Actions Seal of Excellence; Vetenskapsradet (Swedish Research Council)"
+
+    Selected Projects:
+      - name: Spatial profiling of renal host-pathogen response in kidney infection
+        start_date: 2024-12
+        end_date: 2025-03
+        location: BIIF, SciLifeLab
+        highlights:
+          - "Built an end-to-end analytics workflow for spatial statistical analysis of multiplex immunofluorescence whole-slide images; delivered reproducible Python codebase with quantitative immune-response metrics to client research team"
+
+      - name: AI-based segmentation of cavernous malformations in mouse brain MRI
+        start_date: 2024-09
+        end_date: 2025-03
+        location: BIIF, SciLifeLab
+        highlights:
+          - "Implemented ML/DL segmentation pipeline for detection of pathological structures in 3D MRI data; designed rigorous evaluation protocol with quantitative performance benchmarks"
+
+      - name: AI4Life Open Call 2 — AI computer vision pipelines (Projects 11 & 38)
+        start_date: 2024-04
+        end_date: 2024-12
+        location: European collaborative open call
+        highlights:
+          - "Delivered production-ready CV pipelines on short-timeline open calls: SAM (Segment Anything Model) for species segmentation in seabed imagery and Cellpose for light-sheet microscopy cell segmentation; outputs published as open repositories"
+
+      - name: "Industry consulting — Quality control and interaction assay algorithms"
+        start_date: 2025-01
+        end_date: 2025-01
+        location: Bohus Biotech & Navinci Diagnostics, Uppsala, Sweden
+        highlights:
+          - "Provided expert consultation to two biotechnology clients on quantitative evaluation strategies, algorithm improvement, and practical implementation pathways; produced technical recommendations and implementation guidance for product development teams"
+
+      - name: Digital Petrography — High-Level Technological Service for the oil industry
+        start_date: 2019-01
+        end_date: 2020-01
+        location: Y-TEC (YPF Tecnología) / Universidad de Buenos Aires
+        highlights:
+          - "Applied machine learning to classification and quantification of geological structures in gigapixel microscopy images; delivered algorithms as a contracted high-level technical service for industry"
+
+    Mentoring & Leadership:
+      - label: Student Supervision (2023–present)
+        details: "Supervised MSc, Bachelor, and high-school capstone students in quantitative analysis and machine learning projects at Karolinska Institutet, SciLifeLab, and UBA"
+
+      - label: Workshop Instructor & Invited Lecturer (2024–2026)
+        details: "Delivered lectures and practical workshops on AI, neural networks, and quantitative data analysis at SLU (Sweden), NBIS/Uppsala University, Karolinska Institutet, and Universidad Mayor (Chile), where I also served as co-organizer of the course; instructor at KhipuX Quito 2026 on democratizing AI in biomedical imaging"
+
+    Education:
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physics (biophysics, mathematical modeling, signal analysis, statistics)
+        degree: PhD
+        start_date: 2016-04
+        end_date: 2021-10
+        location: Buenos Aires, Argentina
+
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales  — GPA 9.32/10
+        area: Physics
+        degree: Licenciatura (MSc equivalent)
+        start_date: 2011-01
+        end_date: 2016-12
+        location: Buenos Aires, Argentina
+
+      - institution: Hospital Universitario Austral, Facultad de Ciencias Biomédicas (Merit Scholarship)
+        area: Medicine
+        degree: Core Curriculum
+        start_date: 2008-01
+        end_date: 2010-12
+        location: Buenos Aires, Argentina
+
+design:
+  theme: moderncv
+  color: blue
+  disable_external_link_icons: false
+  page_size: a4paper
+  show_last_updated_date: false
