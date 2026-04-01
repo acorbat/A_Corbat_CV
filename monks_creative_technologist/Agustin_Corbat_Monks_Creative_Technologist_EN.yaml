@@ -1,0 +1,128 @@
+cv:
+  name: Agustin A. Corbat
+  location: Buenos Aires, Argentina
+  email: acorbat.bia@gmail.com
+  website: https://acorbat.github.io
+  social_networks:
+    - network: LinkedIn
+      username: agustin-andres-corbat
+    - network: GitHub
+      username: acorbat
+
+  sections:
+    Summary:
+      - "Creative Technologist and Senior Data/Bioimage Analyst (PhD in Physics, core training in Medicine) with strong creative thinking, technical depth, and physicist-style problem solving for complex real-world challenges. I design production-minded pipelines across microscopy, MRI, CT, digital pathology, and large-scale image datasets using Python, computer vision, and deep learning, with emphasis on software architecture, SOLID principles, collaborative Git workflows, and Agentic AI approaches. As a bioimage analyst, I work at the intersection of computer science, physics, and biology, and collaborate closely with experts from biology, geology, and medicine while leading projects end-to-end, including direct client communication. I also regularly present my own work and facility-driven work at conferences and technical meetings. As a physicist trained in Argentina, I frequently tinker with equipment and build custom prototypes/adaptations to improve experimental systems; a concrete example is the open-source fast filter wheel prototype developed for optics workflows, which earned 2nd prize at the national INNOVAR competition."
+
+    Core Skills:
+      - label: Creative Technology and Prototyping
+        details: "Rapid prototyping for imaging workflows, instrumentation adaptation, experimental setup optimization, technical translation between scientific and engineering teams"
+      - label: Agentic AI Prototyping
+        details: "Use Agentic AI to develop fast prototypes, orchestrate tools, and iterate quickly from concept to usable technical solutions"
+      - label: LLM and Prompt Engineering
+        details: "Hands-on experience with LLM-assisted workflows, prompt engineering, evaluation and iterative refinement for reliable outcomes"
+      - label: Python and Data
+        details: "Python (NumPy, pandas, scikit-image, scikit-learn, matplotlib, seaborn), reproducible analysis pipelines, data wrangling, statistics, visualization, software architecture, SOLID principles"
+      - label: Computer Vision and AI
+        details: "Classical image processing, segmentation and quantification, PyTorch, deep learning foundations (CNNs, Transformers), SAM (Segment Anything Model, Vision Transformer), Cellpose, Agentic AI workflow design, context engineering"
+      - label: Imaging and Tools
+        details: "Microscopy (confocal, light sheet, multiplex), MRI/CT analysis, digital pathology, QuPath, Fiji/ImageJ, Napari, Jupyter, Git/GitHub (branching, review, collaborative delivery)"
+
+    Professional Experience:
+      - company: Centro de Microscopias Avanzadas, Universidad de Buenos Aires
+        position: Bioimage Analyst
+        start_date: 2024-09
+        end_date: present
+        location: Buenos Aires, Argentina
+        highlights:
+          - Design and implement end-to-end image analysis workflows for diverse microscopy datasets
+          - Lead interdisciplinary projects with experts in biology, geology, and medicine, including direct client-facing communication from scoping to delivery
+          - Improve maintainability through modular software design, clear interfaces, and documented handover
+
+      - company: BioImage Informatics Facility (BIIF), SciLifeLab and NBIS
+        position: Bioimage Analyst
+        start_date: 2024-04
+        end_date: 2025-05
+        location: Uppsala, Sweden
+        highlights:
+          - Delivered reusable computational solutions for multidisciplinary biomedical imaging projects
+          - Built automation for preprocessing, segmentation, feature extraction, and quality control in Python
+          - Integrated practical tooling (QuPath/Fiji/Python) and collaborative Git workflows for sustainable delivery
+          - Presented own project outcomes and facility work at conferences, workshops, and technical meetings
+
+      - company: Karolinska Institutet
+        position: Postdoctoral Researcher in Developmental Biology
+        start_date: 2022-04
+        end_date: 2024-04
+        location: Stockholm, Sweden
+        highlights:
+          - Developed quantitative analysis strategies linking imaging-derived measurements to biological decisions
+          - Supported lineage-tracing and cell-fate studies with reproducible, validated image analysis pipelines
+          - Funding distinctions include Marie Sklodowska-Curie Actions Seal of Excellence and Vetenskapsradet support
+
+    Selected Projects:
+      - name: Open Source Fast Filter Wheel (Optics Prototyping)
+        start_date: 2015-01
+        end_date: 2015-12
+        location: University of Buenos Aires, Argentina
+        highlights:
+          - Designed and developed a low-cost open-source fast filter wheel to improve optical experiment workflows
+          - Won 2nd prize at the national INNOVAR innovation competition, presented at Giambiagi Winter School and 100th Argentine Physics Association National Reunion
+
+      - name: Miniaturized Fluorescence Microscope Prototype (PICT-2017-1160)
+        start_date: 2017-01
+        end_date: 2021-12
+        location: University of Buenos Aires, Argentina
+        highlights:
+          - Contributed to design and construction of a miniaturized, low-cost fluorescence microscope prototype
+          - Adapted hardware and analysis approaches for practical use in medicine and neuroscience applications
+
+      - name: Spatial Profiling of Renal Host-Pathogen Interplay
+        start_date: 2025-01
+        end_date: 2025-03
+        location: BIIF, SciLifeLab, Sweden
+        highlights:
+          - Developed scalable multiplex imaging workflows using OME-Zarr, registration, and spatial statistics
+          - "[Project description](https://biifsweden.github.io/projects/2025/02/25/PerLjungdahl2025-1/) | [Code](https://github.com/BIIFSweden/PerLjungdahl2025-1)"
+
+      - name: MRI Segmentation of Cavernous Malformations
+        start_date: 2024-09
+        end_date: 2024-12
+        location: BIIF, SciLifeLab, Sweden
+        highlights:
+          - Built MRI preprocessing and machine/deep learning segmentation workflows with quantitative validation
+          - "[Project description](https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/)"
+
+      - name: AI4Life Open Call 2 (Projects 11 and 38)
+        start_date: 2024-04
+        end_date: 2024-12
+        location: AI4Life Open Call 2
+        highlights:
+          - Applied SAM and Cellpose-based segmentation pipelines for heterogeneous real-world imaging datasets
+          - "[Project 11](https://github.com/ai4life-opencalls/oc_2_project_11) | [Project 38](https://github.com/ai4life-opencalls/oc_2_project_38)"
+
+    Education:
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physics
+        degree: PhD
+        start_date: 2016-04
+        end_date: 2021-10
+        location: Buenos Aires, Argentina
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physics
+        degree: Licenciatura (MSc equivalent)
+        start_date: 2011-01
+        end_date: 2016-12
+        location: Buenos Aires, Argentina
+      - institution: Hospital Universitario Austral, Facultad de Ciencias Biomedicas
+        area: Medicine
+        degree: Core curriculum completed
+        start_date: 2008-01
+        end_date: 2010-12
+        location: Buenos Aires, Argentina
+
+design:
+  theme: moderncv
+  color: green
+  disable_external_link_icons: false
+  page_size: a4paper
+  show_last_updated_date: false
