@@ -448,6 +448,15 @@ Production:
     - Published Paper
     - 'Volume: 19; Issue: June; Pages: 210-217; doi: https://doi.org/10.1016/j.redox.2018.07.023'
   Posters and Oral Presentations:
+  - title: Droplet microfluidics with image texture quantification for detection of rare
+      antibiotic-resistant subpopulations from bloodstream infections
+    date: '2026'
+    event: SMILS 2026 (Swedish network for Microfluidics In Life Sciences)
+    location: Uppsala, Sweden
+    authors: Agnihotri, Sagar; Fatsis Kavalopoulos, Nikos; Vikdahl, Emma; Windhager,
+      Jonas; **Corbat, Agustin A.**; Andersson, Dan I.; Tenje, Maria
+    description:
+    - Poster presentation by Sagar Agnihotri
   - title: The Core Institutional Memory
     date: '2024'
     event: Democratizing Microscopy in Latin America
