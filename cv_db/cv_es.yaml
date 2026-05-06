@@ -201,6 +201,14 @@ Experiencia:
     description:
     - 'supervisor: Dr. Jorge B. Aquino'
   Docencia y Formación:
+  - name: Organizador, Jornada de Análisis de Imágenes
+    date: '2026'
+    location: FCEN, UBA, Buenos Aires, Argentina
+    description:
+    - Organización de una jornada completa dedicada al análisis de bioimágenes
+    - Charla plenaria
+    - 2 sesiones sobre proyectos y consultas de proyectos
+    - Workshop: "Del pixel a la cuantificación"
   - name: KhipuX Quito 2026
     date: '2026'
     location: Quito, Ecuador
@@ -362,6 +370,15 @@ Experiencia:
     - ST4407, Colaboración con Y-Tec, Petrografía Digital
 Producción:
   Publicaciones:
+  - title: 'GloBIAS: strengthening the foundations of bioimage analysis'
+    date: '2026'
+    journal: Nature Methods
+    authors: '**Agustin A. Corbat**, Christa G. Walther, Laura R. de la Ballina, Nicholas
+      D. Condon, Alessandro A. Felder, Martin Schätz, Bettina Schmerl, Ko Sugawara,
+      Clara Prats, Anna Klemm, Kota Miura, Paula Sampaio, Christian Tischer, Florian
+      Levet, Rocco D''Antuono, Beth A. Cimini, Robert Haase'
+    description:
+    - 'doi: https://doi.org/10.1038/s41592-026-03060-7'
   - title: 'GloBIAS: strengthening the foundations of BioImage Analysis'
     date: '2025'
     journal: ArXiv
@@ -449,6 +466,13 @@ Producción:
       Jonas; **Corbat, Agustin A.**; Andersson, Dan I.; Tenje, Maria
     description:
     - Presentación de póster por Sagar Agnihotri
+  - title: Jornada de Análisis de Imágenes
+    date: '2026'
+    authors: '**Corbat, Agustin**'
+    description:
+    - Charla plenaria
+    - 2 sesiones sobre proyectos y consultas de proyectos
+    - 'Workshop: "Del pixel a la cuantificación"'
   - title: 'GloBIAS: strengthening the foundations of Bioimage Analysis'
     date: '2025'
     event: LABI Meeting 2025

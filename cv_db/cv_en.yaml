@@ -224,6 +224,14 @@ Experience:
     - ST4407
     - Image analysis and machine learning applied to gigapixel petrography samples.
   Teaching and Mentoring Experience:
+  - name: Organizer, Jornada de Análisis de Imágenes
+    date: '2026'
+    location: FCEN, UBA, Buenos Aires, Argentina
+    description:
+    - Organized a full-day event dedicated to bioimage analysis
+    - Plenary talk
+    - 2 sessions on projects and project questions
+    - 'Workshop: "From pixel to quantification"'
   - name: KhipuX Quito 2026
     date: '2026'
     location: Quito, Ecuador
@@ -371,6 +379,15 @@ Experience:
     - 10 weekly hours
 Production:
   Publications:
+  - title: 'GloBIAS: strengthening the foundations of bioimage analysis'
+    date: '2026'
+    journal: Nature Methods
+    authors: '**Agustin A. Corbat**, Christa G. Walther, Laura R. de la Ballina, Nicholas
+      D. Condon, Alessandro A. Felder, Martin Schätz, Bettina Schmerl, Ko Sugawara,
+      Clara Prats, Anna Klemm, Kota Miura, Paula Sampaio, Christian Tischer, Florian
+      Levet, Rocco D''Antuono, Beth A. Cimini, Robert Haase'
+    description:
+    - 'doi: https://doi.org/10.1038/s41592-026-03060-7'
   - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
     date: '2025'
     journal: Science
@@ -457,6 +474,13 @@ Production:
       Jonas; **Corbat, Agustin A.**; Andersson, Dan I.; Tenje, Maria
     description:
     - Poster presentation by Sagar Agnihotri
+  - title: Jornada de Análisis de Imágenes
+    date: '2026'
+    authors: '**Corbat, Agustin**'
+    description:
+    - Plenary talk
+    - 2 sessions on projects and project questions
+    - 'Workshop: "From pixel to quantification"'
   - title: The Core Institutional Memory
     date: '2024'
     event: Democratizing Microscopy in Latin America
