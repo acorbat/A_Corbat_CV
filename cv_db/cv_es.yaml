@@ -208,7 +208,12 @@ Experiencia:
     - Organización de una jornada completa dedicada al análisis de bioimágenes
     - Charla plenaria
     - 2 sesiones sobre proyectos y consultas de proyectos
-    - Workshop: "Del pixel a la cuantificación"
+    - 'Workshop: "Del pixel a la cuantificación"'
+  - name: Jefe de Trabajos Prácticos (dedicación exclusiva)
+    date: 2026--actual
+    location: FCEN, UBA, Buenos Aires, Argentina
+    description:
+    - Laboratorio 3
   - name: KhipuX Quito 2026
     date: '2026'
     location: Quito, Ecuador
