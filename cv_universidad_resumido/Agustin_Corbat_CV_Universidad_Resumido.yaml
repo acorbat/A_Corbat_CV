@@ -1,0 +1,259 @@
+cv:
+  name: Agustín A. Corbat
+  location: Buenos Aires, Argentina
+  email: acorbat@df.ub.ar
+  phone:
+  website: https://acorbat.github.io
+  social_networks:
+    - network: LinkedIn
+      username: agustin-andres-corbat
+    - network: GitHub
+      username: acorbat
+
+  sections:
+    Resumen:
+      - "He desarrollado un perfil multidisciplinario en física, biología y análisis cuantitativo, con base inicial en medicina y especialización en biofísica y estadística. Durante mi doctorado y en etapas posteriores, me enfoqué en microscopía, integrando trabajo experimental y modelado matemático para responder preguntas de investigación. En paralelo, sostengo una fuerte actividad docente en estadística, física, microscopía y análisis de imágenes. Actualmente me desempeño como analista de imágenes, brindando soporte en el desarrollo de secuencias de análisis y en la formación de usuarios. Además, contribuyo al desarrollo institucional global de la disciplina como miembro del Comité de Consejeros Científicos de GloBIAS (Global Bioimage Analysts Society). Más información y proyectos en mi [página web](https://acorbat.github.io)."
+
+    Roles en Investigación y Análisis de Bioimágenes:
+      - company: Instituto de Física de Buenos Aires, Universidad de Buenos Aires
+        position: Postdoctorado y Jefe de Trabajos Prácticos, Dedicación Exclusiva
+        date: 2025--actual
+        location: Buenos Aires, Argentina
+        highlights:
+          - Investigación y docencia en física de sistemas biológicos, con foco en análisis cuantitativo de imágenes de microscopía
+
+      - company: BioImage Informatics Facility (BIIF), SciLifeLab y National Bioinformatics Infrastructure Sweden (NBIS)
+        position: Analista de bioimágenes
+        date: 2024--2025
+        location: Uppsala, Suecia
+        highlights:
+          - Consultoría técnica para proyectos biomédicos con flujos de análisis reproducibles
+          - Implementación de pipelines con métodos clásicos y aprendizaje automático
+
+      - company: Karolinska Institutet, Department of Cell and Molecular Biology
+        position: Postdoctorado en biología del desarrollo
+        date: 2022--2024
+        location: Estocolmo, Suecia
+        highlights:
+          - Investigación en destino celular combinando microscopías avanzadas y modelado cuantitativo
+          - Distinción Marie Sklodowska-Curie Seal of Excellence y financiamiento Vetenskapsrådet
+
+    Docencia y Formación Dictada (fines de 2024 - actual):
+      - label: Jefe de Trabajos Prácticos (dedicación exclusiva)
+        details: "FCEN, UBA (2026-actual). Laboratorio 3."
+      - label: Organizador, Jornada de Análisis de Imágenes
+        details: "FCEN, UBA (2026). Organización integral, charla plenaria y taller."
+      - label: KhipuX Quito 2026
+        details: "Instructor de taller, panelista y mentor en IA para bioimagen e imagen médica (2026)."
+      - label: Supervisión de estudiantes de Laboratorio 6
+        details: "FCEN, UBA (2025-2026). Tutoría de pasantías de grado en cuantificación de imágenes de microscopía."
+      - label: Co-organizador, Taller de Análisis de Imágenes de Lámina de Luz
+        details: "Universidad Mayor, Santiago de Chile (2025). Diseño curricular, 3 clases teóricas y 2 talleres."
+      - label: Profesor invitado, Fundamentos de Microscopía Óptica
+        details: "Fundación Instituto Leloir (2025). Imagen digital e introducción al análisis de bioimágenes."
+      - label: Profesor invitado, AI Tools in Biology
+        details: "Sveriges lantbruksuniversitet (2025). Seminario teórico-práctico."
+      - label: Profesor invitado y facilitador, Live Cell Imaging
+        details: "Karolinska Institutet (2025). Curso intensivo sobre microscopía y análisis de imágenes."
+      - label: Supervisión de estudiantes de nivel secundario
+        details: "Hitachigymnasium Västerås, Uppsala (2024-2025). Proyecto tecnológico con Raspberry Pi e imágenes."
+
+    Publicaciones:
+      - title: "GloBIAS: strengthening the foundations of bioimage analysis"
+        authors:
+          - "***Agustín A. Corbat***"
+          - Christa G. Walther
+          - Laura R. de la Ballina
+          - Nicholas D. Condon
+          - Alessandro A. Felder
+          - Martin Schatz
+          - Bettina Schmerl
+          - Ko Sugawara
+          - Clara Prats
+          - Anna Klemm
+          - Kota Miura
+          - Paula Sampaio
+          - Christian Tischer
+          - Florian Levet
+          - Rocco D'Antuono
+          - Beth A. Cimini
+          - Robert Haase
+        doi: 10.1038/s41592-026-03060-7
+        journal: Nature Methods
+        date: 2026-01
+
+      - title: "GloBIAS: strengthening the foundations of BioImage Analysis"
+        authors:
+          - "***Agustín A. Corbat***"
+          - Christa G. Walther
+          - Laura R. de la Ballina
+          - Nicholas D. Condon
+          - Alessandro A. Felder
+          - Martin Schatz
+          - Bettina Schmerl
+          - Ko Sugawara
+          - Clara Prats
+          - Anna Klemm
+          - Florian Levet
+          - Kota Miura
+          - Paula Sampaio
+          - Christian Tischer
+          - Rocco D'Antuono
+          - Beth A. Cimini
+          - Robert Haase
+        doi: 10.48550/arXiv.2507.06407
+        journal: ArXiv
+        date: 2025-01
+
+      - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
+        authors:
+          - Sandra de Haan
+          - Jingyan He
+          - "***Agustín A. Corbat***"
+          - Lenka Belicova
+          - Michael Ratz
+          - Elin Vinsland
+          - Sten Linnarsson
+          - Jonas Frisen
+          - Matthew W. Kelley
+          - Emma R. Andersson
+        doi: 10.1126/science.adq9248
+        journal: Science
+        date: 2025-01
+
+      - title: The non-canonical Smoothened-AMPK axis regulates Smaug1 biomolecular condensates
+        authors:
+          - María G. Thomas
+          - Ana J. Fernández-Alvarez
+          - Macarena Giménez
+          - Francisco C. Aristarain
+          - Lucas H. Cozza
+          - Jerónimo Pimentel
+          - João Pessoa
+          - Malena L. Pascual
+          - Lara Boscaglia
+          - Martín Habif
+          - "***Agustín Corbat***"
+          - Pablo E. La Spina
+          - Tomás Peters
+          - Diego M. Bustos
+          - Maria Carmo-Fonseca
+          - Hernán E. Grecco
+          - Graciela L. Boccaccio
+        doi: 10.1242/jcs.263433
+        journal: Journal of Cell Science
+        date: 2025-01
+
+      - title: Jag1 represses Notch activation in lateral supporting cells and inhibits an outer hair cell fate in the medial cochlea
+        authors:
+          - Sandra de Haan
+          - "***Agustín Corbat***"
+          - Christopher R. Cederroth
+          - Lisa G. Autrum
+          - Simona Hankeova
+          - Elizabeth C. Driver
+          - Barbara Canlon
+          - Matthew W. Kelley
+          - Emma R. Andersson
+        doi: 10.1242/dev.202949
+        journal: Development
+        date: 2024-01
+
+      - title: Molten Globule Driven and Self-downmodulated Phase Separation of a Viral Factory Scaffold
+        authors:
+          - Mariano Salgueiro
+          - Gabriela Camporeale
+          - Araceli Visentin
+          - Martín Aran
+          - Leonardo Pellizza
+          - Sebastián A. Esperante
+          - "***Agustín Corbat***"
+          - Hernán Grecco
+          - Belén Sousa
+          - Ramiro Esperón
+          - Silvia S. Borkosky
+          - Gonzalo de Prat-Gay
+        doi: 10.1016/j.jmb.2023.168153
+        journal: Journal of Molecular Biology
+        date: 2023-01
+
+      - title: Smaug1 membrane-less organelles respond to AMPK and mTOR and affect mitochondrial function
+        authors:
+          - Ana J. Fernández-Alvarez
+          - María Gabriela Thomas
+          - Malena L. Pascual
+          - Martín Habif
+          - Jerónimo Pimentel
+          - "***Agustín A. Corbat***"
+          - João P. Pessoa
+          - Pablo E. La Spina
+          - Lara Boscaglia
+          - Anne Plessis
+          - Maria Carmo-Fonseca
+          - Hernán E. Grecco
+          - Marta Casado
+          - Graciela L. Boccaccio
+        doi: 10.1242/jcs.253591
+        journal: Journal of Cell Science
+        date: 2021-01
+
+      - title: An Integrative Apoptotic Reaction Model for extrinsic and intrinsic stimuli
+        authors:
+          - "***Agustín A. Corbat***"
+          - Mauro Silberberg
+          - Hernán E. Grecco
+        doi: 10.1101/2021.05.21.444824
+        journal: BioRxiv
+        date: 2021-01
+
+      - title: "CASPAM: a triple modality biosensor for multiplexed imaging of caspase network activity"
+        authors:
+          - Martín Habif
+          - "***Agustín A. Corbat***"
+          - Mauro Silberberg
+          - Hernán E. Grecco
+        doi: 10.1101/2021.03.10.434623
+        journal: bioRxiv
+        date: 2021-01
+
+      - title: Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy
+        authors:
+          - "***Agustín A. Corbat***"
+          - Klaus C. Schuermann
+          - Piotr Liguzinski
+          - Yvonne Radon
+          - Philippe I.H. Bastiaens
+          - Peter J. Verveer
+          - Hernán E. Grecco
+        doi: 10.1016/j.redox.2018.07.023
+        journal: REDOX Biology
+        date: 2018-01
+
+    Formación Académica:
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Ciencias Físicas
+        degree: Doctorado
+        start_date: 2016-01
+        end_date: 2021-12
+        location: Buenos Aires, Argentina
+
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Ciencias Físicas
+        degree: Licenciatura
+        start_date: 2011-01
+        end_date: 2016-12
+        location: Buenos Aires, Argentina
+
+      - institution: Hospital Universitario Austral, Facultad de Ciencias Biomédicas
+        area: Medicina
+        degree: Ciclo troncal completo
+        start_date: 2008-01
+        end_date: 2010-12
+        location: Buenos Aires, Argentina
+
+design:
+  theme: moderncv
+  color: blue
+  disable_external_link_icons: false
+  page_size: a4paper
+  show_last_updated_date: false
