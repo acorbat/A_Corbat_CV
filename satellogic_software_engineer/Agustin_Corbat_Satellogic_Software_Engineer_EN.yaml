@@ -1,0 +1,156 @@
+cv:
+  name: Agustín A. Corbat
+  location: Buenos Aires, Argentina
+  email: acorbat.bia@gmail.com
+  phone:
+  website: https://acorbat.github.io
+  social_networks:
+    - network: LinkedIn
+      username: agustin-andres-corbat
+    - network: GitHub
+      username: acorbat
+
+  sections:
+    Summary:
+      - "**Senior Software Engineer** specializing in **image processing and data pipeline architecture**. PhD in Physics with proven expertise in designing and delivering **production-grade Python applications** for complex scientific computing workflows. Strong background in **software architecture**, **SOLID principles**, **CI/CD automation**, and **reproducible systems** (clear handover, documentation, and iterative improvement). Demonstrates leadership through hands-on development, technical mentorship, and collaborative engineering practices. Actively exploring **Agentic AI** approaches for **context engineering** and software tool orchestration, including integrations aligned with the **Model Context Protocol (MCP)**."
+
+    Technical Skills:
+      - label: Agentic AI & Context Engineering
+        details: "AI-assisted development workflows; context engineering for complex analysis tasks; MCP-oriented tool orchestration patterns"
+
+      - label: Python & Software Architecture
+        details: "Advanced Python (NumPy, pandas, scikit-image, scikit-learn, PyTorch); system design, SOLID principles, design patterns; RESTful APIs; production code; Git/GitHub"
+
+      - label: DevOps, CI/CD & Testing
+        details: "CI/CD pipeline design; SDLC practices; Agile/Scrum collaboration; Docker containerization; automated testing (unit, integration, E2E); Git workflows; code review"
+
+      - label: Data Engineering & Computer Vision
+        details: "Scalable data pipelines; scientific data analysis; deep learning segmentation (PyTorch); algorithm optimization; large-scale imagery"
+
+      - label: Domain Expertise
+        details: "Microscopy (including whole-slide imaging), MRI/CT processing, digital pathology, gigapixel petrography; imaging physics; signal processing; multi-modality data"
+
+      - label: Languages & Tools
+        details: "Python (primary); C#; Jupyter; Napari; ImageJ/Fiji; QuPath; Spanish (native); English (advanced)"
+
+    Professional Experience:
+      - company: Centro de Microscopias Avanzadas, Universidad de Buenos Aires
+        position: Bioimage Analyst & Software Developer
+        start_date: 2024-09
+        end_date: present
+        location: Buenos Aires, Argentina
+        highlights:
+          - Architect and implement reproducible image analysis pipelines combining classical methods and deep learning
+          - Drive software quality through modular design, version control, and technical documentation
+          - Supervise PhD and master's students on image analysis and computer vision projects
+
+      - company: BioImage Informatics Facility (BIIF), SciLifeLab and NBIS
+        position: Bioimage Analyst & Software Engineer
+        start_date: 2024-04
+        end_date: 2025-05
+        location: Uppsala, Sweden
+        highlights:
+          - Led technical architecture for 6+ research projects with automated pipelines using Python and domain tools
+          - Designed scalable workflows for heterogeneous biomedical imaging datasets enabling reproducible handover
+          - Applied machine learning and deep learning for segmentation, classification, and quantitative analysis
+
+      - company: Karolinska Institutet, Department of Cell and Molecular Biology
+        position: Postdoctoral Researcher
+        start_date: 2022-04
+        end_date: 2024-04
+        location: Stockholm, Sweden
+        highlights:
+          - Developed robust analysis workflows for quantitative microscopy studies linking imaging-derived metrics to biological hypotheses
+          - Collaborated using Git-based workflows to ensure code quality and knowledge transfer
+
+    Highlighted Projects:
+      - name: Spatial Profiling of the renal host-pathogen interplay – automated workflows at scale
+        start_date: 2025-01
+        end_date: 2025-03
+        location: BioImage Informatics Facility, SciLifeLab
+        highlights:
+          - Architected workflows for gigapixel multiplexed and whole-slide imaging using OME-Zarr; implemented registration, spatial statistics, and spatial analysis
+          - Built spatial analysis pipelines aligned with geospatial analysis concepts (tiling, coordinate-aware quantification, spatial relationships)
+          - Delivered code repository and technical documentation for reproducible deployment
+
+      - name: Deep learning segmentation for AI4Life and biomedical imaging
+        start_date: 2024-04
+        end_date: 2024-12
+        location: AI4Life and BioImage Informatics Facility
+        highlights:
+          - Implemented end-to-end pipelines using deep learning models (SAM, Cellpose) for automated segmentation
+          - Delivered MRI segmentation, preprocessing, and validation frameworks integrated into production workflows
+
+      - name: Perivascular TAM phenotypes in metastatic dissemination – multiplex/hyperspectral image analysis
+        start_date: 2024-07
+        end_date: 2024-08
+        location: BioImage Informatics Facility, SciLifeLab
+        highlights:
+          - Developed workflows for multiplex/hyperspectral microscopy with many channels to quantify marker expression across cell populations
+          - Calculated distances to vessels and used machine learning to distinguish protein-expression patterns across channels and cell types
+
+      - name: High Level Technological Service – Digital petrography with Y-Tec
+        start_date: 2019-01
+        end_date: 2019-12
+        location: Collaboration with Y-Tec, Digital Petrography
+        highlights:
+          - Image analysis and machine learning for gigapixel petrography images
+          - Developed automated workflows for classification and quantitative characterization of geological samples
+
+    Courses and Training:
+      - name: Advanced Methods in Bioimage Analysis
+        date: 2023
+        location: EMBO, Heidelberg, Germany (virtual participant, hybrid course)
+        highlights:
+          - 50-hour advanced workshop on quantitative bioimage analysis workflows, from acquisition-aware preprocessing to robust downstream analysis
+
+      - name: 'GPU Programming: Why, When and How?'
+        date: 2023
+        location: EuroCC National Competence Centre Sweden (online)
+        highlights:
+          - Parallel programming workshop focused on accelerating computational workloads and optimizing performance on heterogeneous hardware
+
+      - name: Programming Formalisms
+        date: 2023
+        location: High Performance Computing Center North and UPPMAX (online)
+        highlights:
+          - Formal methods workshop on programming paradigms, software correctness reasoning, Agile teamwork, software development life cycle design, pair coding, and test-driven development
+
+    Teaching, Mentorship & Community:
+      - label: Student Supervision & Technical Mentorship
+        details: "Supervise Physics students (BSc/MSc/high school) on image analysis and computer vision projects (2023–present); mentor on software engineering practices"
+
+      - label: Teaching & Community
+        details: "Co-organized Light Sheet Image Analysis Workshop (2025); invited lecturer on AI in bioimage analysis; organizer of Jornada de Análisis de Imágenes (FCEN, UBA, 2026)"
+
+      - label: Graduate Teaching Assistant & Chief of Practicals (2017-present)
+        details: "Taught Control and Instrumentation and advanced laboratory subjects, including signal processing, instrumentation design, experimental methods, and automation-oriented practical training"
+
+    Education:
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physics
+        degree: PhD
+        start_date: 2016-04
+        end_date: 2021-10
+        location: Buenos Aires, Argentina
+
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physics
+        degree: Licenciatura (MSc equivalent)
+        start_date: 2011-01
+        end_date: 2016-12
+        location: Buenos Aires, Argentina
+
+      - institution: Hospital Universitario Austral, Facultad de Ciencias Biomédicas
+        area: Medicine
+        degree: Core Curriculum
+        start_date: 2008-01
+        end_date: 2010-12
+        location: Buenos Aires, Argentina
+
+design:
+  theme: moderncv
+  color: green
+  disable_external_link_icons: false
+  page_size: a4paper
+  show_last_updated_date: false
