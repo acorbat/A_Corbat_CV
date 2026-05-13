@@ -1,0 +1,149 @@
+cv:
+  name: Agustin A. Corbat
+  location: Buenos Aires, Argentina
+  email: acorbat.bia@gmail.com
+  phone:
+  website: https://acorbat.github.io
+  social_networks:
+    - network: LinkedIn
+      username: agustin-andres-corbat
+    - network: GitHub
+      username: acorbat
+
+  sections:
+    Summary:
+      - "**Senior Data Scientist, Senior Image Analyst and AI Engineer with a PhD in Physics and core training in Medicine, with a long-standing passion for biomedical and medical projects.** Strong track record leading end-to-end client projects from stakeholder meetings and requirement definition to technical implementation, validation, and delivery of actionable results; advanced profile in statistical analysis, machine learning, and computer vision across microscopy, MRI, CT, and digital pathology; and substantial experience in teaching, mentoring, and supervising technical projects."
+
+    Technical Skills:
+      - label: Data Science and Statistics
+        details: "EDA; hypothesis testing; statistical modeling; feature engineering; model evaluation and validation; uncertainty-aware analysis; decision-support reporting"
+
+      - label: Data and Integration Skills
+        details: "Python (NumPy, pandas, scikit-learn, scikit-image); reproducible data pipeline development; interoperability-oriented data handling; version control with Git/GitHub"
+
+      - label: Machine Learning and Computer Vision
+        details: "Machine learning and deep learning with PyTorch; segmentation and classification workflows; SAM, U-Net, Cellpose, StarDist; object-level quantification and spatial analysis"
+
+      - label: Agentic AI and MCP
+        details: "Design and implementation of agent skills and assistant workflows; context engineering; tool orchestration for analysis automation; MCP-oriented integration patterns"
+
+      - label: Laboratory Workflow Support
+        details: "Translation of lab and research needs into technical specifications; quantitative KPI definition; reporting and decision-support visualizations; multidisciplinary stakeholder communication"
+
+      - label: Quality and Delivery Mindset
+        details: "Validation-oriented implementation; documentation and maintainability; critical thinking under changing requirements; high customer satisfaction focus"
+
+      - label: Collaboration and Communication
+        details: "Project coordination across clients, scientists, facility teams, and external partners; workshop delivery; technical presentations in English and Spanish"
+
+      - label: Tools and Languages
+        details: "Jupyter, Napari, Fiji, QuPath, MATLAB; Spanish (native), English (fluent), French (beginner)"
+
+    Professional Experience:
+      - company: Centro de Microscopias Avanzadas, Universidad de Buenos Aires
+        position: Bioimage Analyst
+        start_date: 2024-09
+        end_date: present
+        location: Buenos Aires, Argentina
+        highlights:
+          - "Lead complete delivery cycles with technical and scientific stakeholders: discovery meetings, requirement alignment, implementation, validation, and final delivery"
+          - "Build and maintain robust analysis workflows with strong emphasis on usability, reproducibility, and service quality (pandas, Napari, Fiji, QuPath)"
+          - "Translate laboratory questions into quantitative outputs, statistical analyses, and clear reporting for decision making"
+          - "Train users and support onboarding in image/data analysis methods and practical AI tools"
+
+      - company: BioImage Informatics Facility (BIIF), SciLifeLab and National Bioinformatics Infrastructure Sweden (NBIS)
+        position: Bioimage Analyst
+        start_date: 2024-04
+        end_date: 2025-05
+        location: Uppsala, Sweden
+        highlights:
+          - "Delivered client-facing consulting for multiple projects, owning technical communication, implementation strategy, and execution"
+          - "Implemented reusable Python and Docker-based workflows and structured handover for sustained use by research groups and facility teams"
+          - "Contributed to troubleshooting and issue-resolution workflows, balancing quality, timelines, and stakeholder expectations"
+          - "Taught hands-on courses in deep learning and quantitative image analysis for diverse user profiles"
+
+      - company: Karolinska Institutet, Sweden
+        position: Postdoctoral Researcher in Developmental Biology
+        start_date: 2022-04
+        end_date: 2024-04
+        location: Stockholm, Sweden
+        highlights:
+          - "Developed validated workflows for microscopy and sequencing-derived datasets, integrating data processing, statistics, and interpretation"
+          - "Collaborated with cross-functional teams to convert biological questions into measurable technical outcomes"
+          - "Recognitions: Marie Sklodowska-Curie Actions Seal of Excellence; Vetenskapsradet funding distinction"
+
+    Selected Relevant Projects:
+      - name: MRI-based segmentation of cavernous malformations in mouse brain
+        start_date: 2024-09
+        end_date: 2024-12
+        location: BIIF, SciLifeLab
+        highlights:
+          - "Implemented preprocessing, registration, and ML/DL segmentation workflows with validation-oriented performance assessment"
+          - "Project: https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/"
+
+      - name: Spatial profiling of host-pathogen response in kidney infection (whole-slide multiplex imaging)
+        start_date: 2025-01
+        end_date: 2025-03
+        location: BIIF, SciLifeLab
+        highlights:
+          - "Built end-to-end analysis workflow using OME-Zarr, image registration, and spatial statistics for reproducible quantitative outputs"
+          - "Project and code: https://biifsweden.github.io/projects/2025/02/25/PerLjungdahl2025-1/"
+
+      - name: The role of perivascular TAM phenotypes in metastatic dissemination
+        start_date: 2024-07
+        end_date: 2024-12
+        location: BIIF, SciLifeLab
+        highlights:
+          - "Designed and implemented quantitative image analysis workflows for macrophage phenotype characterization and spatial tissue profiling in oncology samples"
+          - "Performed in close collaboration with an MD researcher and clinician to align technical outputs with translational and clinical interpretation needs"
+          - "Project: https://biifsweden.github.io/projects/2024/07/10/CharlotteRolny2024-1/"
+
+      - name: Industry consulting for diagnostic and biotech clients
+        start_date: 2025-01
+        end_date: 2025-01
+        location: Uppsala, Sweden
+        highlights:
+          - "Defined quantitative quality metrics and implementation-ready analysis approaches for product and assay evaluation"
+          - "Delivered concise technical reports and practical recommendations to client teams"
+
+    Training and Customer Enablement:
+      - label: Neural Networks and Deep Learning (Teaching Assistant)
+        details: "NBIS, Uppsala University (2024) - Supported technical training and practical exercises for multidisciplinary participants"
+
+      - label: AI Tools in Biology (Invited Lecturer)
+        details: "Swedish University of Agricultural Sciences (2025) - Seminar and workshop focused on practical adoption of AI workflows"
+
+      - label: Light Sheet Image Analysis Workshop (Co-Organizer)
+        details: "Universidad Mayor, Santiago de Chile (2025) - Co-designed course outcomes and delivered theoretical and hands-on sessions"
+
+      - label: Student supervision and mentoring
+        details: "Supervised undergraduate, MSc/BSc, and high-school-level technical projects, adapting communication to mixed technical backgrounds"
+
+    Education:
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physics
+        degree: PhD
+        start_date: 2016-04
+        end_date: 2021-10
+        location: Buenos Aires, Argentina
+
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physics
+        degree: Licenciatura (MSc equivalent)
+        start_date: 2011-01
+        end_date: 2016-12
+        location: Buenos Aires, Argentina
+
+      - institution: Hospital Universitario Austral, Facultad de Ciencias Biomedicas
+        area: Medicine
+        degree: Core Curriculum
+        start_date: 2008-01
+        end_date: 2010-12
+        location: Buenos Aires, Argentina
+
+design:
+  theme: moderncv
+  color: green
+  disable_external_link_icons: false
+  page_size: a4paper
+  show_last_updated_date: false
