@@ -124,6 +124,9 @@ All design settings from YAML are exposed as Typst variables with prefix `design
 - Keep `main.yaml` and `main_en.yaml` as backup/alternative versions
 - Avoid duplicating entries across subsections (e.g., keep research only in Investigación, not in Académico)
 
+**Rendering output location rule**:
+- Always render each CV to a `rendercv_output/` directory inside the same folder that contains the target CV YAML file (use `--output-folder-name` explicitly when needed).
+
 ## Recent Maintenance (February 2026)
 
 **File Synchronization Completed**:
