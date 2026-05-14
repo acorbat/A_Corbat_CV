@@ -19,7 +19,7 @@ cv:
         details: "EDA; hypothesis testing; statistical modeling; feature engineering; model evaluation/validation; uncertainty-aware analysis; data visualization and reporting for decision support"
 
       - label: Programming, Architecture & Collaboration
-        details: "Advanced Python (NumPy, pandas, scikit-learn, scikit-image, matplotlib, seaborn); reproducible pipeline design; software architecture; programming formalisms; SOLID principles; Agile development; test-driven development; Git/GitHub collaboration; code review; technical documentation"
+        details: "Expert Python (NumPy, pandas, scikit-learn, scikit-image, matplotlib, seaborn); reproducible pipeline design; software architecture; programming formalisms; SOLID principles; Agile development; test-driven development; Git/GitHub collaboration; code review; technical documentation"
 
       - label: Machine Learning & Computer Vision
         details: "Machine learning and deep learning with PyTorch; segmentation/classification workflows; SAM (Vision Transformer), U-Net, Cellpose, StarDist; object-level quantification, morphometrics, and spatial analysis"
