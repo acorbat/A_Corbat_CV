@@ -1,0 +1,143 @@
+cv:
+  name: Agustin A. Corbat
+  location: Buenos Aires, Argentina
+  email: acorbat.bia@gmail.com
+  phone:
+  website: https://acorbat.github.io
+  social_networks:
+    - network: LinkedIn
+      username: agustin-andres-corbat
+    - network: GitHub
+      username: acorbat
+
+  sections:
+    Summary:
+      - "**AI Engineer and Senior Python Developer** with a PhD in Physics and core training in Medicine, experienced in owning **end-to-end production workflows**: stakeholder discovery, requirement definition, architecture, implementation, validation, and handover. Strong foundation in **software engineering fundamentals** (data modeling, system design, test-driven development, SDLC, collaborative Git/GitHub workflows), plus hands-on work with **LLM-enabled tools and agentic workflows** for real-world analysis automation. Comfortable operating in **early-stage, ambiguous environments** where patterns are still emerging, while communicating clearly with both technical and non-technical stakeholders."
+
+    Technical Skills:
+      - label: Python and AI Engineering
+        details: "Fluent Python (NumPy, pandas, scikit-learn, scikit-image, PyTorch); production-grade data and image pipelines; reproducible analysis systems; software architecture and modular design"
+
+      - label: Software Engineering Fundamentals
+        details: "System design; data modeling concepts; SDLC; test-driven development; maintainable codebases; documentation; code review; Git/GitHub collaboration and version control; containerized development with Docker; reproducible environment management with Pixi"
+
+      - label: LLMs and Agentic Workflows
+        details: "Daily hands-on use of AI-assisted development tools (GitHub Copilot in VS Code, Gemini CLI, pi and related harnesses); prompt design and iterative evaluation; multi-step LLM workflow experimentation with LangChain and LangGraph; context engineering and tool orchestration"
+
+      - label: Data Platforms and Cloud Exposure
+        details: "Familiarity with relational and non-relational data stores, schema design, and data lifecycle considerations; exposure to enterprise platforms such as Nextflow and Snowflake (or equivalent data pipeline/data warehouse tools); exposure to Google AI and Google Cloud services"
+
+      - label: Computer Vision and Applied ML
+        details: "Classical and deep learning segmentation/classification (SAM, U-Net, Cellpose, StarDist); feature extraction and quantitative analytics; heterogeneous biomedical imaging datasets"
+
+      - label: Communication and Languages
+        details: "Clear communication across technical and non-technical audiences; English (fluent), Spanish (native), French (beginner)"
+
+    Professional Experience:
+      - company: Centro de Microscopias Avanzadas, Universidad de Buenos Aires
+        position: Bioimage Analyst and AI Workflow Engineer
+        start_date: 2024-09
+        end_date: present
+        location: Buenos Aires, Argentina
+        highlights:
+          - Lead client-facing project delivery from problem framing and requirements alignment to production-ready analysis workflows and final reporting
+          - Build maintainable, reproducible Python systems with clear interfaces, versioning strategy, and technical handover while balancing research uncertainty and delivery timelines
+          - Design and deliver workshops and practical courses on image analysis, AI methods, and reproducible computational workflows for multidisciplinary audiences
+
+      - company: BioImage Informatics Facility (BIIF), SciLifeLab and National Bioinformatics Infrastructure Sweden (NBIS)
+        position: Bioimage Analyst and Software Engineer
+        start_date: 2024-04
+        end_date: 2025-05
+        location: Uppsala, Sweden
+        highlights:
+          - Delivered full-stack analytical workflows for multiple client projects, from requirements alignment to validated deployment-ready pipelines, including ML/DL components for segmentation, classification, and quantitative phenotyping
+          - Applied software engineering best practices (modular architecture, testing mindset, Git-based collaboration, reproducibility) in multidisciplinary settings
+          - Designed and delivered workshops and course sessions on deep learning, bioimage analysis, and applied AI tooling for researchers and students
+
+      - company: Karolinska Institutet, Sweden
+        position: Postdoctoral Researcher in Developmental Biology
+        start_date: 2022-04
+        end_date: 2024-04
+        location: Stockholm, Sweden
+        highlights:
+          - Developed robust computational workflows and quantitative models for microscopy-driven biological discovery
+          - Collaborated across wet-lab and computational teams, adapting solutions in open-ended, evolving research contexts
+          - Communicated methods and results clearly to mixed technical audiences, supporting adoption and reproducibility
+
+    Selected Projects:
+      - name: Spatial profiling of host-pathogen response in kidney infection (whole-slide multiplex imaging)
+        start_date: 2025-01
+        end_date: 2025-03
+        location: BIIF, SciLifeLab
+        highlights:
+          - Built end-to-end analytics workflow using OME-Zarr, registration (elastix), and spatial statistics for reproducible quantitative outputs (**scikit-image**, **SpatialData**, **Napari**)
+          - "Project and code: https://biifsweden.github.io/projects/2025/02/25/PerLjungdahl2025-1/"
+
+      - name: MRI-based segmentation of cavernous malformations in mouse brain
+        start_date: 2024-09
+        end_date: 2024-12
+        location: BIIF, SciLifeLab
+        highlights:
+          - Implemented preprocessing, registration, and ML/DL segmentation with evaluation-focused validation design (**scikit-learn**, **Napari**)
+          - "Project: https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/"
+
+      - name: AI4Life Open Call 2 (Projects 11 and 38)
+        start_date: 2024-04
+        end_date: 2024-12
+        location: European collaborative projects
+        highlights:
+          - Developed production-oriented computer vision pipelines using SAM and Cellpose across seabed imagery and light-sheet microscopy (**scikit-image**, **Visual Transformers (SAM)**)
+          - "Repositories: https://github.com/ai4life-opencalls/oc_2_project_11 and https://github.com/ai4life-opencalls/oc_2_project_38"
+
+      - name: "Industry consulting: Bohus Biotech and Navinci Diagnostics"
+        start_date: 2025-01
+        end_date: 2025-01
+        location: Uppsala, Sweden
+        highlights:
+          - Defined quantitative quality metrics and analysis algorithms for product evaluation and protein interaction assays
+          - Delivered concise technical reports and implementation guidance to client teams
+
+    Teaching and Student Supervision:
+      - label: KhipuX Quito 2026
+        details: "Panelist, workshop instructor, and mentor at the event on democratizing AI in bioimage and medical imaging; contributed to regional capacity building in AI for bio and medical imaging and guided students on career development"
+
+      - label: Light Sheet Image Analysis Workshop (Co-Organizer)
+        details: "Universidad Mayor, Santiago de Chile (2025) - Co-designed the schedule and learning outcomes, and delivered 3 theoretical lectures and 2 hands-on workshops"
+
+      - label: AI Tools in Biology (Invited Lecturer)
+        details: "Swedish University of Agricultural Sciences (2025) - Seminar and workshop on artificial intelligence for bioimage analysis"
+
+      - label: Neural Networks and Deep Learning (Teaching Assistant)
+        details: "NBIS, Uppsala University (2024) - Theoretical and practical course support on neural network design and deep learning"
+
+      - label: Student supervision and mentoring
+        details: "Supervision of undergraduate internship students and MSc/BSc/high-school-level projects in image analysis, computer vision, and quantitative research workflows (2023-present)"
+
+    Education:
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physics
+        degree: PhD
+        start_date: 2016-04
+        end_date: 2021-10
+        location: Buenos Aires, Argentina
+
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physics
+        degree: Licenciatura (MSc equivalent)
+        start_date: 2011-01
+        end_date: 2016-12
+        location: Buenos Aires, Argentina
+
+      - institution: Hospital Universitario Austral, Facultad de Ciencias Biomedicas
+        area: Medicine
+        degree: Core Curriculum
+        start_date: 2008-01
+        end_date: 2010-12
+        location: Buenos Aires, Argentina
+
+design:
+  theme: moderncv
+  color: green
+  disable_external_link_icons: false
+  page_size: a4paper
+  show_last_updated_date: false
