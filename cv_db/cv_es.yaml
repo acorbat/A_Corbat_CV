@@ -384,6 +384,14 @@ Producción:
       Levet, Rocco D''Antuono, Beth A. Cimini, Robert Haase'
     description:
     - 'doi: https://doi.org/10.1038/s41592-026-03060-7'
+  - title: Droplet microfluidics with image texture quantification for detection of rare
+      antibiotic-resistant subpopulations from bloodstream infections
+    date: '2026'
+    journal: npj Digital Medicine
+    authors: Sagar N. Agnihotri, Nikos Fatsis-Kavalopoulos, Emma Vikdahl, Jonas Windhager,
+      '**Agustin A. Corbat**', Dan I. Andersson, Maria Tenje
+    description:
+    - 'doi: https://doi.org/10.1038/s41746-026-02808-x'
   - title: 'GloBIAS: strengthening the foundations of BioImage Analysis'
     date: '2025'
     journal: ArXiv
