@@ -402,6 +402,12 @@ Production:
       '**Agustin A. Corbat**', Dan I. Andersson, Maria Tenje
     description:
     - 'doi: https://doi.org/10.1038/s41746-026-02808-x'
+  - title: Reproducibility assessment of a published cell shape transition analysis workflow
+    date: '2026'
+    journal: Journal of Microscopy
+    authors: Esteban A. Miglietta, An-Chi Luo, '**Agustin A. Corbat**', Shao-Chun Hsu
+    description:
+    - 'doi: https://doi.org/10.1111/jmi.70143'
   - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
     date: '2025'
     journal: Science
