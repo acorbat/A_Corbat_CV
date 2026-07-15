@@ -39,7 +39,7 @@ Two parallel template systems for different output formats:
 
 ### Rendering Standard CV
 ```powershell
-pixi run -f rendercv rendercv render .\Agustin_Corbat_CV.yaml --design .\design_moderncv_es.yaml --locale-catalog .\locale_en.yaml
+pixi run -e rendercv rendercv render <path_to_CV.yaml> --design .\design_moderncv_es.yaml --locale-catalog .\locale_en.yaml --output-folder-name <output_folder>
 ```
 - **Input**: CV YAML + design YAML + locale YAML
 - **Output**: PDF via Typst compilation
