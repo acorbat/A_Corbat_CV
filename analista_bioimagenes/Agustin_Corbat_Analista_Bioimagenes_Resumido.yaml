@@ -16,15 +16,15 @@ cv:
 
     Competencias Clave:
       - label: Análisis de bioimágenes
-        details: "Segmentación clásica y con deep learning (Cellpose, StarDist, U-Net, SAM), extracción de features, morfometría, fenotipado cuantitativo, análisis espacial y control de calidad"
+        details: "Segmentación clásica, con machine learning y deep learning (Cellpose, StarDist, U-Net, SAM), extracción de features, morfometría, fenotipado cuantitativo, análisis espacial y control de calidad"
       - label: Modalidades y datos
-        details: "Microscopía de fluorescencia widefield/confocal, lámina de luz, whole-slide imaging, MRI/CT; flujos para datos multiplex y series temporales"
+        details: "Microscopía de fluorescencia widefield/confocal, light-sheet, whole-slide imaging, MRI/CT; flujos para datos multiplex y series temporales"
       - label: Programación, arquitectura y reproducibilidad
         details: "Python (NumPy, pandas, scikit-image, scikit-learn, PyTorch), Jupyter, QuPath, Fiji, Napari; diseño modular, principios SOLID, documentación técnica, SDLC y colaboración con Git/GitHub"
       - label: Ingeniería de software y Agentic AI
         details: "Test-driven development, validación de workflows, harness engineering para agentic AI, context engineering y orquestación de herramientas para asistentes reproducibles"
       - label: Transferencia y soporte
-        details: "Consultoría para equipos interdisciplinarios, definición de KPIs, validación de resultados y mentoring"
+        details: "Consultoría para equipos interdisciplinarios, definición de KPIs y mentoring"
 
     Experiencia Profesional Relevante:
       - company: Centro de Microscopías Avanzadas, Universidad de Buenos Aires
@@ -32,18 +32,18 @@ cv:
         date: 2024--actual
         location: Buenos Aires, Argentina
         highlights:
-          - Desarrollo y soporte de pipelines para microscopía compleja con enfoque en robustez, trazabilidad y mantenimiento
-          - Asesoramiento técnico en diseño experimental, métricas cuantitativas e interpretación estadística
-          - Estandarización de flujos de trabajo para facilitar transferencia entre proyectos y equipos
+          - Desarrollo y soporte de pipelines para microscopía de distinto tipo con enfoque en robustez, trazabilidad y mantenimiento
+          - Asesoramiento en diseño experimental, métricas cuantitativas y estadística
+          - Docencia en materias y diseño de cursos de análisis de bioimágenes
 
       - company: BioImage Informatics Facility (BIIF), SciLifeLab y NBIS
         position: Analista de Bioimágenes
         date: 2024--2025
         location: Uppsala, Suecia
         highlights:
-          - Consultoría técnica en proyectos biomédicos con necesidades heterogéneas de segmentación, clasificación y cuantificación
-          - Implementación de pipelines reproducibles en Python, QuPath y Fiji para entrega sostenible y reutilizable
-          - Aplicación de machine learning y deep learning en análisis de tejidos, células e imágenes multicanal
+          - Consultoría técnica en proyectos biomédicos tanto de investigación académica como en industria
+          - Implementación de pipelines reproducibles en Python, Napari, QuPath y Fiji para entrega sostenible y reutilizable
+          - Diseño de cursos y talleres de análisis de bioimágenes para posgrado
 
       - company: Karolinska Institutet
         position: Investigador Postdoctoral en Biología del Desarrollo
@@ -55,14 +55,6 @@ cv:
           - "Financiamiento y reconocimiento internacional: Marie Sklodowska-Curie Seal of Excellence y Vetenskapsrådet"
 
     Proyectos Destacados en Bioimagen:
-      - name: Droplet microfluidics para detección de subpoblaciones antibiótico-resistentes
-        date: 2025
-        location: Uppsala, Suecia
-        highlights:
-          - Cuantificación de textura de imágenes en microfluídica de droplets para detectar subpoblaciones bacterianas raras en droplets
-          - Integración de análisis de imágenes y métricas cuantitativas para mejorar sensibilidad diagnóstica en contextos de resistencia antimicrobiana
-          - "Publicación: https://doi.org/10.1038/s41746-026-02808-x"
-
       - name: Spatial profiling de interacción huésped-patógeno en riñón (Candida albicans)
         date: 2025
         location: BIIF, SciLifeLab
@@ -95,14 +87,31 @@ cv:
         details: "Participación activa en la red regional, particularmente en el grupo de Image Data Science"
 
     Enseñanza y Cursos:
+      - label: Taller de Fundamentos en Análisis de Bioimágenes - Formación de Formadores (Organizador y docente)
+        details: "Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Argentina (3 al 7 de agosto de 2026) - Taller de 40 horas con precurso asincrónico; organización académica y dictado docente"
       - label: Light Sheet Image Analysis Workshop (Co-organizador)
         details: "Universidad Mayor, Santiago de Chile (2025) - Curso intensivo de 1 semana; diseño de cronograma y objetivos de aprendizaje; dictado de 3 clases teóricas y 2 talleres prácticos"
       - label: I2K 2024 - Images to Knowledge (Workshop)
         details: "Human Technopole, Milán, Italia (2024) - Workshop de 90 minutos sobre herramientas y enfoques para imágenes de tejidos multiplexados spatial transcriptomics"
+      - label: Live Cell Imaging (LCI) - Karolinska Institutet (Docente invitado y facilitador)
+        details: "Karolinska Institutet, Estocolmo, Suecia (2025) - Curso intensivo con contenidos teórico-prácticos de microscopía y análisis de imágenes orientados a biología"
       - label: Clases teóricas de Image Analysis
         details: "Fundamentals of Optical Microscopy, Fundación Instituto Leloir (2025) - Módulo imagen digital e Introducción a Análisis de Bioimágenes con clases teóricas orientadas a fundamentos y criterios de análisis"
 
     Publicaciones Seleccionadas:
+      - title: "AI4Life Open Calls and Public Challenges: why, how, and what we have learned."
+        authors:
+          - Vera Galinova
+          - Mehdi Seifi
+          - Beatriz Serrano Solano
+          - Kristina Lidayova
+          - Damian Dalle Nogare
+          - "***Agustín A. Corbat***"
+          - et al.
+        doi: 10.64898/2026.07.21.739486
+        journal: bioRxiv
+        date: 2026-07
+
       - title: "GloBIAS: strengthening the foundations of bioimage analysis"
         authors:
           - "***Agustín A. Corbat***"
