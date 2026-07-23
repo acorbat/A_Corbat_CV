@@ -4,8 +4,8 @@ design:
     size: us-letter
     top_margin: 1.5cm
     bottom_margin: 1.5cm
-    left_margin: 1.5cm
-    right_margin: 1.5cm
+    left_margin: 1.3cm
+    right_margin: 1.3cm
     show_page_numbering: true
     show_last_updated_date: true
   colors:
