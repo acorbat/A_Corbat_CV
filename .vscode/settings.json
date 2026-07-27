@@ -4,5 +4,6 @@
         "New-Item": true,
         "Out-Null": true,
         "Copy-Item": true
-    }
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }
