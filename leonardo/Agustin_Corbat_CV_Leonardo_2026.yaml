@@ -1,0 +1,276 @@
+cv:
+  name: Agustín A. Corbat
+  location: Buenos Aires, Argentina
+  email: acorbat.bia@gmail.com
+  phone:
+  website: https://acorbat.github.io
+  social_networks:
+    - network: LinkedIn
+      username: agustin-andres-corbat
+    - network: GitHub
+      username: acorbat
+
+  sections:
+    Perfil profesional:
+      - "**Doctor en Ciencias Físicas** con formación previa en Medicina y trayectoria interdisciplinaria en biofísica, microscopía, modelado matemático y análisis cuantitativo de imágenes. Desde 2024 trabajo como analista de bioimágenes en instalaciones de soporte científico en Argentina y Suecia, donde desarrollo algoritmos, acompaño proyectos de investigación y formo usuarios. Mi línea de trabajo integra física de sistemas biológicos, biología celular y métodos computacionales reproducibles para extraer información objetiva de imágenes y secuencias temporales."
+      - "El proyecto propuesto para la convocatoria Leonardo busca trasladar esta experiencia hacia una plataforma computacional integral de bioimagen y visión artificial aplicada al diagnóstico de la disquinesia ciliar primaria. La plataforma se plantea como una herramienta reproducible y accesible, articulada con el diseño experimental, el análisis cuantitativo y la formación de recursos humanos."
+
+    Competencias técnicas:
+      - label: Bioimagen y microscopía
+        details: "Análisis cuantitativo de bioimágenes y secuencias temporales; microscopía óptica y de fluorescencia; espectroscopía de correlación; diseño experimental; análisis de imágenes en biología celular, desarrollo, infección, cáncer, MRI y productos biotecnológicos"
+      - label: Análisis computacional
+        details: "Desarrollo de algoritmos y flujos reproducibles; segmentación; cuantificación espacial; análisis estadístico; modelado matemático; documentación y comunicación de resultados"
+      - label: Programación y datos
+        details: "Formación en Python y programación científica; uso de herramientas de análisis de imágenes; procesamiento de datos experimentales; trabajo reproducible y documentación técnica"
+      - label: Instrumentación y desarrollo tecnológico
+        details: "Diseño y construcción de prototipos de microscopía; dispositivos electromecánicos; impresión 3D; control con Arduino; petrografía digital; integración entre adquisición experimental y análisis"
+      - label: Formación y coordinación
+        details: "Docencia universitaria; supervisión de estudiantes de grado, Master, Bachelor y escuela secundaria; organización de cursos y jornadas; capacitación de usuarios de instalaciones de bioimagen"
+      - label: Idiomas
+        details: "Español; inglés con experiencia sostenida de investigación, docencia y presentaciones científicas; francés acreditado mediante DELF A1"
+
+    Experiencia profesional:
+      - company: Instituto de Física de Buenos Aires, Centro de Microscopias Avanzadas, Universidad de Buenos Aires
+        position: Analista de bioimágenes
+        start_date: 2024-09
+        end_date: present
+        location: Buenos Aires, Argentina
+        highlights:
+          - "Desarrollo de algoritmos y soporte para análisis de imágenes en proyectos de investigación"
+          - "Formación de usuarios mediante supervisión, cursos y acompañamiento técnico"
+          - "Vinculación entre microscopía, análisis computacional y preguntas biológicas"
+      - company: BioImage Informatics Facility, SciLifeLab y National Bioinformatics Infrastructure Sweden
+        position: Analista de bioimágenes
+        start_date: 2024-04
+        end_date: 2025-05
+        location: Uppsala, Suecia
+        highlights:
+          - "Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación de múltiples áreas biomédicas"
+          - "Asesoramiento a grupos usuarios de una instalación de bioinformática de imágenes"
+          - "Participación en actividades de formación y soporte científico"
+      - company: Karolinska Institutet
+        position: Postdoctorado en biología del desarrollo
+        start_date: 2022-04
+        end_date: 2024-04
+        location: Estocolmo, Suecia
+        highlights:
+          - "Investigación sobre señalización Notch, mecánica celular e ingeniería del destino celular"
+          - "Análisis de imágenes en proyectos de biología del desarrollo y organoides"
+          - "Supervisión de estudiantes de Bachelor, Master y escuela secundaria"
+          - "Proyecto distinguido con el Sello de Excelencia de las Marie Skłodowska-Curie Actions y financiado por Vetenskapsrådet"
+      - company: Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
+        position: Postdoctorado en Ciencias Físicas
+        start_date: 2021-11
+        end_date: 2022-04
+        location: Buenos Aires, Argentina
+        highlights:
+          - "Desarrollo de técnicas de espectroscopía de correlación aplicadas al estudio de la propagación de señales intra- e intercelulares"
+
+    Proyectos de bioimagen y desarrollo:
+      - name: Spatial Profiling of the renal host-pathogen interplay in response to Candida albicans infection in mice
+        date: '2025'
+        location: BioImage Informatics Facility, SciLifeLab y NBIS
+        highlights:
+          - "Desarrollo de algoritmos de análisis de imágenes para un proyecto de investigación"
+          - "Descripción: https://biifsweden.github.io/projects/2025/02/25/PerLjungdahl2025-1/"
+          - "Repositorio: https://github.com/BIIFSweden/PerLjungdahl2025-1"
+      - name: Segmentation of cavernous malformations using MRI scans of mouse brain
+        date: '2024'
+        location: BioImage Informatics Facility, SciLifeLab y NBIS
+        highlights:
+          - "Desarrollo de algoritmos de análisis de imágenes para segmentación de malformaciones cavernosas en MRI de cerebro de ratón"
+          - "Descripción: https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/"
+      - name: The role of perivascular TAM phenotypes in metastatic dissemination
+        date: '2024'
+        location: BioImage Informatics Facility, SciLifeLab y NBIS
+        highlights:
+          - "Desarrollo de algoritmos de análisis de imágenes para caracterización de fenotipos celulares y diseminación metastásica"
+          - "Descripción: https://biifsweden.github.io/projects/2024/07/10/CharlotteRolny2024-1/"
+      - name: AI4Life Open Call 2, Projects 11 y 38
+        date: '2024'
+        location: AI4Life Open Calls
+        highlights:
+          - "Desarrollo de algoritmos de análisis de imágenes para proyectos internacionales de inteligencia artificial aplicada a la investigación"
+      - name: Decoding cell fate with lineage-tracing in utero transduction
+        start_date: 2022-04
+        end_date: 2024-04
+        location: Emma Andersson Lab, Karolinska Institutet
+        highlights:
+          - "Proyecto apoyado por la Knut och Alice Wallenbergs Stiftelse, con colaboración de Igor Adameyko, Niklas Björkström, Jonas Frisén y Ulrika Marklund"
+      - name: Tuning Notch and mechanics to engineer cell fate
+        start_date: 2022-04
+        end_date: 2024-04
+        location: Emma Andersson Lab, Karolinska Institutet
+        highlights:
+          - "Proyecto apoyado por Vetenskapsrådet y distinguido con el Sello de Excelencia de las Marie Skłodowska-Curie Actions"
+      - name: PICT-2017-1160, prototipo de microscopio de fluorescencia miniaturizado y de bajo costo
+        start_date: 2017-01
+        end_date: 2021-12
+        location: Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
+        highlights:
+          - "Participación como becario doctoral en el diseño y construcción de un prototipo para aplicaciones en neurociencias y medicina"
+      - name: "PICT-2014-3744, Correlación y causalidad: microscopía multiparamétrica de señales celulares"
+        start_date: 2016-01
+        end_date: 2021-12
+        location: Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
+        highlights:
+          - "Participación como becario doctoral en el estudio de señales celulares mediante microscopía multiparamétrica"
+      - name: Sistema Optomecánica Abierta
+        date: '2015'
+        location: Universidad de Buenos Aires e INNOVAR
+        highlights:
+          - "Proyecto tecnológico presentado en INNOVAR 2015 y en reuniones de la Asociación Física Argentina"
+          - "Segundo premio de INNOVAR por dispositivos electromecánicos para experimentos de óptica, fabricados con impresión 3D y controlados con Arduino"
+
+    Consultoría y vinculación profesional:
+      - name: Bohus Biotech
+        date: '2025'
+        location: Uppsala, Suecia
+        highlights:
+          - "Consulta independiente para desarrollar algoritmos de análisis de imágenes destinados a evaluar la calidad de productos estéticos"
+      - name: Detección de interacciones proteína-proteína mediante ensayos de ligando proteína
+        date: '2025'
+        location: Navinci, Uppsala, Suecia
+        highlights:
+          - "Desarrollo de algoritmos de análisis de imágenes para la detección de interacciones proteína-proteína"
+      - name: Servicio Técnico de Alto Nivel ST4407
+        date: '2019'
+        location: Laboratorio de Electrónica Cuántica, Universidad de Buenos Aires
+        highlights:
+          - "Colaboración con Y-Tec en petrografía digital"
+
+    Formación académica:
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Ciencias Físicas
+        degree: Doctorado
+        start_date: 2016-01
+        end_date: 2021-12
+        location: Buenos Aires, Argentina
+        highlights:
+          - "Tesis: Microespectroscopía aplicada a la cuantificación y modelado de la propagación de señales en redes biológicas"
+          - "Director: Hernán E. Grecco; calificación: Sobresaliente; beca doctoral CONICET"
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Ciencias Físicas
+        degree: Licenciatura
+        start_date: 2011-01
+        end_date: 2016-12
+        location: Buenos Aires, Argentina
+        highlights:
+          - "Promedio: 9,32"
+      - institution: Hospital Universitario Austral, Facultad de Ciencias Biomédicas
+        area: Medicina
+        degree: Ciclo troncal completo
+        start_date: 2008-01
+        end_date: 2010-12
+        location: Buenos Aires, Argentina
+        highlights:
+          - "Beca al Mérito; promedio: 7,48"
+
+    Docencia y formación de recursos humanos:
+      - label: Docencia universitaria
+        details: "Jefe de Trabajos Prácticos con dedicación exclusiva en FCEN-UBA (2026-presente); Ayudante de primera (2017-2021) y Ayudante de segunda (2015-2017) en cursos de instrumentación, laboratorios, microscopía, física para biólogos y geólogos"
+      - label: Organización y dictado de cursos
+        details: "Organizador y docente del Taller de Fundamentos en Análisis de Bioimágenes (UBA, 2026); organizador de la Jornada de Análisis de Imágenes (UBA, 2026); instructor, mentor y panelista en KhipuX Quito (2026); co-organizador del Light Sheet Image Analysis Workshop (Santiago de Chile, 2025)"
+      - label: Cursos especializados
+        details: "Profesor invitado en Fundamentos de Microscopía Óptica (Fundación Instituto Leloir, 2025), AI Tools in Biology (Universidad de Ciencias Agrícolas de Suecia, 2025) y Live Cell Imaging (Karolinska Institutet, 2025); ayudante en Neural Networks and Deep Learning (NBIS, 2024)"
+      - label: Supervisión
+        details: "Supervisión de estudiantes de Laboratorio 6 (UBA, 2025-2026), estudiantes de High School (Suecia, 2024-2025), un estudiante de Master (2024) y un estudiante de Bachelor (2023-2024) en Karolinska Institutet"
+
+    Publicaciones seleccionadas:
+      - title: "GloBIAS: strengthening the foundations of BioImage Analysis"
+        authors:
+          - '***Agustin A. Corbat***'
+          - Christa G. Walther
+          - Laura R. de la Ballina
+          - Nicholas D. Condon
+          - Alessandro A. Felder
+          - Martin Schatz
+          - Bettina Schmerl
+          - Ko Sugawara
+          - Clara Prats
+          - Anna Klemm
+          - Florian Levet
+          - Kota Miura
+          - Paula Sampaio
+          - Christian Tischer
+          - Rocco D'Antuono
+          - Beth A. Cimini
+          - Robert Haase
+        journal: ArXiv
+        doi: 10.48550/arXiv.2507.06407
+        date: 2025
+      - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
+        authors:
+          - Sandra de Haan
+          - Jingyan He
+          - '***Agustin A. Corbat***'
+          - Lenka Belicova
+          - Michael Ratz
+          - Elin Vinsland
+          - Sten Linnarsson
+          - Jonas Frisen
+          - Matthew W. Kelley
+          - Emma R. Andersson
+        journal: Science
+        doi: 10.1126/science.adq9248
+        date: 2025
+      - title: Jag1 represses Notch activation in lateral supporting cells and inhibits an outer hair cell fate in the medial cochlea
+        authors:
+          - Sandra de Haan
+          - '***Agustin Corbat***'
+          - Christopher R. Cederroth
+          - Lisa G. Autrum
+          - Simona Hankeova
+          - Elizabeth C. Driver
+          - Barbara Canlon
+          - Matthew W. Kelley
+          - Emma R. Andersson
+        journal: Development
+        doi: 10.1242/dev.202949
+        date: 2024
+      - title: Smaug1 membrane-less organelles respond to AMPK and mTOR and affect mitochondrial function
+        authors:
+          - Ana J. Fernandez-Alvarez
+          - Maria Gabriela Thomas
+          - Malena L. Pascual
+          - Martin Habif
+          - '***Agustin A. Corbat***'
+          - Jeronimo Pimentel
+          - João P. Pessoa
+          - Pablo E. La Spina
+          - Lara Boscaglia
+          - Anne Plessis
+          - Maria Carmo-Fonseca
+          - Hernan E. Grecco
+          - Marta Casado
+          - Graciela L. Boccaccio
+        journal: Journal of Cell Science
+        doi: 10.1242/jcs.253591
+        date: 2021
+      - title: Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy
+        authors:
+          - '***Agustin A. Corbat***'
+          - Klaus C. Schuermann
+          - Piotr Liguzinski
+          - Yvonne Radon
+          - Philippe I. H. Bastiaens
+          - Peter J. Verveer
+          - Hernan E. Grecco
+        journal: Redox Biology
+        doi: 10.1016/j.redox.2018.07.023
+        date: 2018
+
+    Presentaciones y distinciones:
+      - label: Presentaciones recientes
+        details: "Jornada de Análisis de Imágenes (2026); SMILS 2026; LABI Meeting 2025; Democratizing Microscopy in Latin America (2025); I2K: Images to Knowledge (2024); GloBIAS in-person Workshop (2024); Imaging The Future (2024)"
+      - label: Presentaciones anteriores
+        details: "EMBO|FEBS Lecture Course (2020); Whole Cell Modelling Summer School (2019); Taller de Biología Celular y del Desarrollo y Giambiagi Winter School (2018); Annual Meeting of the iPoLS Network (2017); Frontiers in Bioscience 2 (2016); Reuniones Nacionales de Física (2015-2016)"
+      - label: Becas y reconocimientos
+        details: "Sello de Excelencia de las Marie Skłodowska-Curie Actions; financiamiento de Vetenskapsrådet; beca doctoral CONICET; segundo premio de INNOVAR 2015; Beca al Mérito en Medicina; becas de participación en cursos de EMBO, ICTP, Helmsley Charitable Trust y Howard Hughes Medical Institute"
+
+  design:
+    theme: moderncv
+    color: green
+    disable_external_link_icons: false
+    page_size: a4paper
+    show_last_updated_date: false
