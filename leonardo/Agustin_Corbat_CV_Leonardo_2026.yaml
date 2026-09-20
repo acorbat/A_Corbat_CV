@@ -17,16 +17,18 @@ cv:
       - "En mi proceso de independización también dirigí grupos de estudiantes de Master y de grado avanzado en colaboración con equipos multidisciplinarios. El proyecto requiere esta articulación entre médicos, que definirán las necesidades clínicas y biológicas, y estudiantes de Física y Ciencia de Datos, que participarán en la instrumentación, la programación y el análisis. Mi experiencia en investigación, desarrollo experimental, análisis de bioimágenes, supervisión y comunicación entre disciplinas proporciona una base sólida para coordinar estas tareas y ejecutar el proyecto de manera reproducible."
 
     Competencias técnicas:
-      - label: Bioimagen y microscopía
-        details: "Análisis cuantitativo de bioimágenes y secuencias temporales; microscopía óptica y de fluorescencia; espectroscopía de correlación; diseño experimental; análisis de imágenes en biología celular, desarrollo, infección, cáncer, MRI y productos biotecnológicos"
-      - label: Análisis computacional
-        details: "Desarrollo de algoritmos y flujos reproducibles; segmentación; cuantificación espacial; análisis estadístico; modelado matemático; documentación y comunicación de resultados"
-      - label: Programación y datos
-        details: "Formación en Python y programación científica; uso de herramientas de análisis de imágenes; procesamiento de datos experimentales; trabajo reproducible y documentación técnica"
+      - label: Análisis de bioimágenes
+        details: "Segmentación clásica y con machine learning/deep learning (Cellpose, StarDist, U-Net, SAM); extracción de features; morfometría; fenotipado cuantitativo; análisis espacial; análisis estadístico; control de calidad y análisis de series temporales"
+      - label: Modalidades y datos
+        details: "Microscopía de optica y de fluorescencia widefield y confocal; light-sheet; imágenes de campo claro; Resonancia Mágnetica Nuclear y Tomografía; Microscopía multiplex y secuencias temporales"
+      - label: Programación, arquitectura y reproducibilidad
+        details: "Fluente en Python (NumPy, pandas, scikit-image, scikit-learn, PyTorch); Jupyter; QuPath; Fiji; Napari; diseño modular de flujos; principios SOLID; documentación técnica; control de versiones y colaboración con Git/GitHub"
+      - label: Ingeniería de software y automatización
+        details: "Diseño de pipelines reproducibles; validación de workflows; integración entre adquisición, procesamiento y análisis; desarrollo orientado a la transferencia y mantenimiento por parte de equipos de investigación"
       - label: Instrumentación y desarrollo tecnológico
-        details: "Diseño y construcción de prototipos de microscopía; dispositivos electromecánicos; impresión 3D; control con Arduino; petrografía digital; integración entre adquisición experimental y análisis"
-      - label: Formación y coordinación
-        details: "Docencia universitaria; supervisión de estudiantes de grado, Master, Bachelor y escuela secundaria; organización de cursos y jornadas; capacitación de usuarios de instalaciones de bioimagen"
+        details: "Diseño y construcción de componentes a medida para microscopía; actualización de sistemas de adquisición; dispositivos electromecánicos; impresión 3D; materiales de bajo costo; control con Arduino; integración entre hardware y software"
+      - label: Transferencia y soporte científico
+        details: "Consultoría para equipos interdisciplinarios; interpretación de necesidades experimentales; definición de observables y métricas; mejora y estandarización de la adquisición; mentoring, capacitación de usuarios y comunicación entre disciplinas"
       - label: Idiomas
         details: "Español; inglés con experiencia sostenida de investigación, docencia y presentaciones científicas; francés acreditado mediante DELF A1"
 
