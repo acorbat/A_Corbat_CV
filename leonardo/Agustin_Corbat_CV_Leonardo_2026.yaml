@@ -31,41 +31,48 @@ cv:
         details: "Consultoría para equipos interdisciplinarios; interpretación de necesidades experimentales; definición de observables y métricas; mejora y estandarización de la adquisición; mentoring, capacitación de usuarios y comunicación entre disciplinas"
     
     Experiencia profesional:
-      - company: Instituto de Física de Buenos Aires, Centro de Microscopias Avanzadas, Universidad de Buenos Aires
-        position: Analista de bioimágenes
+      - company: Centro de Microscopias Avanzadas, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
+        position: Analista de bioimágenes y Jefe de Trabajos Prácticos de dedicación exclusiva
         start_date: 2024-09
         end_date: present
         location: Buenos Aires, Argentina
         highlights:
           - "Desarrollo de algoritmos y soporte para análisis de imágenes en proyectos de investigación"
-          - "Formación de usuarios mediante supervisión, cursos y acompañamiento técnico"
-          - "Vinculación entre microscopía, análisis computacional y preguntas biológicas"
+          - "Diseño y dictado de cursos y actividades de formación en análisis de bioimágenes, además de formación de usuarios mediante supervisión y acompañamiento técnico"
+          - "Dictado de clases universitarias y supervisión de estudiantes avanzados y de doctorado"
+          - "Participación en comunidades internacionales de bioimagen para definir y mejorar el rol profesional, las prácticas y las competencias de los analistas de bioimágenes"
+          - "Vinculación entre microscopía, análisis computacional y preguntas biomédicas"
       - company: BioImage Informatics Facility, SciLifeLab y National Bioinformatics Infrastructure Sweden
         position: Analista de bioimágenes
         start_date: 2024-04
         end_date: 2025-05
         location: Uppsala, Suecia
         highlights:
-          - "Desarrollo de algoritmos de análisis de imágenes para proyectos de investigación de múltiples áreas biomédicas"
-          - "Asesoramiento a grupos usuarios de una instalación de bioinformática de imágenes"
-          - "Participación en actividades de formación y soporte científico"
-      - company: Karolinska Institutet
+          - "Desarrollo y asesoramiento en algoritmos de análisis de imágenes para proyectos de investigación de múltiples áreas biomédicas"
+          - "Diseño y participación en cursos y actividades de formación en análisis de bioimágenes, redes neuronales y deep learning"
+          - "Participación en comunidades internacionales para definir y mejorar el rol laboral, las prácticas y las competencias de los analistas de bioimágenes"
+      - company: Department of Cell and Molecular Biology, Karolinska Institutet
         position: Postdoctorado en biología del desarrollo
         start_date: 2022-04
         end_date: 2024-04
         location: Estocolmo, Suecia
         highlights:
-          - "Investigación sobre señalización Notch, mecánica celular e ingeniería del destino celular"
-          - "Análisis de imágenes en proyectos de biología del desarrollo y organoides"
-          - "Supervisión de estudiantes de Bachelor, Master y escuela secundaria"
           - "Proyecto distinguido con el Sello de Excelencia de las Marie Skłodowska-Curie Actions y financiado por Vetenskapsrådet"
+          - "Automatización y diseño de experimentos de microscopía widefield y 3D, con análisis posterior de imágenes y entrega de software para análisis automatizado"
+          - "Diseño y optimización de flujos de análisis bioinformático de datos de secuenciación de célula única (single cell RNA-seq) en colaboración con un equipo interdisciplinario"
+          - "Aplicación de estas herramientas al estudio de la señalización intercelular, el destino celular y la biología de organoides"
+          - "Supervisión de estudiantes de Bachelor, Master y escuela secundaria en proyectos experimentales y computacionales"
       - company: Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
-        position: Postdoctorado en Ciencias Físicas
-        start_date: 2021-11
+        position: Doctorado y postdoctorado con cargos docentes
+        start_date: 2016-04
         end_date: 2022-04
         location: Buenos Aires, Argentina
         highlights:
-          - "Desarrollo de técnicas de espectroscopía de correlación aplicadas al estudio de la propagación de señales intra- e intercelulares"
+          - "Estudios doctorales en el área de microscopía avanzada y espectroscopía de correlación, aplicados al estudio de la señalización intra- e intercelular en series temporales"
+          - "Diseño de experimentos de microscopía avanzada combinando múltiples canales, imágenes 3D y series temporales"
+          - "Diseño, automatización y adaptación de microscopios comerciales para implementar nuevos tipos de microscopía"
+          - "Trabajo en colaboración con diversos grupos de biología, participando en el diseño experimental y automatizando el análisis de las bioimágenes generadas"
+          - "Docencia universitaria con cargos de Ayudante de Primera y Jefe de Trabajos Prácticos"
 
     Proyectos de bioimagen y desarrollo:
       - name: Spatial Profiling of the renal host-pathogen interplay in response to Candida albicans infection in mice
