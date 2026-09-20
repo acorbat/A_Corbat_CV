@@ -207,12 +207,61 @@ cv:
         details: "Jefe de Trabajos Prácticos con dedicación exclusiva en FCEN-UBA (2026-presente); Ayudante de primera (2017-2021) y Ayudante de segunda (2015-2017) en cursos de instrumentación, laboratorios, microscopía, física para biólogos y geólogos"
       - label: Organización y dictado de cursos
         details: "Organizador y docente del Taller de Fundamentos en Análisis de Bioimágenes (UBA, 2026); organizador de la Jornada de Análisis de Imágenes (UBA, 2026); instructor, mentor y panelista en KhipuX Quito (2026); co-organizador del Light Sheet Image Analysis Workshop (Santiago de Chile, 2025)"
-      - label: Cursos especializados
+      - label: Invitaciones a cursos especializados
         details: "Profesor invitado en Fundamentos de Microscopía Óptica (Fundación Instituto Leloir, 2025), AI Tools in Biology (Universidad de Ciencias Agrícolas de Suecia, 2025) y Live Cell Imaging (Karolinska Institutet, 2025); ayudante en Neural Networks and Deep Learning (NBIS, 2024)"
       - label: Supervisión
-        details: "Supervisión de estudiantes de Laboratorio 6 (UBA, 2025-2026), estudiantes de High School (Suecia, 2024-2025), un estudiante de Master (2024) y un estudiante de Bachelor (2023-2024) en Karolinska Institutet"
+        details: "Supervisión de estudiantes de Laboratorio 6 y 7 (UBA, 2025-2026), estudiantes de High School (Suecia, 2024-2025), un estudiante de Master (2024) y un estudiante de Bachelor (2023-2024) en Karolinska Institutet"
 
     Publicaciones seleccionadas:
+      - title: "AI4Life Open Calls and Public Challenges: why, how, and what we have learned"
+        authors:
+          - Vera Galinova
+          - Mehdi Seifi
+          - Beatriz Serrano Solano
+          - Kristina Lidayova
+          - Damian Dalle Nogare
+          - '***Agustin A. Corbat***'
+          - Joshua Talks
+          - Edoardo Giacomello
+          - Estibaliz Gomez-de-Mariscal
+          - Mariana Gomes Ferreira
+          - Caterina Fuster-Barcelo
+          - Juan Manuel Battagliotti
+          - Carlos Garcia-Lopez-de-Haro
+          - Benjamin Salmon
+          - Melisande Croft
+          - Si Young Yie
+          - Guillermo Rey-Paniagua
+          - Xiaotian Hu
+          - Sungjun Cho
+          - Aagam Sheth
+          - Chhayansh Porwal
+          - Xiaomeng Li
+          - AI4Life Consortium
+          - Ricardo Henriques
+          - Xinyang Li
+          - Alexander Krull
+          - Anna Klemm
+          - Arrate Munoz Barrutia
+          - Anna Kreshuk
+          - Wei Ouyang
+          - Florian Jug
+          - Joran Deschamps
+        journal: bioRxiv
+        doi: 10.64898/2026.07.21.739486
+        date: 2026
+      - title: Droplet microfluidics with image texture quantification for detection of rare antibiotic-resistant subpopulations from bloodstream infections
+        authors:
+          - Sagar N. Agnihotri
+          - Nikos Fatsis-Kavalopoulos
+          - Emma Vikdahl
+          - Jonas Windhager
+          - '***Agustin A. Corbat***'
+          - Dan I. Andersson
+          - Maria Tenje
+        journal: npj Digital Medicine
+        doi: 10.1038/s41746-026-02808-x
+        date: 2026
       - title: "GloBIAS: strengthening the foundations of BioImage Analysis"
         authors:
           - '***Agustin A. Corbat***'
@@ -232,9 +281,9 @@ cv:
           - Rocco D'Antuono
           - Beth A. Cimini
           - Robert Haase
-        journal: ArXiv
-        doi: 10.48550/arXiv.2507.06407
-        date: 2025
+        journal: Nature Communications
+        doi: 10.1038/s41592-026-03060-7
+        date: 2026
       - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
         authors:
           - Sandra de Haan
@@ -244,26 +293,12 @@ cv:
           - Michael Ratz
           - Elin Vinsland
           - Sten Linnarsson
-          - Jonas Frisen
+          - Jonas Frisén
           - Matthew W. Kelley
           - Emma R. Andersson
         journal: Science
         doi: 10.1126/science.adq9248
         date: 2025
-      - title: Jag1 represses Notch activation in lateral supporting cells and inhibits an outer hair cell fate in the medial cochlea
-        authors:
-          - Sandra de Haan
-          - '***Agustin Corbat***'
-          - Christopher R. Cederroth
-          - Lisa G. Autrum
-          - Simona Hankeova
-          - Elizabeth C. Driver
-          - Barbara Canlon
-          - Matthew W. Kelley
-          - Emma R. Andersson
-        journal: Development
-        doi: 10.1242/dev.202949
-        date: 2024
       - title: Smaug1 membrane-less organelles respond to AMPK and mTOR and affect mitochondrial function
         authors:
           - Ana J. Fernandez-Alvarez
@@ -283,18 +318,6 @@ cv:
         journal: Journal of Cell Science
         doi: 10.1242/jcs.253591
         date: 2021
-      - title: Co-imaging extrinsic, intrinsic and effector caspase activity by fluorescence anisotropy microscopy
-        authors:
-          - '***Agustin A. Corbat***'
-          - Klaus C. Schuermann
-          - Piotr Liguzinski
-          - Yvonne Radon
-          - Philippe I. H. Bastiaens
-          - Peter J. Verveer
-          - Hernan E. Grecco
-        journal: Redox Biology
-        doi: 10.1016/j.redox.2018.07.023
-        date: 2018
 
     Presentaciones y distinciones:
       - label: Presentaciones recientes
