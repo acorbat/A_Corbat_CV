@@ -29,9 +29,7 @@ cv:
         details: "Diseño y construcción de componentes a medida para microscopía; actualización de sistemas de adquisición; dispositivos electromecánicos; impresión 3D; materiales de bajo costo; control con Arduino; integración entre hardware y software"
       - label: Transferencia y soporte científico
         details: "Consultoría para equipos interdisciplinarios; interpretación de necesidades experimentales; definición de observables y métricas; mejora y estandarización de la adquisición; mentoring, capacitación de usuarios y comunicación entre disciplinas"
-      - label: Idiomas
-        details: "Español; inglés con experiencia sostenida de investigación, docencia y presentaciones científicas; francés acreditado mediante DELF A1"
-
+    
     Experiencia profesional:
       - company: Instituto de Física de Buenos Aires, Centro de Microscopias Avanzadas, Universidad de Buenos Aires
         position: Analista de bioimágenes
