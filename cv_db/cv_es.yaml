@@ -363,6 +363,14 @@ Experiencia:
     - Medicina Celular y Molecular
     - 10 horas semanales
   Profesionales:
+  - name: Pipeline de eliminación de ruido por reverberación en ecografías
+    date: 2026-04--2026-06
+    location: Apolo biotech, Argentina
+    description:
+    - Consultor en análisis de bioimágenes encargado de desarrollar un prototipo
+      reproducible para procesar imágenes 3D de ultrasonido adquiridas con
+      un sistema prototipo y eliminar el ruido por reverberación mediante métodos
+      clásicos basados en transformadas de Fourier y wavelets, implementados en Python.
   - name: Bohus Biotech
     date: '2025'
     location: Uppsala, Suecia

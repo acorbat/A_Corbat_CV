@@ -206,6 +206,14 @@ Experience:
     description:
     - 'Advisor: Dr. Jorge B. Aquino'
   Professional:
+  - name: Ultrasound Reverberation Noise Removal Pipeline
+    date: 2026-04--2026-06
+    location: Apolo biotech, Argentina
+    description:
+    - Bioimage Analysis Consultant developing a reproducible prototype pipeline to
+      process 3D stacks of ultrasound images acquired with a prototype system and
+      remove reverberation noise using classical Fourier and wavelet transform-based
+      methods implemented with Python.
   - name: Bohus Biotech
     date: '2025'
     location: Uppsala, Sweden
