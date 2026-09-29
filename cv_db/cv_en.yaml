@@ -402,6 +402,16 @@ Experience:
     - 10 weekly hours
 Production:
   Publications:
+  - title: 'In utero barcoding of mouse mesoderm reveals the clonal architecture of organ mesenchyme'
+    date: '2026'
+    journal: bioRxiv
+    authors: Jingyan He, Johan Lorentz, '**Agustin A. Corbat**', Sergey Isaev, Raphaël
+      Mauron, Sandra De Haan, Lenka Belicová, Jia Sun, Bettina Semsch, Noémi Van Hul,
+      Robert Tonoian, John Wilson, Ulrika Marklund, Marcel Martin, Neil C. Henderson,
+      Jonas Frisén, Michael Ratz, Peter V. Kharchenko, Igor Adameyko, Enikő Lázár,
+      Joakim Lundeberg, Emma R. Andersson
+    description:
+    - 'doi: https://doi.org/10.64898/2026.09.22.752134'
   - title: 'AI4Life Open Calls and Public Challenges: why, how, and what we have learned.'
     date: '2026'
     journal: bioRxiv
