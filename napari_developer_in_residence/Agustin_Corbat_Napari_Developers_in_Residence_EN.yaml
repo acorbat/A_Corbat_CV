@@ -33,6 +33,7 @@ cv:
         highlights:
           - Work with biologists to translate microscopy questions and acquisition context into practical image-analysis workflows and quantitative readouts
           - Develop and document reproducible Python tools; teach image analysis and supervise student imaging projects
+          - As Chief of Practicals, design hands-on exercises and assess students' practical work
 
       - company: BioImage Informatics Facility, SciLifeLab and NBIS
         position: Bioimage Analyst
@@ -50,11 +51,12 @@ cv:
         location: Stockholm, Sweden
         highlights:
           - Connected experimental microscopy and quantitative image analysis in collaborative developmental-biology research
+          - Designed microscopy experiments and linked quantified observables to parameters in systems-biology mathematical models
           - Worked with confocal and whole-slide microscopy data to relate image-derived measurements to biological questions
 
     Selected Research Tools and Projects:
       - name: GulLiver, whole-slide liver image-analysis package
-        date: 2022--2024
+        date: 2024
         location: Public software project
         highlights:
           - Built a Python tool for biologists to segment and classify structures in whole-slide liver immunostaining images and quantify spatial relationships
