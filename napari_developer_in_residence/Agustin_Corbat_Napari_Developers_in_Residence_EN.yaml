@@ -1,0 +1,111 @@
+cv:
+  name: Agustin A. Corbat
+  location: Buenos Aires, Argentina
+  email: acorbat.bia@gmail.com
+  phone:
+  website: https://acorbat.github.io
+  social_networks:
+    - network: LinkedIn
+      username: agustin-andres-corbat
+    - network: GitHub
+      username: acorbat
+
+  sections:
+    Summary:
+      - "**Senior bioimage analyst and microscopist (PhD in Physics)** working at the boundary of experimental microscopy and scientific software. I help researchers turn challenging N-dimensional image data into reliable measurements by developing practical Python tools and reproducible workflows. My work connects microscopy context with analysis and visualization, and includes teaching, documentation, and open community contributions."
+
+    Technical Skills:
+      - label: Microscopy and Bioimage Analysis
+        details: "Widefield and confocal fluorescence, light-sheet, super-resolution, time-lapse, multiplex and whole-slide imaging; 2D/3D image analysis; segmentation, registration, quantification and spatial analysis"
+      - label: Researcher-Facing Software
+        details: "Python; NumPy; pandas; scikit-image; scikit-learn; PyTorch; command-line tools; modular analysis workflows; Jupyter; Git/GitHub; testing, documentation and reproducible environments; Pixi"
+      - label: Image Data and Visualization
+        details: "napari; OME-Zarr; large image data; image labels and segmentation; ImageJ/Fiji; QuPath; workflows that connect visual inspection to quantitative results"
+      - label: Training and Collaboration
+        details: "Technical consultation; teaching material design; FAIR-minded sharing of learning resources; mentoring; interdisciplinary communication; Spanish (native); English (advanced)"
+
+    Professional Experience:
+      - company: Centro de Microscopias Avanzadas, Universidad de Buenos Aires
+        position: Bioimage Analyst
+        start_date: 2024-09
+        end_date: present
+        location: Buenos Aires, Argentina
+        highlights:
+          - Work with biologists to translate microscopy questions and acquisition context into practical image-analysis workflows and quantitative readouts
+          - Develop and document reproducible Python tools; teach image analysis and supervise student imaging projects
+
+      - company: BioImage Informatics Facility, SciLifeLab and NBIS
+        position: Bioimage Analyst
+        start_date: 2024-04
+        end_date: 2025-05
+        location: Uppsala, Sweden
+        highlights:
+          - Supported biologists across multiplex microscopy, MRI, and whole-slide imaging, developing workflows with registration, segmentation, machine learning, and spatial analysis
+          - Delivered technical consultation, reproducible analysis workflows, researcher handover, and training
+
+      - company: Karolinska Institutet, Department of Cell and Molecular Biology
+        position: Postdoctoral Researcher
+        start_date: 2022-04
+        end_date: 2024-04
+        location: Stockholm, Sweden
+        highlights:
+          - Connected experimental microscopy and quantitative image analysis in collaborative developmental-biology research
+          - Worked with confocal and whole-slide microscopy data to relate image-derived measurements to biological questions
+
+    Selected Research Tools and Projects:
+      - name: GulLiver, whole-slide liver image-analysis package
+        date: 2022--2024
+        location: Public software project
+        highlights:
+          - Built a Python tool for biologists to segment and classify structures in whole-slide liver immunostaining images and quantify spatial relationships
+          - Writes OME-Zarr outputs for scalable analysis and visual inspection in napari
+          - "Repository: https://github.com/acorbat/gulliver"
+
+      - name: Spatial profiling of renal host-pathogen response
+        date: 2025
+        location: BioImage Informatics Facility, SciLifeLab
+        highlights:
+          - Developed image-analysis workflows for multiplex and whole-slide imaging, combining OME-Zarr, image registration, and spatial statistics
+          - "Used napari within the imaging workflow; project and code: https://github.com/BIIFSweden/PerLjungdahl2025-1"
+
+      - name: Multiplex microscopy phenotyping of perivascular macrophages
+        date: 2024
+        location: BioImage Informatics Facility, SciLifeLab
+        highlights:
+          - Built QuPath and Groovy workflows to quantify marker expression across cell populations and measure distances to vessels
+          - "Documented the workflow and provided hands-on training for researchers; project: https://biifsweden.github.io/projects/2024/07/10/CharlotteRolny2024-1/"
+
+    Teaching, FAIR-Minded Resources, and Community:
+      - label: Bioimage Analysis Fundamentals Workshop (2026)
+        details: "Co-organizer and instructor for a 40-hour train-the-trainer course with an asynchronous pre-course. Developed and shared teaching materials through Zenodo for discovery, citation, and reuse: https://doi.org/10.5281/zenodo.18772893"
+      - label: Light Sheet Image Analysis Workshop (2025)
+        details: "Co-designed learning outcomes and prepared lectures and hands-on sessions for biologists. Course materials: https://bruvellu.github.io/light-sheet-image-analysis-workshop-2026/"
+      - label: AI Tools in Biology and contributor mentorship
+        details: "Invited lecturer on AI for bioimage analysis; mentor and workshop instructor at KhipuX Quito 2026. Teaching slides and materials: https://doi.org/10.5281/zenodo.18717815 and https://doi.org/10.5281/zenodo.18772893"
+      - label: AI4Life
+        details: "Contributed image-analysis workflows to two Open Call 2 projects: SAM-based seabed-image segmentation and Cellpose-based light-sheet cell segmentation. Repositories: https://github.com/ai4life-opencalls/oc_2_project_11 and https://github.com/ai4life-opencalls/oc_2_project_38. Co-authored work on AI4Life open calls and public challenges: https://doi.org/10.64898/2026.07.21.739486"
+      - label: GloBIAS
+        details: "Co-authored the GloBIAS community paper in Nature Methods and presented at its 2024 workshop on connecting bioimage-analysis networks. Paper: https://doi.org/10.1038/s41592-026-03060-7; slides: https://github.com/GloBIAS-BioimageAnalysts/workshop24_Gothenburg/blob/main/Training_and_Education_Corbat_On_navigating.pptx"
+      - label: University teaching
+        details: "Graduate teaching assistant and chief of practical courses at Universidad de Buenos Aires, covering control, instrumentation, signal processing, and experimental methods."
+
+    Education:
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physics
+        degree: PhD
+        start_date: 2016-04
+        end_date: 2021-10
+        location: Buenos Aires, Argentina
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Physics
+        degree: Licenciatura
+        start_date: 2011-01
+        end_date: 2016-12
+        location: Buenos Aires, Argentina
+
+design:
+  theme: moderncv
+  color: green
+  disable_external_link_icons: false
+  page_size: a4paper
+  show_last_updated_date: false
