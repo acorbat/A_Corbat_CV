@@ -18,7 +18,7 @@ cv:
       - label: Microscopy and Bioimage Analysis
         details: "Widefield and confocal fluorescence, light-sheet, super-resolution, time-lapse, multiplex and whole-slide imaging; 2D/3D image analysis; segmentation, registration, quantification and spatial analysis"
       - label: Researcher-Facing Software
-        details: "Python; NumPy; pandas; scikit-image; scikit-learn; PyTorch; command-line tools; modular analysis workflows; Jupyter; Git/GitHub; testing, documentation and reproducible environments; Pixi"
+        details: "Python; NumPy; pandas; scikit-image; scikit-learn; PyTorch; command-line tools; modular analysis workflows; Jupyter; Git/GitHub and pull requests; testing and CI/CD; SOLID principles; software development lifecycle; Programming Formalisms; documentation and reproducible environments; Pixi"
       - label: Image Data and Visualization
         details: "napari; OME-Zarr; large image data; image labels and segmentation; ImageJ/Fiji; QuPath; workflows that connect visual inspection to quantitative results"
       - label: Training and Collaboration
@@ -81,20 +81,20 @@ cv:
         date: 2024
         location: BioImage Informatics Facility, SciLifeLab
         highlights:
-          - Used napari and its plugins to segment lesions and track their development across mouse-brain MRI scans
-          - Trained machine-learning pixel classifiers with APOC and taught researchers to use napari for image analysis
+          - Modularized the workflow into image input/output, lesion segmentation, atlas registration, registration across imaging dates, and analysis of lesion changes
+          - Used napari and plugins to inspect and segment lesions; trained APOC machine-learning pixel classifiers and taught researchers to use napari
           - "Project: https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/"
 
       - name: TREX - RNA-seq lineage-tracing package
         date: 2023
         location: Karolinska Institutet
         highlights:
-          - Worked with biologists and research software developers to identify and discuss improvements to a Python package that analyzes RNA-seq data for lineage tracing
-          - Formulated proposed code changes as GitHub pull requests, bringing biological needs and software design into the same review process
+          - "Worked with biologists and research software developers on filtering overrepresented and potentially contaminating cloneIDs; added configurable cloneID exclusion and tests (PR #55: https://github.com/frisen-lab/TREX/pull/55)"
+          - "Improved lineage quality-control analysis by correcting Jaccard similarity-matrix construction (PR #67: https://github.com/frisen-lab/TREX/pull/67) and a clone-graph plotting edge case (PR #68: https://github.com/frisen-lab/TREX/pull/68)"
 
     Teaching, FAIR-Minded Resources, and Community:
-      - label: Bioimage Analysis Fundamentals Workshop (2026)
-        details: "Co-organizer and instructor for a 40-hour train-the-trainer course with an asynchronous pre-course. Developed and shared teaching materials through Zenodo for discovery, citation, and reuse: https://doi.org/10.5281/zenodo.18772893"
+      - label: Bioimage Analysis Fundamentals Workshop - Train-the-Trainer(2026)
+        details: "Designer, Co-organizer and instructor for a 40-hour train-the-trainer course with an asynchronous pre-course. Developed and shared teaching materials through Zenodo for discovery, citation, and reuse: https://doi.org/10.5281/zenodo.18772893"
       - label: Light Sheet Image Analysis Workshop (2025)
         details: "Co-designed learning outcomes and prepared lectures and hands-on sessions for biologists. Course materials: https://bruvellu.github.io/light-sheet-image-analysis-workshop-2026/"
       - label: AI Tools in Biology and contributor mentorship
@@ -103,8 +103,6 @@ cv:
         details: "Contributed image-analysis workflows to two Open Call 2 projects: SAM-based seabed-image segmentation and Cellpose-based light-sheet cell segmentation. Repositories: https://github.com/ai4life-opencalls/oc_2_project_11 and https://github.com/ai4life-opencalls/oc_2_project_38. Co-authored work on AI4Life open calls and public challenges: https://doi.org/10.64898/2026.07.21.739486"
       - label: GloBIAS
         details: "Co-authored the GloBIAS community paper in Nature Methods and presented at its 2024 workshop on connecting bioimage-analysis networks. Paper: https://doi.org/10.1038/s41592-026-03060-7; slides: https://github.com/GloBIAS-BioimageAnalysts/workshop24_Gothenburg/blob/main/Training_and_Education_Corbat_On_navigating.pptx"
-      - label: University teaching
-        details: "Graduate teaching assistant and chief of practical courses at Universidad de Buenos Aires, covering control, instrumentation, signal processing, and experimental methods."
 
     Education:
       - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
