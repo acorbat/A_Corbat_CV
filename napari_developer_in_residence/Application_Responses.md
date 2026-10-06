@@ -5,7 +5,7 @@ https://github.com/acorbat
 Representative project: https://github.com/acorbat/gulliver
 
 **Availability and commitment**  
-Preferred commitment: 14 hours per week (0.4 FTE). Preferred start: November 2026.
+Preferred commitment: 14 hours per week (0.4 FTE). Preferred start: January 2027.
 
 **Interview availability**  
 Monday through Wednesday, 09:00–17:00 Buenos Aires time (UTC−3), beginning October 7, 2026.
