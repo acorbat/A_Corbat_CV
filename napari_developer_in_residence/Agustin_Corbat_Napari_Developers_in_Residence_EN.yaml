@@ -77,6 +77,21 @@ cv:
           - Built QuPath and Groovy workflows to quantify marker expression across cell populations and measure distances to vessels
           - "Documented the workflow and provided hands-on training for researchers; project: https://biifsweden.github.io/projects/2024/07/10/CharlotteRolny2024-1/"
 
+      - name: MRI segmentation and longitudinal tracking of cavernous lesions in mouse brain
+        date: 2024
+        location: BioImage Informatics Facility, SciLifeLab
+        highlights:
+          - Used napari and its plugins to segment lesions and track their development across mouse-brain MRI scans
+          - Trained machine-learning pixel classifiers with APOC and taught researchers to use napari for image analysis
+          - "Project: https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/"
+
+      - name: TREX - RNA-seq lineage-tracing package
+        date: 2023
+        location: Karolinska Institutet
+        highlights:
+          - Worked with biologists and research software developers to identify and discuss improvements to a Python package that analyzes RNA-seq data for lineage tracing
+          - Formulated proposed code changes as GitHub pull requests, bringing biological needs and software design into the same review process
+
     Teaching, FAIR-Minded Resources, and Community:
       - label: Bioimage Analysis Fundamentals Workshop (2026)
         details: "Co-organizer and instructor for a 40-hour train-the-trainer course with an asynchronous pre-course. Developed and shared teaching materials through Zenodo for discovery, citation, and reuse: https://doi.org/10.5281/zenodo.18772893"
