@@ -102,7 +102,7 @@ cv:
       - label: AI4Life
         details: "Contributed image-analysis workflows to two Open Call 2 projects: SAM-based seabed-image segmentation and Cellpose-based light-sheet cell segmentation. Repositories: https://github.com/ai4life-opencalls/oc_2_project_11 and https://github.com/ai4life-opencalls/oc_2_project_38. Co-authored work on AI4Life open calls and public challenges: https://doi.org/10.64898/2026.07.21.739486"
       - label: GloBIAS
-        details: "Co-authored the GloBIAS community paper in Nature Methods and presented at its 2024 workshop on connecting bioimage-analysis networks. Paper: https://doi.org/10.1038/s41592-026-03060-7; slides: https://github.com/GloBIAS-BioimageAnalysts/workshop24_Gothenburg/blob/main/Training_and_Education_Corbat_On_navigating.pptx"
+        details: "Co-authored the GloBIAS community paper in Nature Methods. Paper: https://doi.org/10.1038/s41592-026-03060-7. Videos: Teaching bioimage analysis for analysts from diverse career backgrounds: https://www.youtube.com/watch?v=uKQ2OsPboi0&t=2s&pp=ygUWYWd1c3RpbiBDb3JiYXQgZ2xvYmlhcw%3D%3D; connecting bioimage-analysis networks: https://www.youtube.com/watch?v=14ZOBSymLds&t=4s&pp=ygUWYWd1c3RpbiBDb3JiYXQgZ2xvYmlhcw%3D%3D"
 
     Education:
       - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
