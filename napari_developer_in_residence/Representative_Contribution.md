@@ -1,8 +1,10 @@
 # Representative Contribution
 
-**GulLiver: a Python workflow for whole-slide liver immunostaining images**  
-Repository: https://github.com/acorbat/gulliver
+**TREX: filtering overrepresented cloneIDs in lineage tracing (PR #55)**  
+Pull request: https://github.com/frisen-lab/TREX/pull/55
 
-I developed GulLiver to make analysis of large liver whole-slide images more systematic and reproducible. The workflow segments and classifies Sox9-positive structures and vascular regions, then quantifies properties such as region area and distances between vessel classes. Its outputs are stored as OME-Zarr so large image data and labels can be handled and inspected without treating an entire slide as a small, in-memory image; the repository documents visualization of those results in napari.
+TREX reconstructs cell lineages from cloneIDs detected in RNA-seq data. Overrepresented or artifactual cloneIDs can affect downstream lineage analysis, so researchers needed a reproducible way to exclude cloneIDs identified during library characterization.
 
-The contribution combined domain-specific image analysis with a usable Python package and command-line workflow. I organized processing into segmentation and quantification steps, made image and label outputs available for inspection, and documented installation and use so collaborators could run the pipeline on their own data. This project reflects how I approach scientific software: translate a concrete user question into a repeatable workflow, preserve the connection between measurements and image data, and make intermediate results inspectable. It is a representative personal software project, not an upstream napari pull request.
+Working with biologists and research software developers, I added a `--filter-cloneids` option to supply an exclusion list and integrated it into the `run10x` workflow. I implemented similarity matching so excluded cloneIDs could still be identified when reads contained missing bases, added tests for matching and filtering, and updated the documentation. The pull request was reviewed and merged.
+
+This contribution translated a biological quality-control need into a configurable, tested change to an open-source analysis pipeline. It reflects how I approach scientific software: make assumptions explicit, validate behavior, and work across scientific and software perspectives.
