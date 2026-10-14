@@ -217,6 +217,7 @@ Experiencia:
     - Realizado del 3 al 7 de agosto de 2026
     - Taller de 40 horas de duración
     - Incluyó un precurso para realizar de forma asincrónica
+    - "Taller completo publicado en Zenodo. DOI: [10.5281/zenodo.22647866](https://doi.org/10.5281/zenodo.22647866)"
   - name: Jefe de Trabajos Prácticos (dedicación exclusiva)
     date: 2026--actual
     location: FCEN, UBA, Buenos Aires, Argentina
@@ -293,7 +294,7 @@ Experiencia:
       proyecto de desarrollo tecnológico.
     - El proyecto consistía en utilizar una Raspberry Pi para tomar imágenes y advertir
       a un conductor de un vehículo.
-  - name: Supervisión de estudiantes de Laboratorio 6
+  - name: Supervisión de estudiantes de Laboratorio 6 y 7
     date: 2025--2026
     location: Facultad de Ciencias Exactas y Naturales, U.B.A.
     description:

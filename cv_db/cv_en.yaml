@@ -248,6 +248,7 @@ Experience:
     - Held from August 3 to 7, 2026
     - 40-hour workshop
     - Included an asynchronous pre-course
+    - "Full Workshop Published in Zenodo. DOI: [10.5281/zenodo.22647866](https://doi.org/10.5281/zenodo.22647866)"
   - name: Chief of Practicals (exclusive dedication)
     date: 2026--actual
     location: FCEN, UBA, Buenos Aires, Argentina
@@ -326,7 +327,7 @@ Experience:
     - As a high school capstone project, students developed a technology project.
     - The project involved using a Raspberry Pi to capture images and alert a vehicle
       driver.
-  - name: Laboratorio 6 Student Supervision
+  - name: Laboratorio 6 and 7 Student Supervision
     date: 2025--2026
     location: Facultad de Ciencias Exactas y Naturales, University of Buenos Aires
     description:
