@@ -128,11 +128,11 @@ cv:
 
     Experiencia en Investigación:
       - company: Instituto de Física de Buenos Aires, Universidad de Buenos Aires
-        position: Jefe de Trabajos Prácticos dedicacion exclusiva y analista de bioimágenes
+        position: Jefe de Trabajos Prácticos con dedicación exclusiva y analista de bioimágenes
         date: 2025--actual
         location: Buenos Aires, Argentina
         highlights:
-          - Desarrollo de algoritmos y soporte de análisis de imágenes de microscopía; formación mediante supervisión y cursos
+          - Desarrollo de algoritmos y soporte en análisis de imágenes de microscopía, con formación de usuarios mediante supervisión y cursos
           - Consultoría en procesamiento de ultrasonido 3D (Apolo Biotech, 2026), con métodos clásicos basados en transformadas de Fourier y wavelets implementados en Python
       - company: BioImage Informatics Facility (BIIF), SciLifeLab y National Bioinformatics Infrastructure Sweden (NBIS)
         position: Analista de bioimágenes
@@ -140,7 +140,8 @@ cv:
         location: Uppsala, Suecia
         highlights:
           - Desarrollo de flujos de análisis reproducibles para proyectos de investigación de múltiples grupos
-          - Participación en proyectos AI4Life Open Call 2 (proyectos 11 y 38) y en el análisis de imágenes de tejido renal en infección por Candida albicans (2025), segmentación de malformaciones cavernosas en resonancia magnética de cerebro de ratón (2025), ver mas en https://acorbat.github.io
+          - "Proyectos destacados: AI4Life Open Call 2 (proyectos 11 y 38), análisis de imágenes de tejido renal en infección por *Candida albicans* (2025) y segmentación de malformaciones cavernosas en resonancia magnética de cerebro de ratón (2025)"
+          - "Más información en [acorbat.github.io](https://acorbat.github.io)"
       - company: Karolinska Institutet, Departamento de Biología Celular y Molecular
         position: Investigador posdoctoral en biología del desarrollo
         date: 2022--2024
@@ -299,8 +300,8 @@ cv:
     Aporte Esperado para +Visitantes:
       - bullet: Fortalecer la formación de estudiantes de grado y posgrado mediante cursos y talleres prácticos de análisis de bioimágenes, con material abierto y reutilizable.
       - bullet: Impulsar proyectos de investigación aplicados a imágenes que articulen biología, física, computación y ciencia de datos.
-      - bullet: Conectar a la comunidad de la UBA con redes internacionales de análisis de bioimágenes (GloBIAS, LABI).
-      - bullet: Impulsar el rol de analista de bioimagenes como un perfil profesional consolidado, con formación y desarrollo de carrera.
+      - bullet: Vincular a la comunidad de la UBA con redes internacionales de análisis de bioimágenes, como GloBIAS y LABI.
+      - bullet: Promover el rol del analista de bioimágenes como perfil profesional consolidado, con formación específica y desarrollo de carrera.
 
     Idiomas:
       - label: Español
