@@ -1,0 +1,42 @@
+locale:
+  language: es
+  phone_number_format: national
+  page_numbering_template: NAME - Página PAGE_NUMBER de TOTAL_PAGES
+  last_updated_date_template: Actualizado en TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: mes
+  months: meses
+  year: año
+  years: años
+  present: actualidad
+  to: –
+  abbreviations_for_months:
+    - ene
+    - feb
+    - mar
+    - abr
+    - may
+    - jun
+    - jul
+    - ago
+    - sep
+    - oct
+    - nov
+    - dic
+  full_names_of_months:
+    - enero
+    - febrero
+    - marzo
+    - abril
+    - mayo
+    - junio
+    - julio
+    - agosto
+    - septiembre
+    - octubre
+    - noviembre
+    - diciembre
+rendercv_settings:
+  date: '2025-04-03'
+  render_command:
+  bold_keywords: []
