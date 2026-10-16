@@ -141,7 +141,7 @@ cv:
         location: Uppsala, Suecia
         highlights:
           - Desarrollo de flujos de análisis reproducibles para proyectos de investigación de múltiples grupos
-          - "Proyectos destacados: AI4Life Open Call 2 (proyectos 11 y 38), análisis de imágenes de tejido renal en infección por *Candida albicans* (2025) y segmentación de malformaciones cavernosas en resonancia magnética de cerebro de ratón (2025)"
+          - "Proyectos destacados: AI4Life Open Call 2 (proyectos 11 y 38), análisis de imágenes de tejido renal en infección por *Candida albicans* (2025) y segmentación de malformaciones cavernosas en resonancia magnética de cerebro de ratón (2025), entre otros"
           - "Más información en [acorbat.github.io](https://acorbat.github.io)"
       - company: Karolinska Institutet, Departamento de Biología Celular y Molecular
         position: Investigador posdoctoral en biología del desarrollo
@@ -292,7 +292,7 @@ cv:
       - label: Programación
         details: Python, Jupyter, git para versionado y trabajo en equipo, computación de alto rendimiento (HPC), IA agéntica y principios SOLID de programación
       - label: Docencia y ciencia abierta
-        details: Diseño curricular y publicación de materiales de enseñanza en Zenodo y repositorios abiertos
+        details: Diseño curricular y publicación de materiales de enseñanza en Zenodo y repositorios abiertos (FAIR)
 
     Comunidades Científicas:
       - bullet: "**GloBIAS (Global BioImage Analysts' Society):** miembro del Comité de Consejeros Científicos, coautor del artículo fundacional en Nature Methods y miembro de grupos de trabajo."
@@ -308,7 +308,7 @@ cv:
       - label: Español
         details: Lengua materna
       - label: Inglés
-        details: Avanzado (First Certificate in English, IGCSE; docencia e investigación en inglés en Suecia)
+        details: Avanzado (First Certificate in English, IGCSE)
       - label: Francés
         details: Básico (DELF A1)
 
