@@ -52,18 +52,23 @@ cv:
         highlights:
           - Laboratorio 3 (curso de verano, 20 horas semanales)
       - company: Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
-        position: Ayudante de Primera y Ayudante de Segunda
-        date: 2015--2021
+        position: Ayudante de Primera, dedicación simple
+        date: 2017--2021
         location: Buenos Aires, Argentina
         highlights:
-          - "Ayudante de Primera (2017-2021): Instrumentación y Control, Laboratorio 3, Laboratorio 5, Microscopía Óptica y de Fluorescencia I y Física 1 para Biólogos y Geólogos"
-          - "Ayudante de Segunda (2015-2017): Física 1 y 2 para Biólogos y Geólogos, Laboratorio 1 para Químicos y Laboratorio 5"
-      - company: Karolinska Institutet, SLU, Universidad de Gotemburgo y Uppsala Universitet
-        position: Docente invitado, facilitador y ayudante en cursos de microscopía, análisis de bioimágenes e inteligencia artificial
-        date: 2024--2025
-        location: Estocolmo, Gotemburgo y Uppsala, Suecia
+          - Instrumentación y Control, Laboratorio 3, Laboratorio 5, Microscopía Óptica y de Fluorescencia I y Física 1 para Biólogos y Geólogos (10 horas semanales)
+      - company: Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
+        position: Ayudante de Segunda, dedicación simple
+        date: 2015--2017
+        location: Buenos Aires, Argentina
         highlights:
-          - Desarrollo de material de enseñanza para múltiples instituciones suecas (detalle en la sección siguiente)
+          - Física 1 y 2 para Biólogos y Geólogos, Laboratorio 1 para Químicos y Laboratorio 5 (10 horas semanales)
+      - company: Facultad de Ciencias Biomédicas, Hospital Universitario Austral
+        position: Ayudante de Segunda
+        date: 2010
+        location: Buenos Aires, Argentina
+        highlights:
+          - Medicina Celular y Molecular (10 horas semanales)
 
     Diseño y Dictado de Cursos Internacionales:
       - name: Taller de Fundamentos en Análisis de Bioimágenes (Formación de Formadores), Universidad de Buenos Aires, Buenos Aires, Argentina
@@ -123,19 +128,19 @@ cv:
 
     Experiencia en Investigación:
       - company: Instituto de Física de Buenos Aires, Universidad de Buenos Aires
-        position: Investigador posdoctoral y analista de bioimágenes
-        date: 2024--actual
+        position: Jefe de Trabajos Prácticos dedicacion exclusiva y analista de bioimágenes
+        date: 2025--actual
         location: Buenos Aires, Argentina
         highlights:
           - Desarrollo de algoritmos y soporte de análisis de imágenes de microscopía; formación mediante supervisión y cursos
-          - Consultoría en procesamiento de ecografías 3D (Apolo Biotech, 2026), con métodos clásicos basados en transformadas de Fourier y wavelets implementados en Python
+          - Consultoría en procesamiento de ultrasonido 3D (Apolo Biotech, 2026), con métodos clásicos basados en transformadas de Fourier y wavelets implementados en Python
       - company: BioImage Informatics Facility (BIIF), SciLifeLab y National Bioinformatics Infrastructure Sweden (NBIS)
         position: Analista de bioimágenes
         date: 2024--2025
         location: Uppsala, Suecia
         highlights:
-          - Desarrollo de flujos de análisis reproducibles para proyectos de investigación de múltiples grupos, incluida la segmentación de malformaciones cavernosas en resonancia magnética de cerebro de ratón (2024)
-          - Participación en proyectos AI4Life Open Call 2 (proyectos 11 y 38) y en el análisis de imágenes de tejido renal en infección por Candida albicans (2025)
+          - Desarrollo de flujos de análisis reproducibles para proyectos de investigación de múltiples grupos
+          - Participación en proyectos AI4Life Open Call 2 (proyectos 11 y 38) y en el análisis de imágenes de tejido renal en infección por Candida albicans (2025), segmentación de malformaciones cavernosas en resonancia magnética de cerebro de ratón (2025), ver mas en https://acorbat.github.io
       - company: Karolinska Institutet, Departamento de Biología Celular y Molecular
         position: Investigador posdoctoral en biología del desarrollo
         date: 2022--2024
@@ -151,6 +156,43 @@ cv:
           - "Técnicas de espectroscopía de correlación aplicadas a la propagación de señales intra e intercelulares (director: Dr. Hernán E. Grecco)"
 
     Publicaciones Destacadas:
+      - title: "AI4Life Open Calls and Public Challenges: why, how, and what we have learned"
+        authors:
+          - Vera Galinova
+          - Mehdi Seifi
+          - Beatriz Serrano Solano
+          - Kristina Lidayova
+          - Damian Dalle Nogare
+          - "***Agustín A. Corbat***"
+          - Joshua Talks
+          - Edoardo Giacomello
+          - Estibaliz Gomez-de-Mariscal
+          - Mariana Gomes Ferreira
+          - Caterina Fuster-Barcelo
+          - Juan Manuel Battagliotti
+          - Carlos Garcia-Lopez-de-Haro
+          - Benjamin Salmon
+          - Melisande Croft
+          - Si Young Yie
+          - Guillermo Rey-Paniagua
+          - Xiaotian Hu
+          - Sungjun Cho
+          - Aagam Sheth
+          - Chhayansh Porwal
+          - Xiaomeng Li
+          - AI4Life Consortium
+          - Ricardo Henriques
+          - Xinyang Li
+          - Alexander Krull
+          - Anna Klemm
+          - Arrate Munoz Barrutia
+          - Anna Kreshuk
+          - Wei Ouyang
+          - Florian Jug
+          - Joran Deschamps
+        doi: 10.64898/2026.07.21.739486
+        journal: bioRxiv
+        date: 2026-01
       - title: "GloBIAS: strengthening the foundations of bioimage analysis"
         authors:
           - "***Agustín A. Corbat***"
@@ -186,6 +228,15 @@ cv:
         journal: npj Digital Medicine
         date: 2026-01
 
+      - title: Reproducibility assessment of a published cell shape transition analysis workflow
+        authors:
+          - Esteban A. Miglietta
+          - An-Chi Luo
+          - "***Agustín A. Corbat***"
+          - Shao-Chun Hsu
+        doi: 10.1111/jmi.70143
+        journal: Journal of Microscopy
+        date: 2026-01
       - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
         authors:
           - Sandra de Haan
@@ -224,8 +275,6 @@ cv:
         journal: Journal of Cell Science
         date: 2025-01
 
-
-
     Dirección y Mentoría de Estudiantes:
       - bullet: "**Estudiantes de Laboratorio 6 y 7, FCEN-UBA (2025-2026):** supervisión de pasantías de grado en física; proyecto sobre cómo las capacidades del microscopio afectan la estimación de parámetros FRAP."
       - bullet: "**Estudiante de Maestría, Karolinska Institutet (2024):** proyecto de 4 meses sobre progenitores hepáticos embrionarios."
@@ -235,24 +284,23 @@ cv:
 
     Competencias Técnicas:
       - label: Modalidades de imagen
-        details: Microscopías variadas y multidimensionales (fluorescencia, anisotropía, lámina de luz), resonancia magnética nuclear, ecografía 3D e imágenes de cámaras
+        details: "Microscopía óptica y de fluorescencia (epifluorescencia, confocal, multidimensional, lámina de luz); microscopías avanzadas (FRET, correlación de fluorescencia); resonancia magnética nuclear; ultrasonido 3D; imágenes de cámaras"
       - label: Análisis de imágenes
-        details: Segmentación, cuantificación y flujos reproducibles con métodos clásicos y aprendizaje automático
-      - label: Lenguajes y herramientas
-        details: Python, Jupyter, GitHub, redes neuronales y aprendizaje profundo, computación de alto rendimiento (HPC), LaTeX
+        details: Segmentación, cuantificación y flujos reproducibles con métodos clásicos, aprendizaje automático y profundo
+      - label: Programación
+        details: Python, Jupyter, git para versionado y trabajo en equipo, computación de alto rendimiento (HPC), IA agéntica y principios SOLID de programación
       - label: Docencia y ciencia abierta
         details: Diseño curricular y publicación de materiales de enseñanza en Zenodo y repositorios abiertos
 
-    Vinculación Institucional y Colaboraciones:
-      - bullet: "**GloBIAS (Global BioImage Analysts' Society):** miembro del Comité de Consejeros Científicos y coautor del artículo fundacional en Nature Methods."
-      - bullet: "**Suecia:** Karolinska Institutet, SLU, Uppsala Universitet, Universidad de Gotemburgo, SciLifeLab y NBIS."
-      - bullet: "**América Latina:** Universidad Mayor (Chile), KhipuX (Ecuador), Instituto Pasteur de Montevideo (Uruguay), Fundación Instituto Leloir y FCEN-UBA (Argentina)."
-      - bullet: "**Interdisciplina:** trabajo conjunto con grupos de biología del desarrollo, biología celular, física, computación y ciencia de datos."
+    Comunidades Científicas:
+      - bullet: "**GloBIAS (Global BioImage Analysts' Society):** miembro del Comité de Consejeros Científicos, coautor del artículo fundacional en Nature Methods y miembro de grupos de trabajo."
+      - bullet: "**Latin America Bioimaging (LABI):** miembro activo del grupo de trabajo de Image Data Science."
 
     Aporte Esperado para +Visitantes:
       - bullet: Fortalecer la formación de estudiantes de grado y posgrado mediante cursos y talleres prácticos de análisis de bioimágenes, con material abierto y reutilizable.
       - bullet: Impulsar proyectos de investigación aplicados a imágenes que articulen biología, física, computación y ciencia de datos.
-      - bullet: Conectar a la comunidad de la UBA con redes internacionales de análisis de bioimágenes (GloBIAS, instituciones suecas y latinoamericanas).
+      - bullet: Conectar a la comunidad de la UBA con redes internacionales de análisis de bioimágenes (GloBIAS, LABI).
+      - bullet: Impulsar el rol de analista de bioimagenes como un perfil profesional consolidado, con formación y desarrollo de carrera.
 
     Idiomas:
       - label: Español
