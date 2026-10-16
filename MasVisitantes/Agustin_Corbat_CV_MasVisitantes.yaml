@@ -66,58 +66,58 @@ cv:
           - Desarrollo de material de enseñanza para múltiples instituciones suecas (detalle en la sección siguiente)
 
     Diseño y Dictado de Cursos Internacionales:
-      - name: Taller de Fundamentos en Análisis de Bioimágenes (Formación de Formadores)
+      - name: Taller de Fundamentos en Análisis de Bioimágenes (Formación de Formadores), Universidad de Buenos Aires, Buenos Aires, Argentina
         date: 2026-08
-        location: FCEN, Universidad de Buenos Aires, Argentina
+        location: Buenos Aires, Argentina
         highlights:
           - Organización y dictado de un taller de 40 horas con precurso asincrónico (3 al 7 de agosto de 2026)
           - "Taller completo publicado como recurso abierto en Zenodo: [10.5281/zenodo.22647866](https://doi.org/10.5281/zenodo.22647866)"
-      - name: Jornada de Análisis de Imágenes
+      - name: Jornada de Análisis de Imágenes, Universidad de Buenos Aires, Buenos Aires, Argentina
         date: 2026
-        location: FCEN, Universidad de Buenos Aires, Argentina
+        location: Buenos Aires, Argentina
         highlights:
           - Organización integral de una jornada completa, con charla plenaria, dos sesiones de proyectos y consultas, y el taller "Del pixel a la cuantificación"
-      - name: KhipuX Quito 2026, Introduction to Bioimage Analysis
+      - name: Introduction to Bioimage Analysis, KhipuX Quito 2026, Quito, Ecuador
         date: 2026
         location: Quito, Ecuador
         highlights:
           - Instructor del taller "Introduction to Bioimage Analysis" y mentor de estudiantes jóvenes
           - Panelista en "Building regional capacity in AI for bio and medical imaging"
           - "Material abierto en Zenodo ([diapositivas](https://doi.org/10.5281/zenodo.18717815) y [material](https://doi.org/10.5281/zenodo.18772893))"
-      - name: Microscopía Óptica y de Fluorescencia, clase de Imagen Digital
+      - name: Microscopía Óptica y de Fluorescencia (clase de Imagen Digital), Instituto Pasteur de Montevideo, Montevideo, Uruguay
         date: 2026
-        location: Instituto Pasteur de Montevideo, Uruguay
+        location: Montevideo, Uruguay
         highlights:
           - "Clase sobre imagen digital dentro del curso de Microscopía Óptica y de Fluorescencia. Material: [zenodo.org/records/20126291](https://zenodo.org/records/20126291)"
-      - name: Light Sheet Image Analysis Workshop (co-organizador)
+      - name: Light Sheet Image Analysis Workshop (co-organizador), Universidad Mayor, Santiago, Chile
         date: 2025
-        location: Universidad Mayor, Santiago de Chile
+        location: Santiago, Chile
         highlights:
           - Curso de 1 semana. Participación en el diseño del cronograma y de los contenidos, y diseño de 3 clases teóricas y 2 talleres prácticos
-      - name: Fundamentos de Microscopía Óptica, Imagen Digital e Introducción al Análisis de Bioimágenes
+      - name: Fundamentos de Microscopía Óptica (Imagen Digital e Introducción al Análisis de Bioimágenes), Fundación Instituto Leloir, Buenos Aires, Argentina
         date: 2025
-        location: Fundación Instituto Leloir, Buenos Aires, Argentina
+        location: Buenos Aires, Argentina
         highlights:
           - "Profesor invitado: dos clases teóricas y dos prácticos. Material: [Zenodo](https://zenodo.org/records/16920518), [Zenodo](https://zenodo.org/records/16920046)"
-      - name: AI Tools in Biology
+      - name: AI Tools in Biology, Swedish University of Agricultural Sciences (SLU), Uppsala, Suecia
         date: 2025
-        location: Swedish University of Agricultural Sciences (SLU), Suecia
+        location: Uppsala, Suecia
         highlights:
           - "Profesor invitado en un curso de 3 semanas: seminario teórico-práctico sobre inteligencia artificial en análisis de bioimágenes. Material: [Zenodo](https://zenodo.org/records/15393775)"
-      - name: Microscopy, Improve Your Imaging Skills - From Sample Preparation to Image Analysis
+      - name: Microscopy, Improve Your Imaging Skills - From Sample Preparation to Image Analysis, Karolinska Institutet, Estocolmo, Suecia
         date: 2024--2025
-        location: Live Cell Imaging Facility, Karolinska Institutet, Estocolmo, Suecia
+        location: Estocolmo, Suecia
         highlights:
           - Facilitador (2024) y profesor invitado (2025) en un curso intensivo de 3 semanas sobre diseño experimental en microscopía y análisis de imágenes
           - "[Video del curso](https://www.youtube.com/watch?v=tqiq2wKrMLY)"
-      - name: Introducción al análisis de bioimágenes
+      - name: Introducción al análisis de bioimágenes, Universidad de Gotemburgo, Gotemburgo, Suecia
         date: 2024
-        location: Center for Cellular Imaging, Universidad de Gotemburgo, Suecia
+        location: Gotemburgo, Suecia
         highlights:
           - Profesor invitado en un curso intensivo de 1 semana, orientado a biología
-      - name: Neural Networks and Deep Learning
+      - name: Neural Networks and Deep Learning, Uppsala Universitet (NBIS), Uppsala, Suecia
         date: 2024
-        location: National Bioinformatics Infrastructure Sweden (NBIS), Uppsala Universitet, Suecia
+        location: Uppsala, Suecia
         highlights:
           - Ayudante en un curso intensivo de 1 semana sobre diseño de redes neuronales
 
