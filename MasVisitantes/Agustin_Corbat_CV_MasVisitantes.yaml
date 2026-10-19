@@ -294,8 +294,9 @@ cv:
       - label: Docencia y ciencia abierta
         details: Diseño curricular y publicación de materiales de enseñanza en Zenodo y repositorios abiertos (FAIR)
 
-    Comunidades Científicas:
-      - bullet: "**GloBIAS (Global BioImage Analysts' Society):** miembro del Comité de Consejeros Científicos, coautor del artículo fundacional en Nature Methods y miembro de grupos de trabajo."
+    Comunidades Científicas y Servicio Editorial:
+      - bullet: "**GloBIAS (Global BioImage Analysts' Society):** miembro del Comité de Consejeros Científicos, coautor del artículo fundacional en *Nature Methods* y participante en grupos de trabajo."
+      - bullet: "**Editor Invitado (2026):** editor invitado de la edición especial *Focus on the methods reproducibility of bioimage analysis* de *Journal of Microscopy*, como parte del grupo de trabajo de Publicaciones de GloBIAS. [Editorial asociado](https://doi.org/10.1111/jmi.70188)."
       - bullet: "**Latin America Bioimaging (LABI):** miembro activo del grupo de trabajo de Image Data Science."
 
     Aporte Esperado para +Visitantes:
