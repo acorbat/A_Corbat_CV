@@ -371,6 +371,12 @@ Experiencia:
     - Medicina Celular y Molecular
     - 10 horas semanales
   Profesionales:
+  - name: Editor invitado, Journal of Microscopy
+    date: '2026'
+    location: GloBIAS
+    description:
+    - Editor invitado de la edición especial *Focus on the methods reproducibility
+      of bioimage analysis* como parte del grupo de trabajo de Publicaciones de GloBIAS.
   - name: Pipeline de eliminación de ruido por reverberación en ecografías
     date: 2026-04--2026-06
     location: Apolo biotech, Argentina
@@ -400,6 +406,13 @@ Experiencia:
     - ST4407, Colaboración con Y-Tec, Petrografía Digital
 Producción:
   Publicaciones:
+  - title: Focus on the methods reproducibility of bioimage analysis
+    date: '2026'
+    journal: Journal of Microscopy
+    authors: Kota Miura, Christa G. Walther, Elnaz Fazeli, '**Agustin A. Corbat**',
+      Paula Sampaio, Rocco D'Antuono
+    description:
+    - 'doi: https://doi.org/10.1111/jmi.70188'
   - title: 'In utero barcoding of mouse mesoderm reveals the clonal architecture of organ mesenchyme'
     date: '2026'
     journal: bioRxiv

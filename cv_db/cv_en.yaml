@@ -206,6 +206,12 @@ Experience:
     description:
     - 'Advisor: Dr. Jorge B. Aquino'
   Professional:
+  - name: Guest Editor, Journal of Microscopy
+    date: '2026'
+    location: GloBIAS
+    description:
+    - Served as Guest Editor for the special issue *Focus on the methods reproducibility
+      of bioimage analysis* as part of the Publications work group at GloBIAS.
   - name: Ultrasound Reverberation Noise Removal Pipeline
     date: 2026-04--2026-06
     location: Apolo biotech, Argentina
@@ -409,6 +415,13 @@ Experience:
     - 10 weekly hours
 Production:
   Publications:
+  - title: Focus on the methods reproducibility of bioimage analysis
+    date: '2026'
+    journal: Journal of Microscopy
+    authors: Kota Miura, Christa G. Walther, Elnaz Fazeli, '**Agustin A. Corbat**',
+      Paula Sampaio, Rocco D'Antuono
+    description:
+    - 'doi: https://doi.org/10.1111/jmi.70188'
   - title: 'In utero barcoding of mouse mesoderm reveals the clonal architecture of organ mesenchyme'
     date: '2026'
     journal: bioRxiv
