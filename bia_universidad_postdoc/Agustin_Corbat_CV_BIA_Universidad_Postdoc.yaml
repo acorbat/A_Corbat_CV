@@ -1,0 +1,166 @@
+cv:
+  name: Agustín A. Corbat
+  location: Buenos Aires, Argentina
+  email: acorbat.bia@gmail.com
+  phone:
+  website: https://acorbat.github.io
+  social_networks:
+    - network: LinkedIn
+      username: agustin-andres-corbat
+    - network: GitHub
+      username: acorbat
+
+  sections:
+    Resumen Profesional:
+      - "**Doctor en Ciencias Físicas (PhD), con formación troncal en Medicina y experiencia en microscopía cuantitativa, visión por computadora e inteligencia artificial aplicada a flujos reproducibles.** Trabajo con equipos interdisciplinarios para convertir preguntas biológicas y clínicas en métricas robustas y análisis útiles para la toma de decisiones. Diseño y documento con Git flujos para imágenes 2D/3D y de gran escala (lámina completa, OME-Zarr), y capacito usuarios. **Participo activamente en LABI y GloBIAS, donde desarrollo y comparto materiales de formación abiertos y alineados con principios FAIR. En Karolinska Institutet y SciLifeLab adquirí experiencia articulando inversores, grupos de investigación y equipos interdisciplinarios para acordar objetivos comunes y alcanzarlos.**"
+
+    Competencias Clave:
+      - label: Análisis de bioimágenes
+        details: "Segmentación clásica y con aprendizaje automático y profundo (Cellpose, StarDist, U-Net, SAM); extracción de características, morfometría, fenotipado cuantitativo, análisis espacial y control de calidad"
+      - label: Modalidades y datos
+        details: "Microscopía de fluorescencia de campo amplio y confocal, de lámina de luz e imágenes de lámina completa; resonancia magnética (MRI) y tomografía computada (CT); datos multiplex y series temporales"
+      - label: Programación, arquitectura y reproducibilidad
+        details: "Python (NumPy, pandas, scikit-image, scikit-learn, PyTorch), Jupyter, QuPath, Fiji y napari; diseño modular, principios SOLID, documentación técnica, ciclo de vida del desarrollo de software y colaboración con Git/GitHub"
+      - label: Ingeniería de software e IA agéntica
+        details: "Desarrollo guiado por pruebas, validación de flujos de trabajo, diseño de entornos de ejecución y contexto para agentes, y orquestación de herramientas para asistentes reproducibles"
+      - label: Transferencia y soporte
+        details: "Consultoría para equipos interdisciplinarios, definición de indicadores clave de desempeño (KPI) y mentoría"
+
+    Experiencia Profesional Relevante:
+      - company: Centro de Microscopías Avanzadas, Universidad de Buenos Aires
+        position: Analista de bioimágenes
+        date: 2024--actual
+        location: Buenos Aires, Argentina
+        highlights:
+          - Desarrollo y soporte de flujos de análisis para diversas modalidades de microscopía, con foco en robustez, trazabilidad y mantenimiento
+          - Asesoramiento en diseño experimental, métricas cuantitativas y estadística
+          - Docencia en materias y diseño de cursos de análisis de bioimágenes
+
+      - company: BioImage Informatics Facility (BIIF), SciLifeLab y NBIS
+        position: Analista de bioimágenes
+        date: 2024--2025
+        location: Uppsala, Suecia
+        highlights:
+          - Consultoría técnica en proyectos biomédicos, tanto en investigación académica como en la industria
+          - Implementación de flujos reproducibles con Python, napari, QuPath y Fiji, documentados para facilitar su mantenimiento y reutilización
+          - Diseño de cursos y talleres de análisis de bioimágenes para posgrado
+
+      - company: Karolinska Institutet
+        position: Investigador posdoctoral en biología del desarrollo
+        date: 2022--2024
+        location: Estocolmo, Suecia
+        highlights:
+          - Cuantificación de imágenes de microscopía confocal y de whole slide para estudiar el destino celular
+          - Diseño y validación de estrategias de análisis para responder hipótesis biológicas
+          - "Distinciones y financiación: Sello de Excelencia de las Acciones Marie Skłodowska-Curie y apoyo del Consejo Sueco de Investigación (Vetenskapsrådet)"
+
+    Proyectos Destacados:
+      - name: "Perfilado espacial de la interacción huésped-patógeno en riñón (*Candida albicans*)"
+        date: 2025
+        location: BIIF, SciLifeLab
+        highlights:
+          - Flujo de análisis de inmunofluorescencia multiplex e imágenes de whole slide
+          - Registro con elastix, uso de OME-Zarr para datos de gran escala y análisis espacial cuantitativo
+          - "Proyecto: https://biifsweden.github.io/projects/2025/02/25/PerLjungdahl2025-1/"
+
+      - name: Segmentación de malformaciones cavernosas en resonancia magnética (MRI) de cerebro de ratón
+        date: 2024
+        location: BIIF, SciLifeLab
+        highlights:
+          - Preprocesamiento de MRI, registro, segmentación asistida por aprendizaje automático y profundo, y validación de desempeño
+          - "Proyecto: https://biifsweden.github.io/projects/2024/09/01/PeetraMagnusson2024-1/"
+
+      - name: Fenotipado cuantitativo de macrófagos asociados a tumores (TAM) perivasculares en metástasis
+        date: 2024
+        location: BIIF, SciLifeLab
+        highlights:
+          - Flujo de análisis en QuPath y Groovy para anotación y medición escalables
+          - Documentación y capacitación de usuarios para adopción efectiva
+          - "Proyecto: https://biifsweden.github.io/projects/2024/07/10/CharlotteRolny2024-1/"
+
+    Liderazgo y Comunidad Profesional:
+      - label: GloBIAS (Global BioImage Analysts' Society)
+        details: "Miembro desde las etapas fundacionales; lideré el grupo de trabajo que presentó la sociedad a la comunidad en Nature Methods"
+      - label: Encuesta global de análisis de bioimágenes
+        details: "Colideré la encuesta internacional de la comunidad, cuyo trabajo está en publicación en Journal of Microscopy, y soy editor invitado del número especial asociado"
+      - label: Latin America Bioimaging
+        details: "Participo activamente en la red regional, en particular en el grupo de Image Data Science"
+
+    Enseñanza y Cursos:
+      - label: Taller de Fundamentos en Análisis de Bioimágenes - Formación de Formadores (Organizador y docente)
+        details: "Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Argentina (3 al 7 de agosto de 2026) - Taller de 40 horas con material preparatorio asincrónico; organización académica e impartición"
+      - label: Light Sheet Image Analysis Workshop (Co-organizador)
+        details: "Universidad Mayor, Santiago de Chile (2025) - Curso intensivo de 1 semana; diseño de cronograma y objetivos de aprendizaje; dictado de 3 clases teóricas y 2 talleres prácticos"
+      - label: I2K 2024 - Images to Knowledge (Workshop)
+        details: "Human Technopole, Milán, Italia (2024) - Taller de 90 minutos sobre herramientas y enfoques para imágenes de tejidos multiplexados y transcriptómica espacial"
+      - label: Live Cell Imaging (LCI) - Karolinska Institutet (Docente invitado y facilitador)
+        details: "Karolinska Institutet, Estocolmo, Suecia (2025) - Curso intensivo con contenidos teórico-prácticos de microscopía y análisis de imágenes aplicados a la biología"
+
+    Publicaciones Seleccionadas:
+      - title: "AI4Life Open Calls and Public Challenges: why, how, and what we have learned."
+        authors:
+          - Vera Galinova
+          - Mehdi Seifi
+          - Beatriz Serrano Solano
+          - Kristina Lidayova
+          - Damian Dalle Nogare
+          - "***Agustín A. Corbat***"
+          - et al.
+        doi: 10.64898/2026.07.21.739486
+        journal: bioRxiv
+        date: 2026-07
+
+      - title: "GloBIAS: strengthening the foundations of bioimage analysis"
+        authors:
+          - "***Agustín A. Corbat***"
+          - Christa G. Walther
+          - Laura R. de la Ballina
+          - Nicholas D. Condon
+          - et al.
+        doi: 10.1038/s41592-026-03060-7
+        journal: Nature Methods
+        date: 2026-01
+
+      - title: Droplet microfluidics with image texture quantification for detection of rare antibiotic-resistant subpopulations from bloodstream infections
+        authors:
+          - Sagar N. Agnihotri
+          - Nikos Fatsis-Kavalopoulos
+          - Emma Vikdahl
+          - Jonas Windhager
+          - "***Agustín A. Corbat***"
+          - Dan I. Andersson
+          - Maria Tenje
+        doi: 10.1038/s41746-026-02808-x
+        journal: npj Digital Medicine
+        date: 2026-01
+
+      - title: Ectoderm barcoding reveals neural and cochlear compartmentalization
+        authors:
+          - Sandra de Haan
+          - Jingyan He
+          - "***Agustín A. Corbat***"
+          - et al.
+        doi: 10.1126/science.adq9248
+        journal: Science
+        date: 2025-01
+
+    Formación Académica:
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Ciencias Físicas
+        degree: Doctorado
+        start_date: 2016-04
+        end_date: 2021-10
+        location: Buenos Aires, Argentina
+      - institution: Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales
+        area: Ciencias Físicas
+        degree: Licenciatura
+        start_date: 2011-01
+        end_date: 2016-04
+        location: Buenos Aires, Argentina
+      - institution: Hospital Universitario Austral, Facultad de Ciencias Biomédicas
+        area: Medicina
+        degree: Ciclo troncal completo
+        start_date: 2008-01
+        end_date: 2010-12
+        location: Buenos Aires, Argentina
+
