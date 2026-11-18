@@ -537,6 +537,14 @@ Producción:
     - Publicado
     - 'Volumen: 19; Emisión: Junio; Páginas: 210-217; doi: 10.1016/j.redox.2018.07.023'
   Posters y Presentaciones Orales:
+  - title: 'From Diverse Paths to a Common Core: Kickstarting a Bioimage Analysis Curriculum'
+    date: '2026'
+    event: GloBIAS 2026 Workshop
+    location: Dortmund, Alemania
+    authors: '**Corbat, Agustin**'
+    description:
+    - Presentación oral
+    - '[DOI: 10.5281/zenodo.24344770](https://doi.org/10.5281/zenodo.24344770)'
   - title: Droplet microfluidics with image texture quantification for detection of rare
       antibiotic-resistant subpopulations from bloodstream infections
     date: '2026'
